@@ -83,3 +83,11 @@ Jalankan antarmuka Jupyter:
 jupyter notebook
 ```
 atau buka direktori kerja di Visual Studio Code, lalu pilih kernel `.venv` yang telah dibuat.
+
+---
+
+## Daftar Tugas Praktikum
+
+| No | Modul / Tugas | Direktori | Berkas Utama | Deskripsi |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | **Tugas Praktikum 1: Web Scraping & EDA** | `tugas-scrapping-eda/` | [`5054251019_Rasya-Arya-Ramadhan_Tugas_Scrapping_dan_EDA.ipynb`](file:///tugas-scrapping-eda/5054251019_Rasya-Arya-Ramadhan_Tugas_Scrapping_dan_EDA.ipynb)<br>[`5054251019_Rasya-Arya-Ramadhan_Tugas_Scrapping_dan_EDA.pdf`](file:///tugas-scrapping-eda/5054251019_Rasya-Arya-Ramadhan_Tugas_Scrapping_dan_EDA.pdf) | Ekstraksi mandiri 2.000 data hasil ajang Comrades Marathon 2008 dari DUV Ultra Marathon Statistics, pembersihan data, statistik deskriptif, dan visualisasi 9 grafik EDA. |

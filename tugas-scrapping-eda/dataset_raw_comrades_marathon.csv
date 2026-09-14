@@ -1,0 +1,2001 @@
+rank,performance_time,athlete_name,club,nationality,year_of_birth,gender,gender_rank,age_category,category_rank,avg_speed_kmh,age_graded_performance
+1,5:24:47,"Shvetsov, Leonid",Russian,RUS,1969,M,1,M35,1,16.072,5:17:04
+2,5:38:29,"Janicki, Jaroslaw",Mr Price International,POL,1966,M,2,M40,1,15.422,5:25:44
+3,5:39:40,"Muzhingi, Stephen",Formula I Athletic Club,ZIM,1975,M,3,M23,1,15.368,5:39:36
+4,5:42:03,"Kharitonov, Oleg",Mr Price International,RUS,1968,M,4,M40,2,15.261,5:31:40
+5,5:43:07,"Murzin, Grigorii",Nedbank Running Club CG,RUS,1970,M,5,M35,2,15.213,5:36:57
+6,5:47:10,"Mokgadi, Harmans",Nedbank Running Club GN,RSA,1975,M,6,M23,2,15.036,5:47:06
+7,5:48:18,"Mkhize, Mncedisi",Mr Price Running Club ...,RSA,1980,M,7,M23,3,14.987,5:48:18
+8,5:48:42,"Kotov, Vladimir",Mr Price - WP,BLR,1958,M,8,M50,1,14.97,5:11:07
+9,5:50:52,"Oosthuizen, Johannes",Breakthru Midrand Stri...,RSA,1973,M,9,M35,3,14.877,5:48:57
+10,5:53:36,"Mtolo, Willie",Mr Price Running Club ...,RSA,1964,M,10,M40,3,14.762,5:32:00
+11,5:55:59,"Raphotle, Mabule Albert",Mr Price Running Club ...,RSA,1980,M,11,M23,4,14.664,5:55:59
+12,5:57:38,"Sithuba, Melikhaya",Mr Price AC MPL,RSA,1983,M,12,M23,5,14.596,5:57:38
+13,5:59:34,"Memela, Philani",Mr Price Running Club ...,RSA,1972,M,13,M35,4,14.517,5:57:36
+14,5:59:48,"Sesenyamotse, Godfrey",Mr Price Running Club ...,RSA,1974,M,14,M23,6,14.508,5:59:23
+15,6:00:43,"Sokhela, Vuzimuzi (Vuzi)",Mr Price Running Club ...,RSA,1977,M,15,M23,7,14.471,6:00:43
+16,6:01:47,"Khumalo, Prodigal",Mr Price International,ZIM,1982,M,16,M23,8,14.429,6:01:47
+17,6:01:48,"Molapo, Peter Theko",Nedbank Running Club GN,RSA,1978,M,17,M23,9,14.428,6:01:48
+18,6:03:11,"Sosibo, Petros",Mr Price Running Club ...,RSA,1969,M,18,M35,5,14.373,5:56:39
+19,6:04:12,"Moshiywa, Claude",Mr Price Running Club ...,RSA,1974,M,19,M23,10,14.333,6:03:46
+20,6:06:23,"Kelehe, Andrew",Breakthru Midrand Stri...,RSA,1965,M,20,M40,4,14.247,5:46:52
+21,6:07:17,"Noto, Leboka Ernest",Mr Price Running Club ...,LES,1971,M,21,M35,6,14.212,6:02:31
+22,6:09:33,"Chauke, Frans Khangela",Mr Price Running Club ...,RSA,1974,M,22,M23,11,14.125,6:09:07
+23,6:10:10,"Modisenyane, White",Breakthru Midrand Stri...,RSA,1967,M,23,M40,5,14.102,5:58:55
+24,6:10:47,"Zhalybin, Denis",Mr Price International,RUS,1980,M,24,M23,12,14.078,6:10:47
+25,6:13:33,"Beeming, Arthur",Mr Price Running Club ...,RSA,1974,M,25,M23,13,13.974,6:13:07
+26,6:13:51,"Ngubane, Eric",Nedbank Running Club KZN,RSA,1982,M,26,M23,14,13.963,6:13:51
+27,6:14:37,"Nurgalieva, Elena",Mr Price International,RUS,1976,F,1,W23,1,13.934,6:14:37
+28,6:15:52,"Nurgalieva, Olesia",Mr Price International,RUS,1976,F,2,W23,2,13.888,6:15:52
+29,6:16:15,"Kelehe, Gift Kabelo",Breakthru Midrand Stri...,RSA,1981,M,27,M23,15,13.874,6:16:15
+30,6:17:09,"Kanyane, Patrick",Run Walk for Life CG,RSA,1979,M,28,M23,16,13.841,6:17:09
+31,6:17:15,"Mazongolo, Herbert",Toyota AC (CG),RSA,1966,M,29,M40,6,13.837,6:03:02
+32,6:17:41,"Ngomane, Sipho Victor",Mr Price Running Club ...,RSA,1982,M,30,M23,17,13.821,6:17:41
+33,6:17:44,"Muthubi, Peter",Nedbank Running Club GN,RSA,1981,M,31,M23,18,13.819,6:17:44
+34,6:17:45,"Zhirkova, Tatiana",Mr Price International,RUS,1970,F,3,W35,1,13.819,6:14:03
+35,6:18:08,"Davidson, Graham",Mr Price Running Club ...,RSA,1978,M,32,M23,19,13.805,6:18:08
+36,6:18:53,"Nkuna, Thabo",Carlton Athletic Club,RSA,1979,M,33,M23,20,13.777,6:18:53
+37,6:21:15,"Maleka, Radisegwane",Brooks Striders,RSA,1975,M,34,M23,21,13.692,6:20:48
+38,6:22:04,"Tjiane, Charles Dibate",Mr Price Running Club ...,RSA,1974,M,35,M23,22,13.663,6:21:37
+39,6:23:23,"Dlamini, Sipho",Ilanga Athletic Club,RSA,1972,M,36,M35,7,13.616,6:21:17
+40,6:23:38,"de Klerk, Benjamin",New Balance AC GN,RSA,1973,M,37,M23,23,13.607,6:22:32
+41,6:24:29,"Nonyana, Lucas",Nedbank Running Club GN,RSA,1979,M,38,M23,24,13.577,6:24:29
+42,6:24:53,"Hlongwa, Samuel Mandlakhe",Nedbank Running Club KZN,RSA,1970,M,39,M35,8,13.563,6:17:58
+43,6:25:35,"Kgopa, Donald Morwane",Nedbank Running Club GN,RSA,1977,M,40,M23,25,13.538,6:25:35
+44,6:26:10,"Makoetlane, Michael",,RSA,1974,M,41,M23,26,13.517,6:25:03
+45,6:26:52,"Kobeni, Nimrod Dumisani",,RSA,1973,M,42,M35,9,13.493,6:24:45
+46,6:27:42,"Malaka, Moeketsi",Toyota AC (CG),LES,1979,M,43,M23,27,13.464,6:27:42
+47,6:27:51,"Ketshe, Morris Mfanufikile",Nedbank Running Club M...,RSA,1969,M,44,M35,10,13.459,6:18:38
+48,6:27:58,"Mabengeza, Christopher",,RSA,1966,M,45,M40,7,13.455,6:10:19
+49,6:28:08,"Ntuli, Judas",,RSA,1971,M,46,M35,11,13.449,6:23:06
+50,6:28:14,"Dladla, Nkosi Goodwill",,RSA,1977,M,47,M23,28,13.446,6:28:14
+51,6:28:42,"Makhaye, Sandile",Mr Price Running Club ...,RSA,1974,M,48,M23,29,13.429,6:27:35
+52,6:28:44,"Mthembu Cosmos, Bongmusa",Mr Price Running Club ...,RSA,1983,M,49,M23,30,13.428,6:28:44
+53,6:28:53,"Msimango, Bongani",,RSA,1984,M,50,M23,31,13.423,6:28:53
+54,6:28:53,"Bolo, Samuel",,RSA,1977,M,50,M23,31,13.423,6:28:53
+55,6:29:12,"Setumu, Lesiba Ruben",Aerosud Athletic Club,RSA,1968,M,52,M40,8,13.412,6:17:23
+56,6:30:18,"Mateyisi, Tumisang",Mr Price Running Club ...,RSA,1980,M,53,M23,33,13.374,6:30:18
+57,6:30:34,"Xaba, Bhekameva",Kearsney Striders,RSA,1972,M,54,M35,12,13.365,6:27:06
+58,6:30:40,"Mohloli, Rasta Mahlala",Mr Price International,LES,1961,M,55,M45,1,13.362,5:57:42
+59,6:30:47,"Mjadu, Nicholas",Mr Price Running Club ...,RSA,1972,M,56,M35,13,13.358,6:27:19
+60,6:30:49,"Myshlianova, Marina",Russian,RUS,1966,F,4,W40,1,13.357,6:19:11
+61,6:30:52,"Radebe, Teboho Eddie",Nedbank Bloemfontein A...,RSA,1986,M,57,MU23,1,13.355,6:30:52
+62,6:31:08,"Phaladi, Sepitle Raymond",Jeppe Quondam Athletic...,RSA,1982,M,58,M23,34,13.346,6:31:08
+63,6:31:43,"Ngobese, Reginald Vusi",Gauteng Striders,RSA,1966,M,59,M40,9,13.326,6:16:57
+64,6:32:20,"Hinze, Stefan",Germany,GER,1963,M,60,M40,10,13.305,6:08:22
+65,6:33:08,"Kutu, Frans",Nedbank Running Club GN,RSA,1977,M,61,M23,35,13.278,6:33:08
+66,6:33:42,"Shozi, Duncan",KZN Striders Athletic ...,RSA,1971,M,62,M35,14,13.259,6:30:12
+67,6:34:26,"Mdlovu, Lindokuhle",Katlehong Athletic Club,RSA,1978,M,63,M23,36,13.234,6:34:26
+68,6:34:40,"Lekuba, Peter",Mr Price AC MPL,RSA,1969,M,64,M35,15,13.226,6:25:17
+69,6:34:41,"Xolo, Sphiwe",Mr Price Running Club ...,RSA,1979,M,65,M23,37,13.226,6:34:41
+70,6:34:51,"Ahola, Asmo",Finland,FIN,1964,M,66,M40,11,13.22,6:13:49
+71,6:35:14,"Miya, Senzo Magnificent",Mr Price Running Club ...,RSA,1976,M,67,M23,38,13.207,6:35:14
+72,6:35:45,"Nkosi, Clement",Mr Price Running Club ...,RSA,1983,M,68,M23,39,13.19,6:35:45
+73,6:35:57,"Koao, Albert",Nedbank Running Club CG,ZIM,1972,M,69,M35,16,13.183,6:33:47
+74,6:36:06,"Malaza, Ephraim",Khutala Marathon Club,RSA,1971,M,70,M35,17,13.178,6:30:58
+75,6:36:32,"Watson, Aubrey",New Balance AC GN,RSA,1952,M,71,M55,1,13.164,5:38:22
+76,6:37:47,"Mashishi, Samuel",Randburg Harriers,RSA,1985,M,72,MU23,2,13.123,6:37:47
+77,6:37:52,"Mokwalakala, William",Mr Price - VT,RSA,1976,M,73,M23,40,13.12,6:37:52
+78,6:37:58,"Kock, Riaan",Nedbank Running Club E...,RSA,1970,M,74,M35,18,13.117,6:30:49
+79,6:38:01,"Zhalybina, Marina",Mr Price International,RUS,1975,F,5,W23,3,13.115,6:37:59
+80,6:39:20,"Mphahlele, Alpheus Monope",Bonitas Athletic Club GN,RSA,1967,M,75,M40,12,13.072,6:24:17
+81,6:39:46,"Kgoathla, Moses",Northam Platinum Athle...,RSA,1972,M,76,M35,19,13.058,6:36:13
+82,6:39:58,"Moeng, Stephen",Modikwa Marathon Club,RSA,1982,M,77,M23,41,13.051,6:39:58
+83,6:41:13,"Mbokombela, Mthokozisi",Hlabisa Athletics Club,RSA,1984,M,78,M23,42,13.01,6:41:13
+84,6:41:31,"Toerien, Trevor",Boksburg AC,RSA,1965,M,79,M40,13,13.001,6:23:15
+85,6:42:10,"Noluhlazana, Bonginkosi",Dolphin Coast Striders,RSA,1978,M,80,M23,43,12.98,6:42:10
+86,6:42:16,"Nkuna, Thomas",Run Walk for Life CG,RSA,1974,M,81,M23,44,12.976,6:41:07
+87,6:42:28,"Stroebel, William (Wimpie)",Boksburg AC,RSA,1972,M,82,M35,20,12.97,6:40:16
+88,6:43:04,"Makamu, Samuel Mathew",Nelspruit Marathon Club,RSA,1977,M,83,M23,45,12.951,6:43:04
+89,6:43:05,"Ngubelanga, Victor",Nedbank Running Club KZN,RSA,1977,M,84,M23,46,12.95,6:43:05
+90,6:43:31,"van Niekerk, Riana",Mr Price Running Club ...,RSA,1976,F,6,W23,4,12.936,6:43:31
+91,6:43:32,"Peace, Michael",Rand AC,RSA,1964,M,85,M40,14,12.936,6:18:53
+92,6:43:34,"Mabaso, Jabulani Edward",Boxer Superstores Athl...,RSA,1972,M,86,M35,21,12.935,6:41:21
+93,6:43:45,"Michelsson, Magnus",Natal Carbineers AC,AUS,1968,M,87,M35,22,12.929,6:34:09
+94,6:44:01,"Mathobo, Nditsheni Alfred",Nedbank Running Club L...,RSA,1979,M,88,M23,47,12.92,6:44:01
+95,6:44:11,"Matsoso, Samuel",Goldfield Striders,RSA,1966,M,89,M40,15,12.915,6:28:57
+96,6:44:11,"Mdletshe, Mbhekeleni",Goldfields Athletics Club,RSA,1982,M,89,M23,48,12.915,6:44:11
+97,6:44:25,"Nkosi, Vellie",Mr Price AC MPL,RSA,1976,M,91,M23,49,12.907,6:44:25
+98,6:44:33,"Cochrane, Timothy",Australia,AUS,1980,M,92,M23,50,12.903,6:44:33
+99,6:45:02,"Ikaneng, Joseph Koitsioneng",Bonitas Athletic Club GN,RSA,1975,M,93,M23,51,12.888,6:44:58
+100,6:45:25,"Mkansi, Thomas",Carlton Athletic Club,RSA,1975,M,94,M23,52,12.876,6:44:56
+101,6:45:38,"Rambuza, Sibusiso",Rocky Road Runners,RSA,1974,M,95,M23,53,12.869,6:44:28
+102,6:45:49,"Malekele, Lentsa William",Nedbank Bloemfontein A...,RSA,1968,M,96,M35,23,12.863,6:36:10
+103,6:45:52,"Barnes, Greg",Irene Road Running Club,RSA,1968,M,97,M35,24,12.861,6:36:13
+104,6:45:56,"Sosibo, Mbongeni",Nedbank Running Club KZN,RSA,1968,M,98,M40,16,12.859,6:33:36
+105,6:46:17,"Muller, Dieter",Boksburg AC,RSA,1972,M,99,M35,25,12.848,6:42:41
+106,6:46:32,"Mulaudzi, Fhedzisani Roman",Thohoyandou Correction...,RSA,1972,M,100,M35,26,12.84,6:42:55
+107,6:46:41,"Hlatshwayo, Lovers",Mr Price AC MPL,RSA,1981,M,101,M23,54,12.836,6:46:41
+108,6:47:09,"Rynhoud, Glyn",Alberton AC,RSA,1970,M,102,M35,27,12.821,6:41:52
+109,6:47:32,"Mokhele, Knowledge",Mr Price Running Club ...,RSA,1982,M,103,M23,55,12.809,6:47:32
+110,6:48:11,"Matlala, Lucas Johannes",Krugersdorp Road Runners,RSA,1968,M,104,M40,17,12.788,6:35:47
+111,6:48:11,"Khumalo, Peterson",Nedbank Running Club GN,RSA,1968,M,104,M40,17,12.788,6:35:47
+112,6:48:15,"Vaphi, Zwelithini",Germiston Callies Harr...,RSA,1971,M,106,M35,28,12.786,6:44:37
+113,6:48:22,"Ngobese, Senzo Bethwell",Carlton Athletic Club,RSA,1977,M,107,M23,56,12.783,6:48:22
+114,6:49:19,"Zondi, Mdumiseni",Natal Carbineers AC,RSA,1979,M,108,M23,57,12.753,6:49:19
+115,6:49:25,"Skosana, Moeketsi Christopher",Boksburg AC,RSA,1971,M,109,M35,29,12.75,6:44:06
+116,6:49:51,"Matumba, Ntshengedzeni Emmanuel",Eskom Gijimas - LP,RSA,1973,M,110,M35,30,12.736,6:47:36
+117,6:50:00,"Retere, John",Mr Price Running Club ...,RSA,1972,M,111,M35,31,12.732,6:47:45
+118,6:50:16,"Breyntzis, Ben",ADT Athletics Club,RSA,1975,M,112,M23,58,12.723,6:50:12
+119,6:50:40,"Ndwandwe, Welcome",Carlton Athletic Club,RSA,1970,M,113,M35,32,12.711,6:45:20
+120,6:50:41,"Msini, Michael",Golden Reef Road Runne...,RSA,1972,M,114,M35,33,12.711,6:47:02
+121,6:50:59,"Marotola, Taledi Frans",Athletics Club Eersterust,RSA,1972,M,115,M35,34,12.701,6:47:20
+122,6:51:53,"Thwala, Richard",Bonitas Athletic Club GN,RSA,1970,M,116,M35,35,12.673,6:46:32
+123,6:52:11,"Sharman, Ian",United Kingdom,USA,1980,M,117,M23,59,12.664,6:52:11
+124,6:52:45,"Malindi, Simon",Scaw Harriers Athletic...,RSA,1963,M,118,M45,2,12.647,6:24:19
+125,6:52:50,"Burger, Karel Johannes",Boksburg AC,RSA,1980,M,119,M23,60,12.644,6:52:50
+126,6:52:51,"Lebopo, Peter",Nedbank Running Club CG,RSA,1962,M,120,M45,3,12.644,6:24:25
+127,6:53:32,"Bak, Maria",Germany,GER,1959,F,7,W45,1,12.623,6:11:27
+128,6:53:32,"Mtaung, Robert Dumsani",Mr Price Running Club ...,RSA,1973,M,121,M35,36,12.623,6:51:16
+129,6:53:53,"Khotle, James",Driefontein Gold Mine AC,LES,1968,M,122,M35,37,12.612,6:44:02
+130,6:53:58,"Sibiya, Thokozani Rasta",uMhlathuze Athletic Club,RSA,1973,M,123,M35,38,12.61,6:51:42
+131,6:54:11,"Kayana, Emerson",Nedbank Running Club E...,RSA,1974,M,124,M23,61,12.603,6:52:59
+132,6:54:42,"Nzimande, Isaac",Howick Athletic Club,RSA,1970,M,125,M35,39,12.587,6:47:15
+133,6:54:48,"Kgoro, Kelaletse",Kagisano Athletic Club,RSA,1968,M,126,M40,19,12.584,6:42:12
+134,6:55:00,"Motaung, Patasi",SAPS AC - FS,RSA,1976,M,127,M23,62,12.578,6:54:56
+135,6:55:25,"Khotle, Jappie",Nedbank Bloemfontein A...,RSA,1976,M,128,M23,63,12.566,6:55:25
+136,6:55:27,"Retshedisitswe, Abram Hugo",Germiston Callies Harr...,RSA,1978,M,129,M23,64,12.565,6:55:27
+137,6:55:46,"Mphulanyane, Hlonepha Simon",Bonitas Athletic Club GN,RSA,1970,M,130,M35,40,12.555,6:50:22
+138,6:55:54,"Lodim, Anele",Goldfields Athletics Club,RSA,1984,M,131,M23,65,12.551,6:55:54
+139,6:56:36,"Mazibuko, Elvis",Brooks Striders,RSA,1977,M,132,M23,66,12.53,6:56:36
+140,6:57:00,"Mvelase, Nkosinathi",Eskom Gijimas - KZN,RSA,1983,M,133,M23,67,12.518,6:57:00
+141,6:57:26,"Dialwe, Simon",Bonitas Athletic Club GN,RSA,1971,M,134,M35,41,12.505,6:52:01
+142,6:57:30,"Zweni, Vulindlela Petros",Dolphin Coast Striders,RSA,1974,M,135,M23,68,12.503,6:57:00
+143,6:57:37,"Sibiya, Linda",Fit 2000 AC - CG,RSA,1975,M,136,M23,69,12.5,6:57:07
+144,6:57:44,"Mthembu, Xolani Edwin",Verulam AC,RSA,1977,M,137,M23,70,12.496,6:57:44
+145,6:57:51,"Mbumbe, Joseph",Scottburgh Athletic Club,RSA,1974,M,138,M23,71,12.493,6:56:39
+146,6:58:10,"Mthembu, Linda",Hillcrest Villagers AC,RSA,1975,M,139,M23,72,12.483,6:57:40
+147,6:58:13,"Monareng, Meshack",Ilanga Athletic Club,RSA,1973,M,140,M35,42,12.482,6:55:55
+148,6:58:14,"Moqhali, Thabiso",Mr Price Running Club ...,LES,1967,M,141,M40,20,12.481,6:45:32
+149,6:58:43,"Thema, Alpheus",Rocky Road Runners,RSA,1959,M,142,M45,4,12.467,6:16:51
+150,6:59:00,"Nkambule, Abednego",Mr Price AC MPL,RSA,1973,M,143,M35,43,12.458,6:56:42
+151,6:59:08,"Jonck, Johannes",Correc.Services AC - EP,RSA,1973,M,144,M23,73,12.454,6:57:56
+152,6:59:20,"Smith, Lucky",Chatsworth Athletic Club,RSA,1986,M,145,MU23,3,12.448,6:59:20
+153,6:59:27,"Mthimunye, Thomas Charles",Rand Water AC - CG,RSA,1966,M,146,M40,21,12.445,6:40:22
+154,6:59:38,"Gwala, Bonkjokuhle",Maritzburg City Athlet...,RSA,1977,M,147,M23,74,12.439,6:59:38
+155,6:59:40,"Mentoor, Farwa",Bonitas Athletic Club GN,RSA,1973,F,8,W35,2,12.438,6:58:02
+156,6:59:46,"Zote, Vuyani",Rocky Road Runners,RSA,1966,M,148,M40,22,12.435,6:43:57
+157,6:59:54,"Suping, Sello",Syngenta Kroonstad Col...,RSA,1982,M,149,M23,75,12.432,6:59:54
+158,7:00:11,"Botsale, Zacharias Tanki",Goldfields Athletics Club,RSA,1966,M,150,M40,23,12.423,6:44:21
+159,7:00:18,"Ncube, Sipho",Mr Price Running Club ...,ZIM,1971,M,151,M35,44,12.42,6:56:34
+160,7:00:20,"Mfuphi, Paulos",Vultures Athletic Club...,RSA,1977,M,152,M23,76,12.419,7:00:20
+161,7:00:43,"Jobeta, Mosekiemang Duncan",Kagisano Athletic Club,RSA,1964,M,153,M40,24,12.407,6:35:01
+162,7:00:57,"Gxiva, Jongikhaya Jimmy",Ilanga Athletic Club,RSA,1970,M,154,M35,45,12.401,6:55:29
+163,7:01:05,"Witvoet, Zama",Nedbank Running Club WP,RSA,1957,M,155,M50,2,12.397,6:12:27
+164,7:01:20,"Seshoeshoe, Baba",Vaal Reefs Marathon Club,RSA,1966,M,156,M40,25,12.389,6:45:27
+165,7:01:23,"Kweyama, Sobantu",Boxer Superstores Athl...,RSA,1975,M,157,M23,77,12.388,7:00:53
+166,7:01:26,"Khoza, Alfred",Kruger Park Marathon Club,RSA,1966,M,158,M40,26,12.386,6:45:33
+167,7:01:28,"Fana, Principal",Nedbank Running Club SWD,RSA,1968,M,159,M35,46,12.385,6:51:27
+168,7:01:35,"Bhengu, Alson",Maritzburg City Athlet...,RSA,1976,M,160,M23,78,12.382,7:01:35
+169,7:01:48,"Kgosana, Abram Lesibana",Northam Platinum Athle...,RSA,1974,M,161,M23,79,12.376,7:01:18
+170,7:01:53,"Mtshali, Sithembiso Vusumuzi Reginald",Mr Price Running Club ...,RSA,1976,M,162,M23,80,12.373,7:01:48
+171,7:01:53,"Mdyogolou, Thembinkosi",Nedbank Running Club E...,RSA,1968,M,162,M35,47,12.373,6:51:51
+172,7:02:08,"Wicht, Darrell",Raleigh Athletic Tri Club,RSA,1963,M,164,M45,5,12.366,6:33:03
+173,7:02:08,"Train-Austin, Lesley",Boksburg AC,RSA,1974,F,9,W23,5,12.366,7:01:20
+174,7:02:13,"Jobe, Alpheus",Jeppe Quondam Athletic...,RSA,1957,M,165,M50,3,12.363,6:16:43
+175,7:02:14,"Mavura, Peter",Formula I Athletic Club,ZIM,1974,M,166,M23,81,12.363,7:01:44
+176,7:02:15,"Mokoena, David Modupi",Alberton AC,RSA,1970,M,167,M35,48,12.362,6:54:39
+177,7:02:36,"Ahola, Arto",Finland,FIN,1961,M,168,M45,6,12.352,6:30:14
+178,7:02:47,"Ndlovu, Petrus",Onderberg Marathon Club,RSA,1970,M,169,M35,49,12.347,6:55:11
+179,7:03:07,"Ratlhogo, Jacob",New Balance AC GN,RSA,1977,M,170,M23,82,12.337,7:03:07
+180,7:03:21,"Stemmet, Johan",Bonnievale Drawwers Klub,RSA,1974,M,171,M23,83,12.33,7:02:51
+181,7:03:21,"Khumalo, Tshediso Petrus",Harmony Striders Virginia,RSA,1973,M,171,M35,50,12.33,7:01:02
+182,7:03:25,"Shezi, Dumisani",Stonebridge United AC,RSA,1970,M,173,M35,51,12.328,6:55:48
+183,7:03:27,"Khanyi, Reginald",Vodacom Yebo Striders,RSA,1965,M,174,M40,27,12.327,6:44:11
+184,7:03:33,"Bishop, Gregory",Boksburg AC,RSA,1974,M,175,M23,84,12.324,7:03:03
+185,7:03:43,"Ntlou, Saoane",Toyota AC (CG),LES,1969,M,176,M35,52,12.32,6:53:38
+186,7:03:46,"Ngele, Nicholas",Tubatse Marathon Club,RSA,1971,M,177,M35,53,12.318,6:58:16
+187,7:03:50,"Zangwa, Velani",Formula I Athletic Club,RSA,1982,M,178,M23,85,12.316,7:03:50
+188,7:03:52,"Melani, Simphiwe",Nedbank Running Club E...,RSA,1974,M,179,M23,86,12.315,7:02:39
+189,7:04:01,"Shezi, Phakama",Boxer Superstores Athl...,RSA,1964,M,180,M40,28,12.311,6:41:25
+190,7:04:15,"Masiza, Mbhedesho",Eyethu Athletic Club,RSA,1975,M,181,M23,87,12.304,7:04:10
+191,7:04:17,"Mogatle, Kagiso",Goldfields Athletics Club,RSA,1974,M,182,M23,88,12.303,7:03:04
+192,7:04:23,"Cloete, Gareth Andre",Strand Athletic Club,RSA,1972,M,183,M35,54,12.3,7:00:37
+193,7:04:23,"Mkhwanazi, Sabelo",Goldfields Athletics Club,RSA,1976,M,183,M23,89,12.3,7:04:23
+194,7:04:35,"Mashaba, December",Mr Price AC MPL,RSA,1969,M,185,M35,55,12.294,6:56:57
+195,7:04:37,"Magashule, Pienas Mpine",Polokwane Athletic Club,RSA,1963,M,186,M40,29,12.293,6:38:41
+196,7:04:39,"Bhengu, Wiseman Sipho",Eskom Gijimas - KZN,RSA,1973,M,187,M35,56,12.292,7:02:19
+197,7:04:52,"Saaiers, Julies",Nedbank Running Club SWD,RSA,1969,M,188,M35,57,12.286,6:57:14
+198,7:04:53,"Velaphi, Zamixolo",Goldfields Athletics Club,RSA,1976,M,189,M23,90,12.286,7:04:53
+199,7:04:57,"Mnguni, Thabo",Eskom Gijimas - MPL,RSA,1978,M,190,M23,91,12.284,7:04:57
+200,7:05:09,"Sithole, Thulasizwe",Newlands Athletic Club,RSA,1974,M,191,M23,92,12.278,7:03:56
+201,7:05:17,"Kgopodimetsi, Thuso Enoch",Taung Athletics Club,RSA,1974,M,192,M23,93,12.274,7:04:47
+202,7:05:23,"Mchunu, Phillip",Collegians Harriers,RSA,1970,M,193,M35,58,12.271,6:59:52
+203,7:05:30,"Mthiyane, Lawrence Senzekuphi",Run Walk for Life KZN,RSA,1980,M,194,M23,94,12.268,7:05:30
+204,7:05:35,"Ruhe, Michael",United States,USA,1968,M,195,M35,59,12.266,6:55:28
+205,7:06:22,"Mbonambi, Thembinkosi",Ubunye Athletic Club,RSA,1967,M,196,M40,30,12.243,6:50:18
+206,7:06:34,"Motau, Stephen",Nedbank Running Club GN,RSA,1966,M,197,M40,31,12.237,6:47:10
+207,7:06:36,"Ngobese, Bongani",Newcastle Harriers Club,RSA,1974,M,198,M23,95,12.236,7:06:06
+208,7:06:41,"Loliwe, Welcome",Nedbank Running Club E...,RSA,1964,M,199,M40,32,12.234,6:43:57
+209,7:06:42,"Majahe, Simon Wageng",Nedbank Bloemfontein A...,RSA,1979,M,200,M23,96,12.233,7:06:42
+210,7:06:48,"Cloete, Dirk",Irene Road Running Club,RSA,1967,M,201,M40,33,12.231,6:53:50
+211,7:06:51,"Maluleke, Hlanganani Thomas",Randburg Harriers,RSA,1973,M,202,M35,60,12.229,7:04:31
+212,7:06:53,"Shabalala, Ncani William",Gauteng Striders,RSA,1966,M,203,M40,34,12.228,6:47:28
+213,7:06:58,"Mabussuane, Antonio",Rand AC,RSA,1971,M,204,M35,61,12.226,7:01:25
+214,7:06:58,"Tsunyane, Molato Sabastien",Lonmin Platinum Marath...,RSA,1984,M,204,M23,97,12.226,7:06:58
+215,7:07:02,"Hadebe, Denzyll Siyabonga",Natal Carbineers AC,RSA,1979,M,206,M23,98,12.224,7:07:02
+216,7:07:18,"Masehle, Tebogo",Sasolburg AC - FS,RSA,1984,M,207,M23,99,12.216,7:07:18
+217,7:07:21,"Khumalo, Mphakanyiswa",Newlands Striders,RSA,1984,M,208,M23,100,12.215,7:07:21
+218,7:07:36,"Mahlake, Isaac",Powerade Athletic Club,RSA,1977,M,209,M23,101,12.208,7:07:36
+219,7:07:46,"Bosman, Armand",Benoni Northerns Athle...,RSA,1971,M,210,M35,62,12.203,7:02:13
+220,7:07:56,"Siwela, Handsome",Lonehill Road Runners,RSA,1971,M,211,M35,63,12.198,7:02:23
+221,7:07:59,"Lekalakala, Stephen",Vodacom Yebo Striders,RSA,1969,M,212,M35,64,12.197,6:57:48
+222,7:08:02,"Habe, Siyabonga",Mr Price - WP,RSA,1976,M,213,M23,102,12.195,7:07:57
+223,7:08:03,"Mambabada, Joseph Mpaphi",Carlton Athletic Club,RSA,1973,M,214,M23,103,12.195,7:06:49
+224,7:08:12,"Ledwaba, Makebe Eric",Polokwane Athletic Club,RSA,1965,M,215,M40,35,12.191,6:48:44
+225,7:08:33,"Dlamini, Babo Ntuthuko",uMhlathuze Athletic Club,RSA,1974,M,216,M23,104,12.181,7:07:19
+226,7:08:46,"Zondo, Khumbulani",Gauteng Striders,RSA,1976,M,217,M23,105,12.174,7:08:46
+227,7:09:02,"Feni, Sigcobile",Newlands Striders,RSA,1981,M,218,M23,106,12.167,7:09:02
+228,7:09:27,"Matlala, Nicholas",Ilanga Athletic Club,RSA,1978,M,219,M23,107,12.155,7:09:27
+229,7:09:37,"Mbambo, Mzwandile",Toyota AC (CG),RSA,1966,M,220,M40,36,12.15,6:53:26
+230,7:09:37,"Mercer, Carol",Mr Price Running Club ...,RSA,1963,F,10,W45,2,12.15,6:43:38
+231,7:09:37,"Mdletshe, Siyabonga",Boxer Superstores Athl...,RSA,1987,M,220,MU23,4,12.15,7:09:37
+232,7:09:54,"Duma, Zamani",Kearsney Striders,RSA,1986,M,222,MU23,5,12.142,7:09:54
+233,7:09:55,"Menong, Jantjie Tseko",Syngenta Kroonstad Col...,RSA,1982,M,223,M23,108,12.142,7:09:55
+234,7:09:57,"Zwane, Bongani Wesley",Natal Carbineers AC,RSA,1976,M,224,M23,109,12.141,7:09:57
+235,7:10:10,"Magson, Davera",Mr Price - EP,RSA,1974,F,11,W23,6,12.135,7:09:52
+236,7:10:10,"Qogi, Lindikaya Alfred",Nedbank Running Club E...,RSA,1973,M,225,M23,110,12.135,7:08:56
+237,7:10:17,"Letaba, Thabang",SAPS AC - Pietermaritz...,RSA,1979,M,226,M23,111,12.132,7:10:17
+238,7:10:35,"Rampagane, Godson",Nedbank Running Club GN,RSA,1980,M,227,M23,112,12.123,7:10:35
+239,7:10:38,"Phoswa, Sibonelo",SAPS AC - Pietermaritz...,RSA,1978,M,228,M23,113,12.122,7:10:38
+240,7:11:24,"Stapel, Dieter",Benoni Northerns Athle...,RSA,1962,M,229,M45,7,12.1,6:41:41
+241,7:11:31,"Bohach, Adam",Varsity Sports,RSA,1984,M,230,M23,114,12.097,7:11:31
+242,7:12:01,"Oppel, Desmore",Durbanville Athletic Club,RSA,1960,M,231,M45,8,12.083,6:32:12
+243,7:12:07,"Ndlovu, Kupanyana",Sabie Shufflers,RSA,1961,M,232,M45,9,12.08,6:39:01
+244,7:12:43,"Mazibuko, Elliot",Jeppe Quondam Athletic...,RSA,1962,M,233,M45,10,12.063,6:42:55
+245,7:12:49,"Motshwiri, Kereng John",Ukhozi Athletic Club,RSA,1969,M,234,M35,65,12.061,7:05:02
+246,7:12:56,"Mahlangu, Dumisani",Randburg Harriers,RSA,1968,M,235,M40,37,12.057,6:59:47
+247,7:12:58,"Madikwa, Muzi",Collegians Harriers,RSA,1982,M,236,M23,115,12.056,7:12:58
+248,7:13:01,"Mntungwa, Mfanufikile",Gods Goldern Acre AC,RSA,1983,M,237,M23,116,12.055,7:13:01
+249,7:13:03,"Matela, Thakabanna",Arcelor Mittal AC - VT,RSA,1968,M,238,M35,66,12.054,7:02:45
+250,7:13:03,"van der Walt, Gert",Randburg Harriers,RSA,1978,M,238,M23,117,12.054,7:13:03
+251,7:13:12,"Morapedi, Donovan",Motheo Development AC,RSA,1969,M,240,M35,67,12.05,7:02:54
+252,7:13:14,"de Villiers, Daniel",Boksburg AC,RSA,1969,M,241,M35,68,12.049,7:05:27
+253,7:13:26,"Mashige, Joseph",Rocky Road Runners,RSA,1967,M,242,M40,38,12.043,6:57:06
+254,7:13:31,"de Beer, Nic",Randburg Harriers,RSA,1973,M,243,M35,69,12.041,7:11:08
+255,7:14:10,"Rafiri, Theo",Carlton Athletic Club,RSA,1966,M,244,M40,39,12.023,6:54:25
+256,7:14:22,"Boom, Lentikile Andries",Bonang Athletics Club CNW,RSA,1961,M,245,M45,11,12.017,6:37:43
+257,7:14:32,"Sithole, Joseph David",KZN Striders Athletic ...,RSA,1980,M,246,M23,118,12.013,7:14:32
+258,7:14:35,"Mcwera, Elijah",Brooks Striders,RSA,1976,M,247,M23,119,12.012,7:14:35
+259,7:14:35,"Buti, Dinekhi",Brooks Striders,RSA,1981,M,247,M23,119,12.012,7:14:35
+260,7:14:38,"Sallie, Imeraan",Standard Bank AC - CG,RSA,1971,M,249,M35,70,12.01,7:10:46
+261,7:14:52,"Rankatiso, Tshiamoeng",Rustenburg Marathon Club,RSA,1970,M,250,M35,71,12.004,7:07:03
+262,7:14:54,"Makamu, Mackson",Bonitas Athletic Club GN,RSA,1963,M,251,M40,40,12.003,6:48:20
+263,7:14:54,"Ntsitsi, Letlatsa",Mpumalanga AC,LES,1981,M,251,M23,121,12.003,7:14:54
+264,7:15:12,"Gwala, Mduduzi",Newlands Athletic Club,RSA,1977,M,253,M23,122,11.994,7:15:12
+265,7:15:12,"Radebe, Robert",Umlazi Athletic Club,RSA,1979,M,253,M23,122,11.994,7:15:12
+266,7:15:13,"Seroka, Phadima Lazarus",Twickenham Mine Athlet...,RSA,1965,M,255,M40,41,11.994,6:52:02
+267,7:15:19,"Molehe, Sehloho Joseph",Harmony Striders Virginia,RSA,1962,M,256,M45,12,11.991,6:41:59
+268,7:15:21,"Makhamba, Stanley Mbuyiselo",Nedbank Running Club KZN,RSA,1973,M,257,M35,72,11.99,7:12:58
+269,7:15:24,"Mogodu, Solomon Leepile",Randburg Harriers,RSA,1971,M,258,M35,73,11.989,7:11:32
+270,7:16:06,"Mthembu, Nkosinathi",Nedbank Running Club KZN,RSA,1976,M,259,M23,124,11.97,7:16:06
+271,7:16:11,"Kamanga, Dennis",Discovery Vitality Ath...,RSA,1965,M,260,M40,42,11.967,6:52:57
+272,7:16:15,"Sithole, Willie",Vodacom Yebo Striders,RSA,1974,M,261,M23,125,11.966,7:15:00
+273,7:16:15,"Nduzulwana, Thabo Enock",Wings AC,RSA,1975,M,261,M23,125,11.966,7:16:10
+274,7:16:32,"Matshipa, Fannie Makgoswane",Mr Price Running Club ...,RSA,1977,M,263,M23,127,11.958,7:16:32
+275,7:16:34,"Kekana, Maesela Kleinbooi",Toyota AC (CG),RSA,1977,M,264,M23,128,11.957,7:16:34
+276,7:16:36,"Hlasa, Clement",Toyota AC (CG),LES,1966,M,265,M40,43,11.956,7:00:09
+277,7:16:42,"Brandon-Kirby, Michael Norman",Alberton AC,RSA,1975,M,266,M23,129,11.953,7:16:11
+278,7:17:05,"Ndabeni, Vukile",Old Selbornians Road R...,RSA,1975,M,267,M23,130,11.943,7:16:34
+279,7:17:17,"Matotoka, Petrus",Nelspruit Marathon Club,RSA,1961,M,268,M45,13,11.937,6:43:48
+280,7:17:25,"Selamolela, Rapholo Mike",Run Walk for Life LP,RSA,1971,M,269,M35,74,11.934,7:11:44
+281,7:17:29,"Ueckermann, Marius",Nedbank Running Club CG,RSA,1974,M,270,M23,131,11.932,7:16:58
+282,7:17:29,"Jiyane, Mbongiseni",uMhlathuze Athletic Club,RSA,1970,M,270,M35,75,11.932,7:11:48
+283,7:17:30,"Nkosi, Amos Yende",Richards Bay AC,RSA,1969,M,272,M35,76,11.931,7:07:06
+284,7:17:33,"Stenge, Luvuyo",ADT Athletics Club,RSA,1975,M,273,M23,132,11.93,7:17:28
+285,7:17:45,"Buthelezi, Themba",Scaw Harriers Athletic...,RSA,1960,M,274,M45,14,11.925,6:40:49
+286,7:17:48,"Mdletshe, Joseph",Umqulusi Athletic Club,RSA,1971,M,275,M35,77,11.923,7:12:07
+287,7:17:50,"Thamae, Kgotso",Run Walk for Life CG,RSA,1977,M,276,M23,133,11.922,7:17:50
+288,7:17:52,"Sibanda, Nqabutho",Gauteng Striders,RSA,1968,M,277,M40,44,11.921,7:04:34
+289,7:17:54,"Ncube, Cephas",Jeppe Quondam Athletic...,RSA,1974,M,278,M23,134,11.921,7:17:23
+290,7:17:55,"von Witt, Simon",Atlantic AC,RSA,1977,M,279,M23,135,11.92,7:17:55
+291,7:18:07,"Lepulane, Ngate",Vodacom Yebo Striders,RSA,1973,M,280,M35,78,11.915,7:15:43
+292,7:18:17,"Khubone, Skhumbuzo",Pinetown & District AC,RSA,1978,M,281,M23,136,11.91,7:18:17
+293,7:18:20,"Botha, Stephan",Nedbank Running Club E...,RSA,1968,M,282,M35,79,11.909,7:07:55
+294,7:18:30,"Letlape, Elias",New Balance AC GN,RSA,1959,M,283,M45,15,11.904,6:34:39
+295,7:18:31,"Fisher, Drew",Mr Price Running Club ...,RSA,1977,M,284,M23,137,11.904,7:18:31
+296,7:18:36,"Tomas, Liso",Eleven Express,RSA,1961,M,285,M45,16,11.902,6:45:01
+297,7:18:48,"Ngcobo, Sifiso Praisegod",Germiston Callies Harr...,RSA,1980,M,286,M23,138,11.896,7:18:48
+298,7:18:50,"Hlongwane, John",Ukhozi Athletic Club,RSA,1968,M,287,M35,80,11.895,7:08:24
+299,7:18:51,"Ray, Matthew",United Kingdom,GBR,1974,M,288,M23,139,11.895,7:17:35
+300,7:19:10,"Qumbisa, Mlungisi Enock",Pinetown & District AC,RSA,1978,M,289,M23,140,11.886,7:19:10
+301,7:19:17,"Rampai, Sello Elias",Harmony Striders CNW,RSA,1973,M,290,M23,141,11.883,7:18:01
+302,7:19:18,"Motlhabya, Makete",Wanderers Athletics Club,RSA,1956,M,291,M50,4,11.883,6:28:34
+303,7:19:20,"Shushu, Zabevuya",Nedbank Running Club GN,RSA,1964,M,292,M40,45,11.882,6:55:56
+304,7:19:23,"Qhanqiso, Thembile",Tongaat Panthers Athle...,RSA,1967,M,293,M40,46,11.88,7:06:02
+305,7:19:29,"Madi, Isaac",Longtom Marathon Club,RSA,1977,M,294,M23,142,11.878,7:19:29
+306,7:19:52,"Ngalimani, Mava",SAPS AC - Pietermaritz...,RSA,1974,M,295,M23,143,11.867,7:19:21
+307,7:20:02,"Chabalala, Jeffrey",Giyani Gallopers,RSA,1969,M,296,M35,81,11.863,7:12:07
+308,7:20:06,"Zikode, Sizwe",Willie Mtolo Athletic ...,RSA,1980,M,297,M23,144,11.861,7:20:06
+309,7:20:07,"Mbokazi, Philemon",Benoni Harriers,RSA,1962,M,298,M45,17,11.86,6:49:48
+310,7:20:09,"Koloi, Mogotsi",Thabazimbi MMC,RSA,1980,M,299,M23,145,11.86,7:20:09
+311,7:20:10,"Makhaya, Bhekumuzi",Rand AC,RSA,1974,M,300,M23,146,11.859,7:19:39
+312,7:20:16,"Strydom, Wynand",Boksburg AC,RSA,1972,M,301,M35,82,11.856,7:16:21
+313,7:20:16,"Machachamise, Ratefane Paul",Carlton Harriers,LES,1972,M,301,M35,82,11.856,7:16:21
+314,7:20:18,"Ngcongo, Nkosinathi",Stella Athletic Club,RSA,1976,M,303,M23,147,11.856,7:20:18
+315,7:20:25,"Mokgwabona, Raymond",Standard Bank AC - CG,RSA,1972,M,304,M35,84,11.852,7:16:30
+316,7:20:26,"Shepherd, Mark",United Kingdom,GBR,1970,M,305,M35,85,11.852,7:14:43
+317,7:20:32,"Motubane, Azalia",Bonitas Athletic Club GN,RSA,1970,M,306,M35,86,11.849,7:12:37
+318,7:20:34,"Hlatshwayo, Njabulo",Nedbank Running Club KZN,RSA,1973,M,307,M35,87,11.848,7:18:09
+319,7:20:35,"van Staden, Johan",Kempton Road Runners,RSA,1963,M,308,M40,47,11.848,6:53:40
+320,7:20:38,"Balaze, Mario",Rand AC,RSA,1970,M,309,M35,88,11.847,7:14:55
+321,7:20:42,"Hlengwa, Bongani",Boxer Superstores Athl...,RSA,1975,M,310,M23,148,11.845,7:20:11
+322,7:20:49,"Dlamini, Sifundo",Nedbank Running Club KZN,RSA,1983,M,311,M23,149,11.842,7:20:49
+323,7:20:50,"Ndlela, Sanele",Natal Carbineers AC,RSA,1987,M,312,MU23,6,11.841,7:20:50
+324,7:20:54,"Mokoatsela, Petrus Lefu",Germiston Callies Harr...,RSA,1973,M,313,M23,150,11.839,7:19:38
+325,7:20:56,"Rogers, James",England,GBR,1964,M,314,M40,48,11.839,6:54:00
+326,7:20:59,"Sleath, Alan",Mr Price Running Club ...,RSA,1967,M,315,M40,49,11.837,7:07:35
+327,7:21:03,"Madibana, Israel Malema",Eskom Gijimas - LP,RSA,1961,M,316,M45,18,11.835,6:43:50
+328,7:21:09,"Austin, Donavan",New Balance AC GN,RSA,1977,M,317,M23,151,11.833,7:21:09
+329,7:21:11,"Thipane, Maririka Salmon",Goldfields Athletics Club,LES,1975,M,318,M23,152,11.832,7:20:40
+330,7:21:20,"Monoto, Joel",Goldfields Athletics Club,RSA,1971,M,319,M35,89,11.828,7:17:25
+331,7:21:27,"Robbertze, Clifford",Westville Athletic Club,RSA,1966,M,320,M40,50,11.825,7:04:49
+332,7:21:27,"Worsnip, Paul",Westville Athletic Club,RSA,1977,M,320,M23,153,11.825,7:21:27
+333,7:21:28,"Forbes, Craig",Rand AC,RSA,1975,M,322,M23,154,11.824,7:21:23
+334,7:21:33,"Monama, Sello Joseph",Nedbank Running Club CG,RSA,1973,M,323,M23,155,11.822,7:20:17
+335,7:21:35,"Mfatela, Samuel Sifiso",Stella Athletic Club,RSA,1955,M,324,M50,5,11.821,6:23:42
+336,7:21:38,"Ndou, Luckson",Rand AC,POR,1972,M,325,M35,90,11.82,7:19:13
+337,7:21:39,"de Oliveira, Grace",Mr Price Running Club ...,RSA,1961,F,12,W45,3,11.819,6:50:47
+338,7:21:39,"Mlengetya, Sibusiso Moses",Carnival City Runners,RSA,1979,M,326,M23,156,11.819,7:21:39
+339,7:21:39,"Mafunjo, Elias",Berts Bricks Athletic ...,RSA,1969,M,326,M35,91,11.819,7:11:09
+340,7:21:39,"Januarie, Jakobus",Metropolitan Athletic ...,RSA,1968,M,326,M35,91,11.819,7:11:09
+341,7:21:40,"Mazibuko, Xolani Dalton",Biggarsberg AC,RSA,1965,M,329,M40,51,11.819,6:58:08
+342,7:21:54,"Hoffman, Andre",Nelspruit Marathon Club,RSA,1974,M,330,M23,157,11.813,7:20:38
+343,7:21:54,"Joubert, Kobus",Nelspruit Marathon Club,RSA,1975,M,330,M23,157,11.813,7:21:23
+344,7:22:01,"Ngema, Robert",Woodview Athletic Club,RSA,1966,M,332,M40,52,11.81,7:05:22
+345,7:22:07,"Stephen, Luvuyo",Nedbank Running Club E...,RSA,1970,M,333,M35,93,11.807,7:14:10
+346,7:22:08,"Dumakude, Mandlenkosi",Eskom Gijimas - KZN,RSA,1978,M,334,M23,159,11.806,7:22:08
+347,7:22:08,"Nkoane, Frank",SANDF AC - MPL,RSA,1976,M,334,M23,159,11.806,7:22:03
+348,7:22:08,"Dladla, Nhlanhla",SANDF AC - MPL,RSA,1973,M,334,M35,94,11.806,7:19:43
+349,7:22:26,"Msibi, Sipho",Mr Price AC MPL,RSA,1975,M,337,M23,161,11.798,7:21:55
+350,7:22:30,"Mokolokolo, Paul Nesty",SANBS Running Club CG,RSA,1978,M,338,M23,162,11.797,7:22:30
+351,7:22:31,"Paka, Tsietsie",Tubatse Marathon Club,RSA,1984,M,339,M23,163,11.796,7:22:31
+352,7:22:39,"Mogudi, Samuel",Rand AC,RSA,1956,M,340,M50,6,11.793,6:31:32
+353,7:22:46,"Kwanaite, Kebareng Andries",Arcelor Mittal AC - VT,RSA,1966,M,341,M40,53,11.79,7:02:38
+354,7:22:50,"Bhuda, Sanyana Jan",Benoni Northerns Athle...,RSA,1975,M,342,M23,164,11.788,7:22:45
+355,7:23:00,"Malatji, Moyahabo Isaac",Mr Price - GN,RSA,1973,M,343,M35,95,11.783,7:20:34
+356,7:23:04,"Mngwengwe, Nduku Maxwell",Toyota AC (CG),RSA,1960,M,344,M45,19,11.782,6:42:13
+357,7:23:12,"Lebea, Lemmy",Courier & Freight Athl...,RSA,1965,M,345,M40,54,11.778,6:59:35
+358,7:23:14,"Mothijoa, Pule",Ficksburg Marathon Club,RSA,1977,M,346,M23,165,11.777,7:23:14
+359,7:23:17,"Theko, Amon",Orange Farm Athletic Club,RSA,1984,M,347,M23,166,11.776,7:23:17
+360,7:23:22,"Xolo, Wilson",Mr Price Running Club ...,RSA,1972,M,348,M35,96,11.774,7:19:26
+361,7:23:33,"Nteyi, Nkululeko",Verulam AC,RSA,1983,M,349,M23,167,11.769,7:23:33
+362,7:23:34,"Manke, Daniel",Ficksburg Marathon Club,RSA,1969,M,350,M35,97,11.768,7:15:35
+363,7:23:35,"Tjantjies, Simon",Madibeng Athletic Club,RSA,1973,M,351,M35,98,11.768,7:21:09
+364,7:23:40,"Gcabashe, Lungani",Boxer Superstores Athl...,RSA,1966,M,352,M40,55,11.766,7:03:29
+365,7:23:43,"Cele, Vezumusa",Gods Goldern Acre AC,RSA,1979,M,353,M23,168,11.764,7:23:43
+366,7:23:47,"Mayimele, Tannant",SANDF AC - CG,RSA,1987,M,354,MU23,7,11.762,7:23:47
+367,7:23:50,"Mbhele, Bheki",Toyota AC (CG),RSA,1963,M,355,M40,56,11.761,6:56:43
+368,7:23:57,"Masoeu, Fusi",Harmony Striders Virginia,RSA,1981,M,356,M23,169,11.758,7:23:57
+369,7:23:59,"Mthembu, Themba",KwaDukuza Athletic Club,RSA,1977,M,357,M23,170,11.757,7:23:59
+370,7:24:12,"Grobler, Ewoud",Amanzimtoti AC,RSA,1980,M,358,M23,171,11.751,7:24:12
+371,7:24:27,"Mnyamana, Vuma Kenneth",Eleven Express,RSA,1970,M,359,M35,99,11.745,7:16:27
+372,7:24:38,"Faralla, Filippo",Athletics North KZN,RSA,1968,M,360,M35,100,11.74,7:14:04
+373,7:24:38,"Serumula, Phuti Joseph",Powerade Athletic Club,RSA,1970,M,360,M35,100,11.74,7:18:52
+374,7:24:46,"Sathekge, Maboko",Alexandra Beaters AC,RSA,1983,M,362,M23,172,11.736,7:24:46
+375,7:24:49,"Mokoena, Rakgalakane Jonas",Bethlehem Marathon Club,RSA,1967,M,363,M40,57,11.735,7:11:18
+376,7:24:51,"Maroga, Simon",Tubatse Marathon Club,RSA,1982,M,364,M23,173,11.734,7:24:51
+377,7:24:51,"Masikane, Sithembiso",Newlands Athletic Club,RSA,1983,M,364,M23,173,11.734,7:24:51
+378,7:24:52,"Ditsibane, Tumahole",Harmony Striders Virginia,RSA,1972,M,366,M35,102,11.734,7:22:26
+379,7:24:53,"Norris, Craig Harold",Hilton Harriers,RSA,1961,M,367,M45,20,11.733,6:47:21
+380,7:24:53,"Mkhize, Patrick",Maritzburg City Athlet...,RSA,1965,M,367,M40,58,11.733,7:04:39
+381,7:25:01,"Mthiyane, Sifiso",Boxer Superstores Athl...,RSA,1968,M,369,M35,103,11.73,7:14:26
+382,7:25:04,"Sambo, Thabo Mpumelelo",Tubatse Marathon Club,RSA,1985,M,370,M23,175,11.729,7:25:04
+383,7:25:11,"Mokoena, Piet",Amanzi AK Hartbeespoort,RSA,1981,M,371,M23,176,11.726,7:25:11
+384,7:25:16,"Nhlabathi, Simon",Eskom Gijimas - CG,RSA,1977,M,372,M23,177,11.723,7:25:16
+385,7:25:22,"Mnikathi, Sphiwe",Collegians Harriers,RSA,1982,M,373,M23,178,11.721,7:25:22
+386,7:25:25,"Nkosi, Mkhanyiseni Maxwell Sakhile",East Griqualand Striders,RSA,1974,M,374,M23,179,11.719,7:24:53
+387,7:25:28,"Mbatha, Mlungisi",KZN Striders Athletic ...,RSA,1982,M,375,M23,180,11.718,7:25:28
+388,7:25:38,"Molifi, Shalock Tebogo",Bonitas Athletic Club GN,RSA,1968,M,376,M35,104,11.714,7:15:02
+389,7:26:03,"Mogane, Moses Mpho",Carlton Athletic Club,RSA,1974,M,377,M23,181,11.703,7:24:46
+390,7:26:03,"Gcwensa, Sakhile",Nedbank Running Club KZN,RSA,1976,M,377,M23,181,11.703,7:26:03
+391,7:26:04,"Cele, Sithembiso",Mtunzini Athletic Club,RSA,1979,M,379,M23,183,11.702,7:26:04
+392,7:26:06,"Manyokole, Edwin",Mr Price Running Club ...,RSA,1972,M,380,M35,105,11.701,7:23:39
+393,7:26:12,"Mtetwa, Kolet",Toyota AC (CG),ZIM,1972,M,381,M35,106,11.699,7:23:45
+394,7:26:24,"van der Spuy, Derek",Boksburg AC,RSA,1964,M,382,M40,59,11.694,7:02:37
+395,7:26:26,"Ngalonkulu, Thabiso",Chatsworth Athletic Club,RSA,1984,M,383,M23,184,11.693,7:26:26
+396,7:26:44,"Ashworth, David",Florida Running Club,RSA,1982,M,384,M23,185,11.685,7:26:44
+397,7:26:45,"Smith, Gary",Jeppe Quondam Athletic...,RSA,1967,M,385,M40,60,11.684,7:13:11
+398,7:26:45,"King, Bruce",Jeppe Quondam Athletic...,RSA,1974,M,385,M23,186,11.684,7:25:28
+399,7:26:49,"Ngubane, Enoch",Mr Price Running Club ...,RSA,1969,M,387,M35,107,11.683,7:16:11
+400,7:26:54,"Mathebula, Condry",Great East Athletic Club,RSA,1986,M,388,MU23,8,11.68,7:26:54
+401,7:26:55,"Busmayer, Dirceu",Brazil,BRA,1966,M,389,M40,61,11.68,7:06:35
+402,7:27:06,"Mofokeng, Bonolo",Rand AC,RSA,1952,M,390,M55,2,11.675,6:18:05
+403,7:27:15,"Maphatsoane, Aobakoe Ofentse",Nedbank Bloemfontein A...,RSA,1968,M,391,M40,62,11.671,7:13:40
+404,7:27:17,"Sombalo, Xolile William",SAPS AC - WP,RSA,1972,M,392,M35,108,11.67,7:24:50
+405,7:27:21,"Gumede, Mbuso",Mr Price Running Club ...,RSA,1965,M,393,M40,63,11.669,7:03:31
+406,7:27:23,"Buthelezi, Mbongiseni",Stella Athletic Club,RSA,1970,M,394,M35,109,11.668,7:21:35
+407,7:27:26,"Mlambo, Bethuel L.",Powerade Athletic Club,RSA,1963,M,395,M45,21,11.667,6:56:37
+408,7:27:31,"Madlala, Innocent",Collegians Harriers,RSA,1981,M,396,M23,187,11.664,7:27:31
+409,7:27:41,"Mothei, Othusitse",Ukhozi Athletic Club,RSA,1972,M,397,M35,110,11.66,7:25:14
+410,7:27:44,"Nyalunga, Mduduzi Johannes",Ngodwana Marathon Club,RSA,1960,M,398,M45,22,11.659,6:46:28
+411,7:27:44,"Shezi, Phillip",Sani Athletic Club,RSA,1983,M,398,M23,188,11.659,7:27:44
+412,7:27:47,"Dludla, Victor",Boxer Superstores Athl...,RSA,1979,M,400,M23,189,11.657,7:27:47
+413,7:27:47,"Mncadi, Henrick",Eskom Gijimas - KZN,RSA,1977,M,400,M23,189,11.657,7:27:47
+414,7:28:01,"Mabapa, Matlabeya",Bonitas Athletic Club GN,RSA,1975,M,402,M23,191,11.651,7:27:29
+415,7:28:06,"Allart, Paulus",Mossel Bay Harriers,RSA,1968,M,403,M35,111,11.649,7:17:27
+416,7:28:06,"Funani, Lucas",Anglo RPM Marathon Club,RSA,1964,M,403,M40,64,11.649,7:04:13
+417,7:28:07,"Mnyango, Samson",Pinetown & District AC,RSA,1974,M,405,M23,192,11.649,7:27:35
+418,7:28:09,"Madondo, Mandlenkosi Paul",Fit 2000 AC - KZN,RSA,1980,M,406,M23,193,11.648,7:28:09
+419,7:28:10,"Mlambo, Joel",Kearsney Striders,RSA,1983,M,407,M23,194,11.647,7:28:10
+420,7:28:13,"Seomane, Matthews",Eskom Gijimas - GN,RSA,1972,M,408,M35,112,11.646,7:25:46
+421,7:28:13,"Hart, Colin",Bedfordview Athletics ...,RSA,1978,M,408,M23,195,11.646,7:28:13
+422,7:28:14,"Willcock, Patrick",SANDF AC - WP,RSA,1976,M,410,M23,196,11.646,7:28:14
+423,7:28:14,"Legwale, Patrick",Vaal Reefs Marathon Club,RSA,1967,M,410,M40,65,11.646,7:11:21
+424,7:28:18,"Cluver, Guy",Durban High School Old...,RSA,1970,M,412,M35,113,11.644,7:22:29
+425,7:28:24,"Motaung, Mpho Johan",Bethlehem Marathon Club,RSA,1973,M,413,M23,197,11.641,7:27:06
+426,7:28:26,"Mavuso, Phillip",Cheetah Running Club,RSA,1967,M,414,M40,66,11.641,7:11:32
+427,7:28:31,"Tele, Siphiwe Mayibongwe",Durban Athletic Club,RSA,1976,M,415,M23,198,11.638,7:28:31
+428,7:28:34,"Brown, Clifford",Berts Bricks Athletic ...,RSA,1975,M,416,M23,199,11.637,7:28:02
+429,7:28:40,"Kali, Moeletsi",Ubunye Athletic Club,RSA,1966,M,417,M40,67,11.634,7:11:46
+430,7:28:43,"Silwana, Loyiso",Khara Hais Harriers,RSA,1980,M,418,M23,200,11.633,7:28:43
+431,7:28:54,"van Zyl, Lelanie",Nedbank Running Club GN,RSA,1965,F,13,W40,2,11.628,7:09:15
+432,7:29:15,"Woodward, Gregory",Varsity Kudus AC,RSA,1963,M,419,M40,68,11.619,7:01:49
+433,7:29:21,"Masweu, Taunyana",SAPS AC - FS,RSA,1976,M,420,M23,201,11.617,7:29:21
+434,7:29:27,"Mvelase, Nkosithandile Sanele",Eskom Gijimas - KZN,RSA,1980,M,421,M23,202,11.614,7:29:27
+435,7:29:31,"Oakley-Brown, Bradley",Rand AC,RSA,1964,M,422,M40,69,11.612,7:05:34
+436,7:29:48,"Losper, Selwyn",Knysna Marathon Club,RSA,1964,M,423,M40,70,11.605,7:02:20
+437,7:29:50,"Hlongwane, Michael",Alpha Centurion Runners,RSA,1977,M,424,M23,203,11.604,7:29:50
+438,7:29:51,"Mgatha, Makhosonke Moses",KZN Striders Athletic ...,RSA,1972,M,425,M35,114,11.604,7:25:51
+439,7:29:52,"Mteto, Welcome",Mr Price Running Club ...,RSA,1968,M,426,M40,71,11.603,7:16:12
+440,7:30:02,"Madima, Jacob",Nedbank Running Club GN,RSA,1970,M,427,M35,115,11.599,7:24:11
+441,7:30:04,"Mabuza, Silas",Ngodwana Marathon Club,RSA,1968,M,428,M40,72,11.598,7:16:24
+442,7:30:26,"Dwayisa, Bongani Ephraim",Mr Price Running Club ...,RSA,1967,M,429,M40,73,11.589,7:13:28
+443,7:30:33,"Diteho, Petrus Jacobus",Upington Marathon Klub,RSA,1965,M,430,M40,74,11.586,7:10:03
+444,7:30:38,"Mahloane, Tseko Johannes",Harmony Striders Virginia,RSA,1970,M,431,M35,116,11.584,7:22:32
+445,7:30:47,"Conrad, Edward",Atlantis Harriers,RSA,1969,M,432,M35,117,11.58,7:22:41
+446,7:30:52,"Malgas, Thembalakhe",Jeppe Quondam Athletic...,RSA,1978,M,433,M23,204,11.578,7:30:52
+447,7:31:04,"van der Merwe, Jacob Johannes (Johan)",Polokwane Athletic Club,RSA,1972,M,434,M35,118,11.573,7:27:04
+448,7:31:07,"Eichert, Paul",Westville Athletic Club,RSA,1970,M,435,M35,119,11.571,7:25:16
+449,7:31:11,"Sikwambane, Moven",Mr Price AC MPL,RSA,1984,M,436,M23,205,11.57,7:31:11
+450,7:31:12,"Dlamini, Nicholas",Boxer Superstores Athl...,RSA,1955,M,437,M50,7,11.569,6:32:03
+451,7:31:14,"Nsele, Mandlenkosi",Formula I Athletic Club,RSA,1981,M,438,M23,206,11.568,7:31:14
+452,7:31:24,"Ngcupe, Colben",Port Elizabeth Amateur AC,RSA,1963,M,439,M45,23,11.564,7:00:18
+453,7:31:25,"Sokhela, Sakhiwe",Maritzburg City Athlet...,RSA,1977,M,440,M23,207,11.564,7:31:25
+454,7:31:38,"Malalane, Stimela",Sasolburg AC - FS,RSA,1970,M,441,M35,120,11.558,7:23:31
+455,7:31:39,"Mpumlwana, Babalo Silvester",Durban Athletic Club,RSA,1975,M,442,M23,208,11.558,7:31:34
+456,7:31:45,"Sithole, Michael",Boksburg AC,RSA,1970,M,443,M35,121,11.555,7:25:53
+457,7:31:48,"Zitha, Jacob Mkhethwa",SAPS AC - Pietermaritz...,RSA,1971,M,444,M35,122,11.554,7:27:47
+458,7:31:57,"Mqati, Sipho Godwin",New Balance AC GN,RSA,1981,M,445,M23,209,11.55,7:31:57
+459,7:31:58,"Mofokeng, Nanye",Sasol Marathon Klub - ...,RSA,1970,M,446,M35,123,11.55,7:23:50
+460,7:31:58,"Fernandes, Fernando",Portugal,POR,1961,M,446,M45,24,11.55,6:57:21
+461,7:32:13,"Pather, Balasundaram",Stonebridge United AC,RSA,1961,M,448,M45,25,11.543,6:54:03
+462,7:32:18,"Mhlongo, Sipho",Boxer Superstores Athl...,RSA,1967,M,449,M40,75,11.541,7:15:15
+463,7:32:35,"Gumede, Buhle Joseph",Hlabisa Athletics Club,RSA,1975,M,450,M23,210,11.534,7:32:30
+464,7:32:42,"Matjila, Bareetseng",Run Walk for Life LP,RSA,1978,M,451,M23,211,11.531,7:32:42
+465,7:32:49,"Mlanduli, Barnabas Mthembeni",Amanzimtoti AC,RSA,1962,M,452,M45,26,11.528,7:01:38
+466,7:32:52,"Lebeko, Lawrence",Roodepoort Athletic Club,RSA,1973,M,453,M23,212,11.527,7:31:34
+467,7:33:02,"Mbhele, Cyprian",Maritzburg City Athlet...,RSA,1964,M,454,M40,76,11.522,7:08:54
+468,7:33:08,"Mabuza, Johannes",Nedbank Running Club M...,RSA,1970,M,455,M35,124,11.52,7:24:59
+469,7:33:10,"Shange, Sthokozo Ntokozo",Queensburgh Harriers,RSA,1979,M,456,M23,213,11.519,7:33:10
+470,7:33:11,"Runeli, Vusumzi",Nedbank Running Club E...,RSA,1972,M,457,M35,125,11.519,7:30:42
+471,7:33:13,"Mhlongo, Nathaniel",Scottburgh Athletic Club,RSA,1972,M,458,M35,126,11.518,7:30:44
+472,7:33:14,"Mpanza, Siboniso",Boxer Superstores Athl...,RSA,1979,M,459,M23,214,11.517,7:33:14
+473,7:33:19,"Le Roux, Lenz",Randburg Harriers,RSA,1973,M,460,M35,127,11.515,7:30:50
+474,7:33:28,"Cele, Musawenkosi",Amanzimtoti AC,RSA,1974,M,461,M23,215,11.511,7:32:56
+475,7:33:31,"Msomi, Bernard",Collegians Harriers,RSA,1970,M,462,M35,128,11.51,7:25:22
+476,7:33:33,"Motshabi, Nthusang Moses",Rand AC,RSA,1955,M,463,M50,8,11.509,6:37:38
+477,7:34:07,"Ngwane, Sipho Thembinkosi",Woodview Athletic Club,RSA,1970,M,464,M35,129,11.495,7:28:13
+478,7:34:13,"Mtambama, Samuel",Bedfordview Athletics ...,RSA,1970,M,465,M35,130,11.492,7:26:03
+479,7:34:22,"Ngcobo, Musa",Exxaro Athletic Club GN,RSA,1958,M,466,M50,9,11.489,6:45:24
+480,7:34:31,"Mashabela, Ralph",Cheetah Running Club,RSA,1956,M,467,M50,10,11.485,6:42:02
+481,7:34:38,"Mathonsi, Silwayiphi",Eskom Gijimas - KZN,RSA,1975,M,468,M23,216,11.482,7:34:33
+482,7:34:39,"Kellock, Michelle",Bedfordview Athletics ...,RSA,1970,F,14,W35,3,11.481,7:30:12
+483,7:34:56,"Zibuse, Almon",Randmark Marathon Club,RSA,1951,M,469,M55,3,11.474,6:24:42
+484,7:35:01,"Munyai, Rendani Samuel",Team,RSA,1980,M,470,M23,217,11.472,7:35:01
+485,7:35:19,"Madlala, Nhlanhla",Eskom Gijimas - KZN,RSA,1973,M,471,M23,218,11.465,7:34:00
+486,7:35:32,"Mthembu, Bongani",Nedbank Running Club KZN,RSA,1980,M,472,M23,219,11.459,7:35:32
+487,7:35:35,"Novokoza, Mongezi Matthews",Cheetahs Athletic Club,RSA,1955,M,473,M50,11,11.458,6:39:25
+488,7:35:38,"Benjamin, Winston",Kimberley Road Runners,RSA,1964,M,474,M40,77,11.457,7:11:21
+489,7:35:56,"Reed, Andrew",Westville Athletic Club,RSA,1975,M,475,M23,220,11.449,7:35:24
+490,7:36:00,"Fokwana, Mzamo",Charlo Athletic Club,RSA,1977,M,476,M23,221,11.447,7:36:00
+491,7:36:12,"Mchunu, Ntuthuko",Ukhozi Athletic Club,RSA,1970,M,477,M35,131,11.442,7:28:00
+492,7:36:31,"Ndlovu, Allen Bhekuyise",Westville Athletic Club,RSA,1967,M,478,M40,78,11.434,7:19:19
+493,7:36:38,"Mlaba, Robert",Umlalazi Athletic Club,RSA,1972,M,479,M35,132,11.431,7:32:35
+494,7:36:57,"Matlala, James",Standard Bank AC - CG,RSA,1959,M,480,M45,27,11.424,6:54:50
+495,7:37:05,"Ngobese, Sibusiso",Chesterville Athletics...,RSA,1974,M,481,M23,222,11.42,7:35:46
+496,7:37:12,"Motlhabani, Zacharia",Roodepoort Athletic Club,RSA,1972,M,482,M35,133,11.417,7:33:08
+497,7:37:12,"Ndlela, Blessing Zakhele",Scottburgh Athletic Club,RSA,1975,M,482,M23,223,11.417,7:36:40
+498,7:37:14,"Sibiya, Bheki",KZN Striders Athletic ...,RSA,1977,M,484,M23,224,11.416,7:37:14
+499,7:37:18,"Tshabalala, Mshumayeli Samson",Nedbank Running Club CG,RSA,1968,M,485,M35,134,11.415,7:26:25
+500,7:37:22,"Diale, Andries",Diamant Marathon Klub,RSA,1975,M,486,M23,225,11.413,7:36:50
+501,7:37:24,"Kgaswane, Mpho",Mamusa Athletic Club,RSA,1972,M,487,M35,135,11.412,7:34:54
+502,7:37:31,"Mlanse, Abdul",Shakaland AC,RSA,1968,M,488,M35,136,11.409,7:26:38
+503,7:37:32,"Makhaza, Phumlane Alfred",Ladysmith Athletic Club,RSA,1980,M,489,M23,226,11.409,7:37:32
+504,7:37:33,"Mnduna, Mbongiseni Ian",Maritzburg City Athlet...,RSA,1971,M,490,M35,137,11.409,7:31:37
+505,7:37:38,"Ndlovu, David",Eskom Gijimas - KZN,RSA,1983,M,491,M23,227,11.407,7:37:38
+506,7:37:47,"Jali, Bheki Timothy",Kwandengezi Athletic Club,RSA,1975,M,492,M23,228,11.403,7:37:42
+507,7:38:08,"Rossouw, Deon",Edgemead Runners,RSA,1965,M,493,M40,79,11.394,7:13:43
+508,7:38:08,"Ndlela, Nicholas Mphiliseni",Mr Price Running Club ...,RSA,1985,M,493,MU23,9,11.394,7:38:08
+509,7:38:22,"Ramapuputla, Frank Matome",Beefcor Marathon Club GN,RSA,1975,M,495,M23,229,11.388,7:37:49
+510,7:38:22,"Nyuswa, Nicholas Mguqulwa",KZN Striders Athletic ...,RSA,1969,M,495,M35,138,11.388,7:27:28
+511,7:38:26,"Ngoasheng, Modiko Simon",Polokwane Athletic Club,RSA,1974,M,497,M23,230,11.387,7:37:07
+512,7:38:39,"Ngidi, Siyabonga",Stonebridge United AC,RSA,1976,M,498,M23,231,11.381,7:38:39
+513,7:38:46,"Phaiphai, Simon",Rand AC,RSA,1957,M,499,M50,12,11.378,6:45:47
+514,7:38:53,"Yende, Nhlanhla",Running Inn Athletics ...,RSA,1978,M,500,M23,232,11.375,7:38:53
+515,7:39:06,"Mabale, Mika",Sadac Athletic Club,RSA,1973,M,501,M35,139,11.37,7:36:35
+516,7:39:12,"Koopman, Africa",Paarl Athletic Club,RSA,1965,M,502,M40,80,11.368,7:18:19
+517,7:39:29,"Shabalala, Maqaleni",Harmony Striders Virginia,RSA,1963,M,503,M40,81,11.361,7:11:25
+518,7:40:00,"Makhubela, Andries",ADT Athletics Club,RSA,1973,M,504,M23,233,11.348,7:38:40
+519,7:40:10,"Ndhlovu, Edward",Jeppe Quondam Athletic...,RSA,1970,M,505,M35,140,11.344,7:31:54
+520,7:40:15,"Leeuw, Sonnyboy",Kimberly Military Athl...,RSA,1964,M,506,M40,82,11.342,7:15:44
+521,7:40:18,"Isigkeit, Volker",Germany,GER,1966,M,507,M40,83,11.34,7:19:22
+522,7:40:44,"Phetoe, Victor",New Balance AC GN,RSA,1960,M,508,M45,28,11.33,6:58:16
+523,7:40:45,"Laue, Gary",West Coast AC,RSA,1977,M,509,M23,234,11.329,7:40:45
+524,7:40:53,"Mtolo, Joseph",Inchanga AC,RSA,1979,M,510,M23,235,11.326,7:40:53
+525,7:40:57,"Kutu, Joel",Correc. Services - Goe...,RSA,1978,M,511,M23,236,11.324,7:40:57
+526,7:41:19,"Mpondo, Mdutywa",Brooks Striders,RSA,1965,M,512,M40,84,11.315,7:20:20
+527,7:41:19,"Dube, Themba",Springs Platinum Refin...,RSA,1962,M,512,M45,29,11.315,7:05:59
+528,7:41:25,"Diya, Nkosinathi Major",Verulam Checkout Falco...,RSA,1976,M,514,M23,237,11.313,7:41:20
+529,7:41:34,"Chiya, Cyril",Tongaat Panthers Athle...,RSA,1971,M,515,M35,141,11.309,7:37:28
+530,7:41:39,"Tlhole, Sello",Nedbank Development Cl...,RSA,1970,M,516,M35,142,11.307,7:33:21
+531,7:41:53,"Potgieter, Eugene",Vryheid AC,RSA,1971,M,517,M35,143,11.302,7:37:47
+532,7:41:59,"Sampson, Donald",Brotherhood Athletic Club,RSA,1961,M,518,M45,30,11.299,7:06:36
+533,7:42:03,"Cooke-Tonnesen, Craig",Jeppe Quondam Athletic...,RSA,1959,M,519,M45,31,11.297,6:55:51
+534,7:42:03,"Dube, Nathaniel",Fit 2000 AC - GN,RSA,1967,M,519,M40,85,11.297,7:28:01
+535,7:42:33,"Forbes, Paul",Durban High School Old...,RSA,1970,M,521,M35,144,11.285,7:34:14
+536,7:42:35,"Khuzwayo, Sanele",Hulamin Athletic Club,RSA,1960,M,522,M45,32,11.284,6:59:56
+537,7:42:35,"Nxumalo, Zakhele",Vryheid AC,RSA,1984,M,522,M23,238,11.284,7:42:35
+538,7:42:45,"Brown, Ryan C.",United Kingdom,GBR,1973,M,524,M23,239,11.28,7:41:25
+539,7:42:48,"Mathebula, Mzamani",Rocky Road Runners,RSA,1972,M,525,M35,145,11.279,7:38:41
+540,7:42:57,"Kienhofer, Frank",Varsity Kudus AC,GER,1974,M,526,M23,240,11.276,7:42:24
+541,7:43:21,"Kotelo, Francis Kali",Goldfields Athletics Club,LES,1970,M,527,M35,146,11.266,7:35:01
+542,7:43:25,"Soyingwa, Victor",Sydenham Sports Club,RSA,1982,M,528,M23,241,11.264,7:43:25
+543,7:43:25,"Khumalo, Innocent",Newcastle Harriers Club,RSA,1978,M,528,M23,241,11.264,7:43:25
+544,7:43:27,"Madondo, Mpiloyakhe",Rand AC,RSA,1974,M,530,M23,243,11.263,7:42:54
+545,7:43:33,"Mkhize, Themba",Hillcrest Villagers AC,RSA,1973,M,531,M23,244,11.261,7:42:13
+546,7:43:34,"Maduna, Justice Ndleleni",Harmony Striders Virginia,RSA,1971,M,532,M35,147,11.261,7:39:27
+547,7:43:40,"Scott, Renee",Adidas AC,RSA,1962,F,15,W45,4,11.258,7:11:16
+548,7:43:43,"van Veijeren, Janet",Newcastle Harriers Club,RSA,1971,F,16,W35,4,11.257,7:40:43
+549,7:43:45,"Mbanjwa, Bambaliphi",Willie Mtolo Athletic ...,RSA,1969,M,533,M35,148,11.256,7:32:43
+550,7:43:48,"Maziri, Shepherd",Zimbabwe,ZIM,1954,M,534,M50,13,11.255,6:43:00
+551,7:43:52,"Blose, Henry",Ubunye Athletic Club,RSA,1968,M,535,M35,149,11.253,7:32:50
+552,7:43:56,"Matome, William Mahlasela",Eskom Gijimas - LP,RSA,1969,M,536,M35,150,11.252,7:35:35
+553,7:44:04,"Laden, Mark",West Coast AC,RSA,1972,M,537,M35,151,11.248,7:39:57
+554,7:44:25,"Prinsloo, Leonard",Pretoria Police Marath...,RSA,1968,M,538,M35,152,11.24,7:33:22
+555,7:44:28,"Komane, Michael",Brooks Striders,RSA,1970,M,539,M35,153,11.239,7:36:07
+556,7:44:31,"Zondi, Sikhumbuzo",Gods Goldern Acre AC,RSA,1973,M,540,M23,245,11.237,7:43:11
+557,7:44:40,"Thwala, Thabo Joshua",Nigel Athletics Club VT,RSA,1967,M,541,M40,86,11.234,7:27:09
+558,7:44:41,"Mthimkhulu, Zwelithini Sizwe",Fit 2000 AC - CG,RSA,1973,M,542,M35,154,11.233,7:42:08
+559,7:44:43,"Mohalane, Buti",SANDF AC - CG,RSA,1974,M,543,M23,246,11.233,7:44:10
+560,7:44:44,"Nkomo, Dumisani",SAPS AC - Pietermaritz...,RSA,1976,M,544,M23,247,11.232,7:44:44
+561,7:45:05,"Dlamini, Nhlonipho",Durban Athletic Club,RSA,1983,M,545,M23,248,11.224,7:45:05
+562,7:45:05,"Moeng, Boitumelo Patrick",Kimberley Road Runners,RSA,1973,M,545,M35,155,11.224,7:42:32
+563,7:45:07,"Pooler, Ralph",United States,USA,1966,M,547,M40,87,11.223,7:27:35
+564,7:45:12,"Khunou, Abram Phothi",Anglo RPM Marathon Club,RSA,1970,M,548,M35,156,11.221,7:39:10
+565,7:45:13,"Kulashe, Lungile",Kempton Road Runners,RSA,1965,M,549,M40,88,11.221,7:24:03
+566,7:45:17,"Steyn, Christiaan",Pretoria Millitary Mar...,RSA,1960,M,550,M45,33,11.219,7:06:01
+567,7:45:23,"Corah, Marthinus",Elgin/Grabouw AC,RSA,1979,M,551,M23,249,11.217,7:45:23
+568,7:45:28,"Masemola, Riba",Nedbank Running Club CG,RSA,1965,M,552,M40,89,11.215,7:20:40
+569,7:45:39,"Khoza, Zakhele",Nongoma Athletics Club,RSA,1983,M,553,M23,250,11.21,7:45:39
+570,7:46:31,"Myeza, Sawhile",Chesterville Athletics...,RSA,1977,M,554,M23,251,11.189,7:46:31
+571,7:46:40,"Mahlobo, Sizwe",Katlehong Athletic Club,RSA,1967,M,555,M40,90,11.186,7:32:29
+572,7:46:45,"Zulu, Terrence Lindani",Pinetown & District AC,RSA,1975,M,556,M23,252,11.184,7:46:12
+573,7:46:46,"Mthethwa, Bhekani",Imamba Athletic Club,RSA,1968,M,557,M40,91,11.183,7:32:35
+574,7:46:46,"Price, Tim",England,GBR,1976,M,557,M23,253,11.183,7:46:41
+575,7:46:52,"Young, Johnny",Nedbank Running Club VT,RSA,1974,M,559,M23,254,11.181,7:45:31
+576,7:47:09,"Stevens, Joseph",Collegians Harriers,RSA,1960,M,560,M45,34,11.174,7:04:05
+577,7:47:16,"Mtshali, Thomas Phumlani",Toyota AC (CG),RSA,1965,M,561,M40,92,11.171,7:22:22
+578,7:47:16,"Mhlongo, Dennis Nkosinathi",Chesterville Athletics...,RSA,1966,M,561,M40,92,11.171,7:29:40
+579,7:47:16,"Zondi, Jerome",Collegians Harriers,RSA,1974,M,561,M23,255,11.171,7:45:55
+580,7:47:20,"Shezi, Freedom",Nedbank Running Club KZN,RSA,1983,M,564,M23,256,11.17,7:47:20
+581,7:47:30,"Shezi, Sandile",Natal Carbineers AC,RSA,1978,M,565,M23,257,11.166,7:47:30
+582,7:47:34,"Ganzi, Rick",United States,USA,1963,M,566,M40,94,11.164,7:19:00
+583,7:47:37,"Mohoje, Sam",Harmony Striders Virginia,RSA,1978,M,567,M23,258,11.163,7:47:37
+584,7:47:42,"Mgenge, Jabulani",Toyota AC (CG),RSA,1977,M,568,M23,259,11.161,7:47:42
+585,7:47:46,"Ramaphakela, Johannes Malesela",Carlton Athletic Club,RSA,1959,M,569,M45,35,11.159,7:01:00
+586,7:47:47,"Goosen, Colin",Saints AC KZN,RSA,1960,M,570,M45,36,11.159,7:04:40
+587,7:47:50,"Prince, Quinton",Metropolitan Athletic ...,RSA,1973,M,571,M23,260,11.158,7:46:29
+588,7:47:51,"Kolote, Jikase Johannes",Berts Bricks Athletic ...,RSA,1967,M,572,M40,95,11.157,7:33:38
+589,7:47:57,"Dlamini, Mandla Innocent",Maritzburg City Athlet...,RSA,1975,M,573,M23,261,11.155,7:47:24
+590,7:48:01,"Hlophe, Sitha",Mr Price Running Club ...,RSA,1974,M,574,M23,262,11.153,7:46:40
+591,7:48:19,"Chuphathi, Samkelo",Lamontville Athletic Club,RSA,1975,M,575,M23,263,11.146,7:47:46
+592,7:48:27,"Hlubi, Sithembiso",Aeroton Athletic Club,RSA,1982,M,576,M23,264,11.143,7:48:27
+593,7:48:33,"Mbatha, Nhlanhla",SAPS AC - Pietermaritz...,RSA,1981,M,577,M23,265,11.141,7:48:33
+594,7:48:39,"Mathunjwa, Bongani",Nedbank Running Club KZN,RSA,1978,M,578,M23,266,11.138,7:48:39
+595,7:48:41,"Mbokazi, Sipho",Toyota AC (CG),RSA,1963,M,579,M40,96,11.138,7:20:03
+596,7:48:41,"Nxumalo, Nhlakanipho",Hillcrest Villagers AC,RSA,1978,M,579,M23,267,11.138,7:48:41
+597,7:48:41,"Koen, Kerry",Collegians Harriers,RSA,1975,F,17,W23,7,11.138,7:48:39
+598,7:48:43,"Ngwenya, Jeremiah",Boxer Superstores Athl...,RSA,1953,M,581,M55,4,11.137,6:39:58
+599,7:48:44,"Mokgomola, Lawrence Phelane",Eskom Gijimas - LP,RSA,1959,M,582,M45,37,11.136,7:01:52
+600,7:48:45,"Motaung, Abram",Nedbank Running Club CG,RSA,1972,M,583,M35,157,11.136,7:46:11
+601,7:48:51,"Derbyshire, Kevin",Oxford Striders,RSA,1966,M,584,M40,97,11.134,7:31:11
+602,7:48:53,"Mosime, Ntheleng",Eskom Gijimas - CG,RSA,1975,M,585,M23,268,11.133,7:48:48
+603,7:49:02,"Tokelo, Frans",Nedbank Runner Club Bo...,RSA,1965,M,586,M40,98,11.129,7:27:42
+604,7:49:06,"Gumede, Sandile",Rand Water AC - VT,RSA,1978,M,587,M23,269,11.128,7:49:06
+605,7:49:10,"Nthusetsang, James",Zwakala Athletics Club,RSA,1973,M,588,M35,158,11.126,7:46:36
+606,7:49:19,"Thabethe, Nhlayenza",Lesedi Athletic Club,RSA,1976,M,589,M23,270,11.123,7:49:19
+607,7:49:20,"Mahlangu, John Zimkani",Eugene Marais Hospital...,RSA,1967,M,590,M40,99,11.122,7:35:04
+608,7:49:23,"Retyu, Zakuthini",Queenstown Harriers,RSA,1971,M,591,M35,159,11.121,7:45:13
+609,7:49:23,"Vergo, Rene",United Kingdom,DEN,1975,M,591,M23,271,11.121,7:48:50
+610,7:49:31,"Mokoena, Jack Mpmale",Sasol Marathon Klub - ...,RSA,1972,M,593,M35,160,11.118,7:46:57
+611,7:49:39,"Mbele, Lindani",Hlabisa Athletics Club,RSA,1980,M,594,M23,272,11.115,7:49:39
+612,7:49:41,"Penney, Simon",Rand AC,RSA,1969,M,595,M35,161,11.114,7:38:31
+613,7:49:52,"Luvuno, Keneeth",Cadac Athletic Club,RSA,1965,M,596,M40,100,11.11,7:24:50
+614,7:50:11,"Mhlakaza, Nyameko Victor",Germiston Callies Harr...,RSA,1974,M,597,M23,273,11.102,7:49:38
+615,7:50:11,"Dlamini, Sipho",Germiston Callies Harr...,RSA,1969,M,597,M35,162,11.102,7:39:00
+616,7:50:13,"Mutavhatsindi, Makonde",BMW Ath & Running Club,RSA,1970,M,599,M35,163,11.101,7:41:46
+617,7:50:20,"Khathi, Makhosonke",Zabalaza Athletic Club,RSA,1975,M,600,M23,274,11.099,7:50:15
+618,7:50:21,"Molatlwa, Ernest Kgosietsile",SANDF AC - CG,RSA,1966,M,601,M40,101,11.098,7:32:38
+619,7:50:29,"Zulu, Muziwakhe",Nongoma Athletics Club,RSA,1985,M,602,MU23,10,11.095,7:50:29
+620,7:50:41,"Mmbodi, Robert",Rocky Road Runners,RSA,1964,M,603,M40,102,11.09,7:21:56
+621,7:50:54,"Radebe, Sdu",Nedbank Running Club KZN,RSA,1976,M,604,M23,275,11.085,7:50:49
+622,7:50:54,"Nyembezi, Mavela Albert",South Coast Striders,RSA,1979,M,604,M23,275,11.085,7:50:54
+623,7:50:55,"Manamela, Silas Phuti",Sadac Athletic Club,RSA,1974,M,606,M23,277,11.085,7:49:34
+624,7:50:56,"Moipolai, Tebogo",Kagisano Athletic Club,RSA,1977,M,607,M23,278,11.084,7:50:56
+625,7:51:01,"Mbanjwa, Bongani",Eskom Gijimas - KZN,RSA,1978,M,608,M23,279,11.082,7:51:01
+626,7:51:07,"Mokgonami, Mpho",Nedbank Running Club GN,RSA,1975,M,609,M23,280,11.08,7:50:34
+627,7:51:15,"Stapel, Gunter",Benoni Northerns Athle...,RSA,1962,M,610,M45,38,11.077,7:18:47
+628,7:51:15,"Ngcobo, Phuzakahle Obert",Collegians Harriers,RSA,1969,M,610,M35,164,11.077,7:42:47
+629,7:51:18,"Gemmill, Stuart",Harare Atheltic Club -...,ZIM,1970,M,612,M35,165,11.076,7:45:11
+630,7:51:18,"Mbhense, Reginald",Eskom Gijimas - KZN,RSA,1979,M,612,M23,281,11.076,7:51:18
+631,7:51:24,"Dlamini, Abel Matthew",Vodacom Yebo Striders,RSA,1970,M,614,M35,166,11.073,7:42:55
+632,7:51:30,"Shamase, Siphamandla Raymond",Umlazi Athletic Club,RSA,1977,M,615,M23,282,11.071,7:51:30
+633,7:51:31,"Mkhwanazi, Nkanyiso",Boxer Superstores Athl...,RSA,1980,M,616,M23,283,11.071,7:51:31
+634,7:51:33,"Ntombayithethi, Thembisile",Alex Wasps AC,RSA,1973,M,617,M23,284,11.07,7:50:11
+635,7:51:36,"Mabhena, Abednigo Mawoyi",Toyota AC (CG),ZIM,1960,M,618,M45,39,11.069,7:08:08
+636,7:51:39,"Montewa, Simon",Klerksdorp Marathon Klub,RSA,1968,M,619,M35,167,11.068,7:40:26
+637,7:51:46,"Khumalo, Agrippa",Umqulusi Athletic Club,RSA,1965,M,620,M40,103,11.065,7:30:19
+638,7:51:49,"Selepe, Themba Richard",,RSA,1972,M,621,M35,168,11.064,7:47:38
+639,7:52:07,"Wood, Haydon",Oxford Striders,RSA,1965,M,622,M40,104,11.057,7:30:39
+640,7:52:18,"Maluleke, Mzamani Derick",Kruger Park Marathon Club,RSA,1973,M,623,M23,285,11.052,7:50:56
+641,7:52:52,"Manko, David",Nedbank Running Club CG,RSA,1967,M,624,M40,105,11.039,7:35:03
+642,7:52:54,"Gore, Bruce",Durban High School Old...,RSA,1970,M,625,M35,169,11.038,7:46:46
+643,7:53:43,"Mika, Thabo",Wattville AC,RSA,1977,M,626,M23,286,11.019,7:53:43
+644,7:53:44,"Gwala, Henry",Ubunye Athletic Club,RSA,1970,M,627,M35,170,11.019,7:45:13
+645,7:53:44,"McCrindle, Kenneth",Boksburg AC,RSA,1958,M,627,M50,14,11.019,7:02:40
+646,7:53:46,"Ndlovu, Mduduzi",Maritzburg City Athlet...,RSA,1975,M,629,M23,287,11.018,7:53:12
+647,7:53:46,"Botton, Wesley",Boksburg AC,RSA,1983,M,629,M23,287,11.018,7:53:46
+648,7:53:55,"Sigenu, Walter Silulamile",Lesedi Athletic Club,RSA,1975,M,631,M23,289,11.015,7:53:21
+649,7:53:57,"Zungu, Thulani",Nedbank Running Club KZN,RSA,1979,M,632,M23,290,11.014,7:53:57
+650,7:54:02,"Makhathini, Mazwenkosi Anthony",Nedbank Running Club KZN,RSA,1974,M,633,M23,291,11.012,7:53:28
+651,7:54:17,"Mbokazi, Petros Vusi",Carnival City Runners,RSA,1970,M,634,M35,171,11.006,7:48:08
+652,7:54:18,"Mlambo, Edson",Nedbank Running Club M...,RSA,1972,M,635,M35,172,11.006,7:50:05
+653,7:54:18,"Radebe, Sonwabile",KZN Striders Athletic ...,RSA,1980,M,635,M23,292,11.006,7:54:18
+654,7:54:25,"Mbonambi, Nkosinathi",Oasis Crescent Runners,RSA,1964,M,637,M40,106,11.003,7:29:08
+655,7:54:25,"Mahlangu, Sipho",New Balance AC GN,RSA,1971,M,637,M35,173,11.003,7:48:15
+656,7:54:25,"Mateo, Faro",Old Selbornians Road R...,RSA,1967,M,637,M40,106,11.003,7:40:00
+657,7:54:26,"Letlhaku, Moses",Carlton Athletic Club,RSA,1964,M,640,M40,108,11.003,7:29:09
+658,7:54:27,"Mabena, Paul Thabiso",Ilanga Athletic Club,RSA,1965,M,641,M40,109,11.002,7:29:10
+659,7:54:27,"Khumalo, Ayanda",Thembelisha New Hope AC,RSA,1984,M,641,M23,293,11.002,7:54:27
+660,7:54:30,"Mavimbela, Xolani Morgan",,RSA,1976,M,643,M23,294,11.001,7:54:25
+661,7:54:32,"Kompi, Izak",Harmony Striders Virginia,RSA,1964,M,644,M40,110,11.0,7:29:15
+662,7:54:32,"Ellis, Andrew",Twini Athletic Club,RSA,1975,M,644,M23,295,11.0,7:54:27
+663,7:54:32,"Oerson, Eamon",Nedbank Running Club E...,RSA,1985,M,644,M23,295,11.0,7:54:32
+664,7:54:58,"Jordaan, Daniel",Anglo RPM Marathon Club,RSA,1967,M,647,M40,111,10.99,7:37:04
+665,7:55:00,"Strydom, Johan",Eskom Gijimas - MPL,RSA,1958,M,648,M50,15,10.989,7:03:48
+666,7:55:08,"Lenyibi, Tebogo",Eskom Gijimas - CG,RSA,1972,M,649,M35,174,10.986,7:52:32
+667,7:55:09,"Coetzee, Wilhelm",West Coast AC,RSA,1956,M,650,M50,16,10.986,7:00:17
+668,7:55:09,"Shezi, Hlalazi",Hillcrest Villagers AC,RSA,1984,M,650,M23,297,10.986,7:55:09
+669,7:55:18,"Nyathi, John",Kruger Park Marathon Club,RSA,1969,M,652,M35,175,10.983,7:46:45
+670,7:55:21,"Mello, Moroma",Nedbank Running Club CG,RSA,1963,M,653,M45,40,10.981,7:22:36
+671,7:55:46,"Morowane, Joseph",Boksburg AC,RSA,1961,M,654,M45,41,10.972,7:19:20
+672,7:55:46,"Msimango, Stephen Johannes",Benoni Northerns Athle...,RSA,1963,M,654,M45,41,10.972,7:23:00
+673,7:55:46,"Ramashapa, Simon",Corobrik Athletic Club,RSA,1965,M,654,M40,112,10.972,7:30:25
+674,7:55:50,"Vezi, Thulebona",Pinetown & District AC,RSA,1981,M,657,M23,298,10.97,7:55:50
+675,7:55:50,"Sadler, Angela",*England,GBR,1959,F,18,W45,5,10.97,7:12:41
+676,7:55:52,"Sclanders, Gregor",Estcourt Athletic club,RSA,1969,M,658,M35,176,10.969,7:47:19
+677,7:55:52,"Nzimakwe, Ayanda",South Coast Striders,RSA,1985,M,658,MU23,11,10.969,7:55:52
+678,7:55:56,"Dlamini, Nguwako",Collegians Harriers,RSA,1965,M,660,M40,113,10.968,7:30:34
+679,7:55:57,"Mokoena, Motukela Petrus",Harmony Striders Virginia,RSA,1972,M,661,M35,177,10.968,7:53:20
+680,7:55:58,"Phungula, Mlungisi",Nedbank Running Club KZN,RSA,1979,M,662,M23,299,10.967,7:55:58
+681,7:56:03,"Parbhoo, Kashmira",Lenasia AC,RSA,1974,F,19,W23,8,10.965,7:55:44
+682,7:56:10,"Murphy, Grant",Phalaborwa Road Runner...,RSA,1974,M,663,M23,300,10.963,7:54:48
+683,7:56:14,"Mdluli, Thami",Rocky Road Runners,RSA,1958,M,664,M45,43,10.961,7:08:37
+684,7:56:18,"Masoma, Stephen",Rocky Road Runners,RSA,1961,M,665,M45,44,10.959,7:16:07
+685,7:56:22,"Chabeli, Lefang",Northam Platinum Athle...,RSA,1975,M,666,M23,301,10.958,7:55:48
+686,7:56:32,"Borephe, Moripi",Arcelor Mittal AC - VT,RSA,1964,M,667,M40,114,10.954,7:31:09
+687,7:56:33,"Carstens, Marius Jacobus",Alberton AC,RSA,1957,M,668,M50,17,10.954,7:05:11
+688,7:56:40,"Heyns, Jacques",Fourways Road Runners,RSA,1968,M,669,M40,115,10.951,7:42:11
+689,7:57:02,"Wright, Stephen",*England,GBR,1972,M,670,M35,178,10.943,7:54:25
+690,7:57:26,"Nkosi, Mxolisi",Biggarsberg AC,RSA,1977,M,671,M23,302,10.933,7:57:26
+691,7:57:27,"Adams, Gene",Nedbank Development Cl...,RSA,1980,M,672,M23,303,10.933,7:57:27
+692,7:57:39,"Mhlanga, Lawrence",Rand AC,RSA,1972,M,673,M35,179,10.929,7:53:24
+693,7:57:43,"Smith, Francois",Old Selbornians Road R...,RSA,1971,M,674,M35,180,10.927,7:53:28
+694,7:57:45,"Motha, Meshack Mokhehla",NCP Chlorchem Athletic...,RSA,1959,M,675,M45,45,10.926,7:09:59
+695,7:57:48,"Seleke, Petrus",Goodie Educators AC,RSA,1976,M,676,M23,304,10.925,7:57:48
+696,7:57:50,"Maass, Alwyn",Namaqua Athletic Club,RSA,1969,M,677,M35,181,10.924,7:49:14
+697,7:57:57,"Talane, Frans",Twickenham Mine Athlet...,RSA,1982,M,678,M23,305,10.922,7:57:57
+698,7:58:01,"Turnbull, Andrew",,GBR,1972,M,679,M35,182,10.92,7:53:46
+699,7:58:04,"Hlengwa, Innocent",Boxer Superstores Athl...,RSA,1984,M,680,M23,306,10.919,7:58:04
+700,7:58:19,"Harbinson, Mike",Alberton AC,RSA,1981,M,681,M23,307,10.913,7:58:19
+701,7:58:22,"Moses, Thomas",Worcester Athletic Club,RSA,1957,M,682,M50,18,10.912,7:03:07
+702,7:58:22,"Ngidi, Khulekani",St James Athletics,RSA,1979,M,682,M23,308,10.912,7:58:22
+703,7:58:24,"Khomo, Qinisela",Msinsi Athletic Club,RSA,1965,M,684,M40,116,10.911,7:36:38
+704,7:58:25,"Zipp, Roger",Bedfordview Athletics ...,RSA,1962,M,685,M45,46,10.911,7:21:47
+705,7:58:33,"Nhlenyama, Sithembiso",Maritzburg City Athlet...,RSA,1975,M,686,M23,309,10.908,7:58:28
+706,7:58:36,"Nsindane, Sandile Welcome",Thembelisha New Hope AC,RSA,1978,M,687,M23,310,10.907,7:58:36
+707,7:58:38,"Mathabela, Tseko",Berts Bricks Athletic ...,RSA,1968,M,688,M35,183,10.906,7:47:15
+708,7:58:39,"Vorster, Johannes",Berts Bricks Athletic ...,RSA,1968,M,689,M35,184,10.906,7:47:16
+709,7:58:48,"Khumalo, Francis",uMhlathuze Athletic Club,RSA,1981,M,690,M23,311,10.902,7:58:48
+710,7:58:49,"Muller, Lizette",New Balance AC GN,RSA,1969,F,20,W35,5,10.902,7:52:13
+711,7:58:50,"Mbhele, Bhekithemba",KwaMashu Athletic Club,RSA,1975,M,691,M23,312,10.901,7:58:45
+712,7:59:11,"Mkhwanazi, Mbuti",Ukhozi Athletic Club,RSA,1962,M,692,M45,47,10.894,7:26:11
+713,7:59:11,"Potgieter, Marissa",Nedbank Running Club GN,RSA,1969,F,21,W35,6,10.894,7:50:20
+714,7:59:18,"Jili, Khayelihle",Mangosuthu Athletic Club,RSA,1982,M,693,M23,313,10.891,7:59:18
+715,7:59:26,"Letcher, Norman",Randburg Harriers,RSA,1967,M,694,M40,117,10.888,7:44:52
+716,7:59:26,"Nkosi, Simeon Makhosini",Eskom Gijimas - MPL,RSA,1967,M,694,M40,117,10.888,7:41:22
+717,7:59:30,"Sotubhu, Thandekile",Ubunye Athletic Club,RSA,1970,M,696,M35,185,10.886,7:53:16
+718,7:59:30,"Phiri, Isaac Shagashe",Krugersdorp Road Runners,RSA,1974,M,696,M23,314,10.886,7:58:56
+719,7:59:31,"Mndebele, Johannes",Exxaro Athletic Club GN,RSA,1961,M,698,M45,48,10.886,7:22:48
+720,7:59:33,"Madonsela, George",Nedbank Running Club CG,RSA,1960,M,699,M45,49,10.885,7:19:05
+721,7:59:34,"Mngoma, Bethuel",Nedbank Running Club KZN,RSA,1980,M,700,M23,315,10.885,7:59:34
+722,7:59:35,"Tabi, Lucas",Ficksburg Marathon Club,RSA,1984,M,701,M23,316,10.884,7:59:35
+723,7:59:35,"Tshapa, Ayanda Andries",KZN Striders Athletic ...,RSA,1979,M,701,M23,316,10.884,7:59:35
+724,7:59:35,"Dladla, Phumlani",KZN Striders Athletic ...,RSA,1979,M,701,M23,316,10.884,7:59:35
+725,7:59:36,"Ramparsad, Julian",KZN Striders Athletic ...,RSA,1966,M,704,M40,119,10.884,7:41:32
+726,7:59:36,"Shabalala, Dumisani",KZN Striders Athletic ...,RSA,1964,M,704,M40,119,10.884,7:30:18
+727,7:59:39,"Ntobo, Lebenya Petros",Goldfields Athletics Club,RSA,1969,M,706,M35,186,10.883,7:48:15
+728,7:59:46,"Sokhela, Sikhumbuziso Joel",Ubunye Athletic Club,RSA,1972,M,707,M35,187,10.88,7:57:08
+729,7:59:50,"Mbili, Lucas Mafika",Gods Goldern Acre AC,RSA,1975,M,708,M23,319,10.879,7:59:45
+730,8:00:00,"Mokubedi, John Mogagabo",Moretele AC,RSA,1969,M,709,M35,188,10.875,7:48:35
+731,8:00:02,"Chemane, Conrad Themba",Ixopo Athletic Club,RSA,1975,M,710,M23,320,10.874,7:59:28
+732,8:00:12,"Sauhatsi, Thabo",Carnival City Runners,RSA,1966,M,711,M40,121,10.87,7:42:06
+733,8:00:13,"Makhonjwa, George",Wingate Road Runners,RSA,1980,M,712,M23,321,10.87,8:00:13
+734,8:00:15,"Mhlungu, Thokozani",Pinetown & District AC,RSA,1976,M,713,M23,322,10.869,8:00:15
+735,8:00:36,"Thafeni, Khangelani",KZN Striders Athletic ...,RSA,1978,M,714,M23,323,10.861,8:00:36
+736,8:00:40,"Ncwane, Mbangiswa",Verulam AC,RSA,1963,M,715,M40,122,10.86,7:31:18
+737,8:00:43,"Magwa, Lonwabo",Durban Athletic Club,RSA,1978,M,716,M23,324,10.859,8:00:43
+738,8:01:01,"Boniwell, Ann",The Legends,RSA,1984,F,22,W23,9,10.852,8:01:01
+739,8:01:07,"Mgabhi, Lawrence",Thembelisha New Hope AC,RSA,1971,M,717,M35,189,10.85,7:56:51
+740,8:01:08,"Wrapson, Stephen",Tuks Marathon Club,GBR,1978,M,718,M23,325,10.849,8:01:08
+741,8:01:08,"Sather, Joel",,USA,1971,M,718,M35,190,10.849,7:56:52
+742,8:01:14,"Bashe, Bongani",Crusaders Athletic Club,RSA,1981,M,720,M23,326,10.847,8:01:14
+743,8:01:15,"Bergmeister, Felix",Austria,AUT,1977,M,721,M23,327,10.847,8:01:15
+744,8:01:17,"Tshie, Frans",Polokwane Athletic Club,RSA,1968,M,722,M35,191,10.846,7:49:50
+745,8:01:39,"Phetla, George Sekolopata Ricky",Correc. Services - Goe...,RSA,1973,M,723,M35,192,10.838,7:59:01
+746,8:01:45,"Mkhize, Zamo",KZN Striders Athletic ...,RSA,1977,M,724,M23,328,10.835,8:01:45
+747,8:01:49,"Ndaba, Lawrence",Stella Athletic Club,RSA,1978,M,725,M23,329,10.834,8:01:49
+748,8:01:51,"Mbuyisa, Bongani",Scaw Harriers Athletic...,RSA,1978,M,726,M23,330,10.833,8:01:51
+749,8:01:54,"Conradie, Tiaan",Sunninghill Striders R...,RSA,1975,M,727,M23,331,10.832,8:01:20
+750,8:01:57,"Mazibuko, Bonginkosi",KZN Striders Athletic ...,RSA,1971,M,728,M35,193,10.831,7:57:40
+751,8:01:58,"Hadebe, Thami",KZN Striders Athletic ...,RSA,1976,M,729,M23,332,10.831,8:01:58
+752,8:02:00,"Mdunjana, Jabulani",Pinetown & District AC,RSA,1976,M,730,M23,333,10.83,8:02:00
+753,8:02:01,"Mogashane, Madumetja",Nedbank Running Club GN,RSA,1960,M,731,M45,50,10.83,7:17:35
+754,8:02:09,"Cele, Ncane",SAPS Striders KZN,RSA,1974,M,732,M23,334,10.827,8:00:46
+755,8:02:17,"Fanella, Stephen",Raleigh Athletic Tri Club,RSA,1963,M,733,M45,51,10.824,7:29:04
+756,8:02:19,"Nala, Nkosiyethu",Ukhozi Athletic Club,RSA,1966,M,734,M40,123,10.823,7:40:23
+757,8:02:23,"Mbili, Edmund Mandla",St James Athletics,RSA,1974,M,735,M23,335,10.821,8:01:49
+758,8:02:24,"Langa, Charles",Sadac Athletic Club,RSA,1959,M,736,M45,52,10.821,7:14:10
+759,8:02:24,"Khali, Banele",Diepkloof Athletics Club,RSA,1977,M,736,M23,336,10.821,8:02:24
+760,8:02:26,"Govender, Barlan",Chatsworth Athletic Club,RSA,1959,M,738,M45,53,10.82,7:17:58
+761,8:02:28,"Majola, Mbewana Freddy",Arcelor Mittal AC - VT,RSA,1970,M,739,M35,194,10.819,7:53:47
+762,8:02:28,"Msani, Vukani",Hillcrest Villagers AC,RSA,1984,M,739,M23,337,10.819,8:02:28
+763,8:02:30,"Mortimer, Christopher",South Coast Striders,RSA,1960,M,741,M45,54,10.819,7:21:47
+764,8:02:34,"Msomi, Thamsanqa",KZN Striders Athletic ...,RSA,1976,M,742,M23,338,10.817,8:02:34
+765,8:02:35,"Sibiya, Amos Solly",Mr Price AC MPL,RSA,1981,M,743,M23,339,10.817,8:02:35
+766,8:02:35,"Nzama, Syabonga",Ubunye Athletic Club,RSA,1978,M,743,M23,339,10.817,8:02:35
+767,8:02:36,"Xaba, Nkosinomusa",Newlands Striders,RSA,1980,M,745,M23,341,10.816,8:02:36
+768,8:02:41,"Phokane, Justice Tilwane",Modikwa Marathon Club,RSA,1978,M,746,M23,342,10.815,8:02:41
+769,8:02:44,"Mtshali, Welcome Mandlenkosi",Pinetown & District AC,RSA,1965,M,747,M40,124,10.813,7:40:47
+770,8:02:45,"Zulu, Sihle",Umlazi Athletic Club,RSA,1977,M,748,M23,343,10.813,8:02:45
+771,8:02:46,"Sethosa, Matsobane Piet",SANDF AC - LP,RSA,1966,M,749,M40,125,10.813,7:44:34
+772,8:02:52,"Anderson, Helene",New Balance AC GN,RSA,1973,F,23,W35,7,10.81,8:01:00
+773,8:02:52,"Nhlengethwa, Ellias Zwethanda",Eskom Gijimas - KZN,RSA,1975,M,750,M23,344,10.81,8:02:18
+774,8:02:56,"Pudi, Ramosimane",Goldfields Athletics Club,RSA,1960,M,751,M45,55,10.809,7:18:25
+775,8:02:56,"Chauke, Sipho",Sabie Shufflers,RSA,1981,M,751,M23,345,10.809,8:02:56
+776,8:02:58,"Mtamzeli, Tembalethu",Rocky Road Runners,RSA,1980,M,753,M23,346,10.808,8:02:58
+777,8:02:58,"Zulu, Mthokozisi Andrias",KwaMashu Athletic Club,RSA,1977,M,753,M23,346,10.808,8:02:58
+778,8:02:59,"Phetla, Masemene Andries",Bronkhorstspruit Athle...,RSA,1978,M,755,M23,348,10.808,8:02:59
+779,8:03:02,"Matlhatsi, Diteko Edward",Vaal Reefs Marathon Club,RSA,1966,M,756,M40,126,10.807,7:41:04
+780,8:03:05,"Maselesele, Albert",Nedbank Running Club CG,RSA,1971,M,757,M35,195,10.806,7:58:48
+781,8:03:14,"Tolo, Isaiah",Irene Road Running Club,RSA,1965,M,758,M40,127,10.802,7:37:29
+782,8:03:26,"Mbambo, Nkosinathi",Eskom Gijimas - KZN,RSA,1978,M,759,M23,349,10.798,8:03:26
+783,8:03:31,"Mokoena, Jacob",Arcelor Mittal AC - VT,RSA,1963,M,760,M40,128,10.796,7:33:59
+784,8:03:35,"Simelane, Nkhosinathi C.",Eskom Gijimas George -...,SWZ,1973,M,761,M23,350,10.794,8:02:11
+785,8:03:38,"Laybourn, Darrel",Boksburg AC,RSA,1967,M,762,M40,129,10.793,7:45:25
+786,8:03:50,"Nise, Alfred",Knysna Marathon Club,RSA,1968,M,763,M40,130,10.789,7:49:08
+787,8:03:50,"Mbanjwa, Thembinkosi",Hillcrest Villagers AC,RSA,1970,M,763,M35,196,10.789,7:57:33
+788,8:03:53,"Ledimo, Lazarus",Longtom Marathon Club,RSA,1973,M,765,M23,351,10.788,8:02:29
+789,8:03:54,"Jordaan, Abre",Strand Athletic Club,RSA,1968,M,766,M40,131,10.787,7:49:12
+790,8:03:54,"Mota, Pontsho Danel",Bethlehem Marathon Club,RSA,1979,M,766,M23,352,10.787,8:03:54
+791,8:04:00,"du Toit, Andre",PVM Affies Marathon Kl...,RSA,1973,M,768,M23,353,10.785,8:02:36
+792,8:04:08,"Langa, David",Transwerk AC GN,RSA,1953,M,769,M50,19,10.782,6:56:54
+793,8:04:11,"Mukwevho, Patrick Tshilidzi",Roodepoort Athletic Club,RSA,1972,M,770,M35,197,10.781,8:01:32
+794,8:04:13,"Masilela, Japie",Eskom Gijimas - MPL,RSA,1960,M,771,M45,56,10.78,7:23:21
+795,8:04:21,"Magubane, Stanley",Germiston Callies Harr...,RSA,1961,M,772,M45,57,10.777,7:27:15
+796,8:04:32,"Mhlongo, Sihle",KwaMashu Athletic Club,RSA,1980,M,773,M23,354,10.773,8:04:32
+797,8:04:34,"Dlamini, Mthobisi",Collegians Harriers,RSA,1984,M,774,M23,355,10.773,8:04:34
+798,8:04:35,"Mlobeli, Fuza",Eyethu Athletic Club,RSA,1972,M,775,M35,198,10.772,8:01:56
+799,8:04:42,"Cele, Mlungiselwa",Maritzburg City Athlet...,RSA,1978,M,776,M23,356,10.77,8:04:42
+800,8:04:46,"Geldenhuys, Hermanus",Newcastle Harriers Club,RSA,1972,M,777,M35,199,10.768,8:02:07
+801,8:04:48,"Sikhosana, Siyanda",Glenwood Harriers,RSA,1985,M,778,M23,357,10.767,8:04:48
+802,8:04:54,"Schulze, Peter",,GER,1964,M,779,M40,132,10.765,7:39:04
+803,8:05:00,"Mayeza, Simon Mphikiswa",Queensburgh Harriers,RSA,1968,M,780,M40,133,10.763,7:50:16
+804,8:05:01,"Lushaba, Alfred",Natal Portland Cement ...,RSA,1969,M,781,M35,200,10.763,7:56:18
+805,8:05:06,"Mofokeng, Phakiso",Nedbank Running Club CG,RSA,1981,M,782,M23,358,10.761,8:05:06
+806,8:05:07,"Ntoyi, Jack",Galeshewe Striders,RSA,1969,M,783,M35,201,10.76,7:56:24
+807,8:05:07,"Icekana, Isaac",Rocky Road Runners,RSA,1967,M,783,M40,134,10.76,7:46:50
+808,8:05:11,"Mthimunye, Absalom Bafana",Sasol Marathon Klub - ...,RSA,1966,M,785,M40,135,10.759,7:43:07
+809,8:05:12,"Letsela, David",Maokeng Golden Sprinters,RSA,1973,M,786,M23,359,10.758,8:03:48
+810,8:05:14,"Masombuka, Jan",Beefcor Marathon Club GN,RSA,1975,M,787,M23,360,10.758,8:04:40
+811,8:05:16,"Molefe, Michael",Queensburgh Harriers,RSA,1971,M,788,M35,202,10.757,7:58:58
+812,8:05:17,"Sambo, James",Discovery Vitality Ath...,RSA,1972,M,789,M35,203,10.757,8:00:58
+813,8:05:23,"Bombay, Patrick",Sabie Shufflers,RSA,1978,M,790,M23,361,10.754,8:05:23
+814,8:05:24,"Ntola, Bongwa",Willie Mtolo Athletic ...,RSA,1971,M,791,M35,204,10.754,7:59:06
+815,8:05:25,"Masemula, Molete Lucas",Polokwane Athletic Club,RSA,1977,M,792,M23,362,10.754,8:05:25
+816,8:05:30,"Ngcobo, Sfiso Alfred",Maritzburg City Athlet...,RSA,1978,M,793,M23,363,10.752,8:05:30
+817,8:05:33,"Molepo, Johannes",Correc.Services AC GN,RSA,1965,M,794,M40,136,10.751,7:39:41
+818,8:05:46,"Vergo, Robert",Denmark,DEN,1978,M,795,M23,364,10.746,8:05:46
+819,8:05:49,"Kekana, Daniel",Carlton Athletic Club,RSA,1979,M,796,M23,365,10.745,8:05:49
+820,8:05:50,"Sobhoyisi, Mzolisi",Nedbank Running Club SWD,RSA,1978,M,797,M23,366,10.744,8:05:50
+821,8:05:52,"Mtshali, Lucky Thuthukani",KZN Striders Athletic ...,RSA,1976,M,798,M23,367,10.744,8:05:52
+822,8:06:01,"Mpopo, Steven",Correc.Services AC - CG,RSA,1974,M,799,M23,368,10.74,8:05:27
+823,8:06:10,"Mbanjwa, Lenford",Verulam AC,RSA,1966,M,800,M40,137,10.737,7:47:51
+824,8:06:12,"Botha, Austin",Powerade Athletic Club,RSA,1972,M,801,M35,205,10.736,8:03:32
+825,8:06:15,"Armstrong, Nigel",United Kingdom,GBR,1968,M,802,M35,206,10.735,7:54:41
+826,8:06:29,"Smit, Aldrin",New Balance AC WP,RSA,1975,M,803,M23,369,10.73,8:05:54
+827,8:06:31,"Mkhize, Cyril",Eskom Gijimas - KZN,RSA,1975,M,804,M23,370,10.729,8:06:26
+828,8:06:32,"Nkontwana, Delani",Roodepoort Athletic Club,RSA,1977,M,805,M23,371,10.729,8:06:32
+829,8:06:35,"Steyn, Pierre",Umvoti Athletic Club,RSA,1968,M,806,M35,207,10.728,7:55:01
+830,8:06:35,"Mthembu, Sbonelo",Eskom Gijimas - KZN,RSA,1982,M,806,M23,372,10.728,8:06:35
+831,8:06:43,"Dimba, Derrick Nhlanhla",Nedbank Running Club CG,RSA,1975,M,808,M23,373,10.725,8:06:38
+832,8:06:50,"Selepe, Ngaka Elliot",Bethlehem Marathon Club,RSA,1968,M,809,M35,208,10.722,7:55:15
+833,8:06:52,"Hofmeyr, Hercules Daniel",Swartland Atletiek Klub,RSA,1958,M,810,M50,20,10.722,7:14:23
+834,8:06:52,"Magagane, John",Rand Road Warriors,RSA,1961,M,810,M45,58,10.722,7:29:35
+835,8:06:54,"Shadwell, Julie",Hillcrest Villagers AC,RSA,1962,F,24,W45,6,10.721,7:32:52
+836,8:07:05,"Mathe, Morris",Goldfields Athletics Club,RSA,1978,M,812,M23,374,10.717,8:07:05
+837,8:07:15,"Geekie, Adrian",,RSA,1972,M,813,M35,209,10.713,8:04:35
+838,8:07:16,"Moolman, Wessel",,RSA,1980,M,814,M23,375,10.713,8:07:16
+839,8:07:17,"Semetse, Khenene",,RSA,1970,M,815,M35,210,10.712,8:00:57
+840,8:07:31,"Maitsiboa, Lebogang",Sesheng Athletic Club,RSA,1984,M,816,M23,376,10.707,8:07:31
+841,8:07:34,"Hikwane, Thebe Active",Sesheng Athletic Club,RSA,1987,M,817,MU23,12,10.706,8:07:34
+842,8:07:36,"Makoro, Josiah",Boksburg AC,RSA,1957,M,818,M50,21,10.705,7:11:17
+843,8:07:41,"Mdeliswa, Luzuko",Eskom Gijimas - KZN,RSA,1982,M,819,M23,377,10.704,8:07:41
+844,8:07:42,"Neumann, Jens",Germany,GER,1971,M,820,M35,211,10.703,8:03:22
+845,8:07:43,"Phillips, Nkosana",Continental Athletic C...,RSA,1963,M,821,M40,138,10.703,7:37:56
+846,8:07:45,"Mhlongo, Thamsanqa",Eskom Gijimas - KZN,RSA,1975,M,822,M23,378,10.702,8:07:10
+847,8:07:48,"Ntweni, Khanya",Nedbank Running Club CG,RSA,1977,M,823,M23,379,10.701,8:07:48
+848,8:07:50,"Notununu, Andries",Nedbank Running Club KZN,RSA,1982,M,824,M23,380,10.7,8:07:50
+849,8:07:53,"Dlamini, Sokesibone",Ethekwini Community Ch...,RSA,1976,M,825,M23,381,10.699,8:07:53
+850,8:07:53,"Mdhladhla, Mandla",Newcastle Harriers Club,RSA,1974,M,825,M23,381,10.699,8:06:29
+851,8:07:54,"Khumalo, Richard",Eskom Gijimas - KZN,RSA,1964,M,827,M40,139,10.699,7:38:06
+852,8:07:55,"Mosala, Bernard",Carlton Athletic Club,RSA,1963,M,828,M40,140,10.699,7:38:07
+853,8:07:56,"Mosala, Thomas Abram",Rand Water AC - VT,RSA,1975,M,829,M23,383,10.698,8:07:51
+854,8:08:16,"Dlamini, Xolani",Hlabisa Athletics Club,RSA,1976,M,830,M23,384,10.691,8:08:11
+855,8:08:21,"Ravele, Mulalo",Pharasumaline Athletic...,RSA,1971,M,831,M35,212,10.689,8:02:01
+856,8:08:21,"Mkhize, Nkosikhona",Ntunjambili,RSA,1981,M,831,M23,385,10.689,8:08:21
+857,8:08:24,"Mkhovane, Ntombikayise Cynthia",Powerade Athletic Club,RSA,1964,F,25,W40,3,10.688,7:43:07
+858,8:08:24,"Sefatsa, Isaac",South Deep AC,RSA,1963,M,833,M40,141,10.688,7:38:34
+859,8:08:27,"Manciya, Themba",Correc.Services AC - KZN,RSA,1974,M,834,M23,386,10.687,8:07:03
+860,8:08:30,"Mkhulise, Harrison",Verulam AC,RSA,1978,M,835,M23,387,10.686,8:08:30
+861,8:08:31,"Mohubedu, Mabothela George",Tubatse Marathon Club,RSA,1968,M,836,M40,142,10.685,7:53:40
+862,8:08:43,"Stewart, Martin",West Coast AC,RSA,1964,M,837,M40,143,10.681,7:42:41
+863,8:08:54,"Ngema, Sihle",Ntunjambili,RSA,1979,M,838,M23,388,10.677,8:08:54
+864,8:09:01,"Thobane, Stephens Tony",Arcadia Running Club,RSA,1971,M,839,M35,213,10.674,8:04:40
+865,8:09:11,"Mhlongo, Zeblon",Umtshezi Athletic Club,RSA,1965,M,840,M40,144,10.671,7:43:07
+866,8:09:14,"Ditsebe, Abram Oatihotse",Kimberley Road Runners,RSA,1976,M,841,M23,389,10.67,8:09:09
+867,8:09:15,"Engels, Janine",Pinetown & District AC,RSA,1962,F,26,W45,7,10.669,7:35:04
+868,8:09:17,"Swart, Deon",Running Inn Athletics ...,RSA,1971,M,842,M35,214,10.669,8:02:56
+869,8:09:19,"Kgapola, William",Exxaro Athletic Club GN,RSA,1975,M,843,M23,390,10.668,8:09:14
+870,8:09:25,"Pretorius, Cornelius",Umqulusi Athletic Club,RSA,1971,M,844,M35,215,10.666,8:03:04
+871,8:09:36,"Reynolds, Doug",Rand AC,USA,1964,M,845,M40,145,10.662,7:39:42
+872,8:09:45,"Molefe, Zinto",Gods Goldern Acre AC,RSA,1978,M,846,M23,391,10.658,8:09:45
+873,8:09:47,"Marune, Themba Nathaniel",Vryburg Marathon Club,RSA,1978,M,847,M23,392,10.658,8:09:47
+874,8:09:54,"Mofokeng, Paulus",Lekoa AC,RSA,1962,M,848,M45,59,10.655,7:32:23
+875,8:09:55,"Bonatto, Raphael",Brazil,BRA,1980,M,849,M23,393,10.655,8:09:55
+876,8:10:05,"Khumalo, Simon",Eskom Gijimas - MPL,RSA,1969,M,850,M35,216,10.651,8:01:16
+877,8:10:16,"Naidoo, Krishna",Verulam AC,RSA,1961,M,851,M45,60,10.647,7:32:43
+878,8:10:25,"Ndlela, Derrick",Mr Price Running Club ...,RSA,1974,M,852,M23,394,10.644,8:09:00
+879,8:10:28,"Hlongane, Daniel",Nedbank Running Club GN,RSA,1948,M,853,M60,1,10.643,6:39:27
+880,8:10:29,"Lengweng, Moses",Carlton Athletic Club,RSA,1969,M,854,M35,217,10.643,8:01:40
+881,8:10:29,"Molapo, Lucky Joseph",Carlton Athletic Club,RSA,1968,M,854,M35,217,10.643,7:58:49
+882,8:10:32,"Mokhele, Justice",KwaMashu Athletic Club,RSA,1974,M,856,M23,395,10.641,8:09:07
+883,8:10:36,"Nene, Zwelakhe",Formula I Athletic Club,RSA,1973,M,857,M35,219,10.64,8:07:55
+884,8:10:36,"Charlie, Andries",Riebeeckstad Harriers,RSA,1964,M,857,M40,146,10.64,7:40:38
+885,8:10:36,"Masale, Bongani",Lesedi Athletic Club,RSA,1973,M,857,M23,396,10.64,8:09:11
+886,8:10:37,"Pasch, Johan",Breakthru Midrand Stri...,RSA,1959,M,860,M45,61,10.64,7:25:23
+887,8:10:42,"Nyide, Prince Nkosinathi",Chatsworth Athletic Club,RSA,1977,M,861,M23,397,10.638,8:10:42
+888,8:10:49,"Ngcobo, Thabani",Stella Athletic Club,RSA,1976,M,862,M23,398,10.635,8:10:44
+889,8:10:53,"Ncube, Bonginkosi",Thembelisha New Hope AC,RSA,1977,M,863,M23,399,10.634,8:10:53
+890,8:10:54,"Scott, Wayne Anthony",Pinetown & District AC,RSA,1963,M,864,M40,147,10.634,7:40:55
+891,8:10:57,"Khanyile, Nhlanhla Clement",Run Walk for Life KZN,RSA,1971,M,865,M35,220,10.632,8:06:35
+892,8:10:57,"Gazu, Vusi",Pinetown & District AC,RSA,1970,M,865,M35,220,10.632,8:02:07
+893,8:10:59,"Mohlala, Mpho Sipho",Exxaro Athletic Club GN,RSA,1973,M,867,M35,222,10.632,8:08:17
+894,8:11:05,"Sondezi, Duncan",Hibberdene Athletic Club,RSA,1970,M,868,M35,223,10.63,8:02:15
+895,8:11:14,"Tutubala, Joseph Lekgotla",Nedbank Running Club VT,RSA,1970,M,869,M35,224,10.626,8:04:51
+896,8:11:14,"Yeki, Isaac Zwelinzima",Nedbank Development Cl...,RSA,1971,M,869,M35,224,10.626,8:04:51
+897,8:11:24,"Jozana, Siyabonga",Stella Athletic Club,RSA,1977,M,871,M23,400,10.623,8:11:24
+898,8:11:25,"Ntombela, Phineas",KZN Striders Athletic ...,RSA,1958,M,872,M50,22,10.622,7:18:27
+899,8:11:26,"Dlamini, Vusi",Collegians Harriers,RSA,1979,M,873,M23,401,10.622,8:11:26
+900,8:11:26,"Gcwensa, Mzonjani Christopher",Mr Price Running Club ...,RSA,1966,M,873,M40,148,10.622,7:52:55
+901,8:11:30,"Zondi, Mandla",Scaw Harriers Athletic...,RSA,1958,M,875,M45,62,10.621,7:22:21
+902,8:11:34,"Mbuthuma, Fikile Fundisiwe",Nedbank Running Club KZN,RSA,1980,F,27,W23,10,10.619,8:11:34
+903,8:11:38,"Mthethwa, Cyprian Pandu",Woodview Athletic Club,RSA,1964,M,876,M40,149,10.618,7:45:26
+904,8:11:44,"Arentsen, Wesley",Oxford Striders,RSA,1981,M,877,M23,402,10.616,8:11:44
+905,8:11:53,"Mapimela, Christopher",Rocky Road Runners,RSA,1961,M,878,M45,63,10.612,7:34:13
+906,8:12:05,"Mkhize, Menzi Mduduzi",Hibberdene Athletic Club,RSA,1968,M,879,M35,226,10.608,8:00:23
+907,8:12:08,"Mkhize, Sibusiso",Ukhozi Athletic Club,RSA,1975,M,880,M23,403,10.607,8:11:33
+908,8:12:14,"Ndimande, Enos",Nedbank Running Club M...,RSA,1955,M,881,M50,23,10.605,7:11:33
+909,8:12:16,"Barker, Steven",Victorian Road Runners,AUS,1958,M,882,M45,64,10.604,7:23:03
+910,8:12:20,"Franz, Erwin",Germany,GER,1960,M,883,M45,65,10.603,7:30:47
+911,8:12:22,"Mareka, Moses",Rustenburg Marathon Club,RSA,1979,M,884,M23,404,10.602,8:12:22
+912,8:12:33,"Newfeldt, Vernon",Willard Batteries AC,RSA,1966,M,885,M40,150,10.598,7:50:09
+913,8:12:36,"Gallant, Geddes",Pretoria Millitary Mar...,RSA,1966,M,886,M40,151,10.597,7:54:02
+914,8:12:37,"Dube, Michael",SANBS Running Club CG,RSA,1963,M,887,M40,152,10.596,7:42:32
+915,8:12:38,"Senye, Herman Kabelo",Nedbank Development Cl...,RSA,1967,M,888,M40,153,10.596,7:54:04
+916,8:12:38,"Piloso, Mogale Wilson",SANDF AC - WP,RSA,1971,M,888,M35,227,10.596,8:06:14
+917,8:12:40,"Roodt, Johannes",Irene Road Running Club,RSA,1975,M,890,M23,405,10.595,8:12:35
+918,8:12:43,"Ndou, Mashudu",Alexandra Beaters AC,RSA,1976,M,891,M23,406,10.594,8:12:38
+919,8:12:47,"Mashike, Elias Chiko",Rand AC,RSA,1972,M,892,M35,228,10.593,8:08:24
+920,8:12:48,"Disemelo, Alfred",Berts Bricks Athletic ...,RSA,1973,M,893,M23,407,10.593,8:11:23
+921,8:12:50,"Wayland, Vanessa Adrienne",Golden Reef Road Runne...,RSA,1966,F,28,W40,4,10.592,7:58:09
+922,8:12:53,"Mavutana, Maxawu Charles",Foskor Athletic Club LP,RSA,1973,M,894,M23,408,10.591,8:11:28
+923,8:12:57,"Ngobeni, William Zolile",Tshwane Marathon Club,RSA,1975,M,895,M23,409,10.589,8:12:22
+924,8:13:06,"Pilusa, Mpho Moses",Benoni Northerns Athle...,RSA,1980,M,896,M23,410,10.586,8:13:06
+925,8:13:17,"Kadwa, Ebrahim",Lenasia AC,RSA,1968,M,897,M35,229,10.582,8:01:33
+926,8:13:18,"Hooi, Ronnie",SANDF AC - WP,RSA,1969,M,898,M35,230,10.582,8:01:34
+927,8:13:26,"Malotana, Alfred",Nedbank Running Club E...,RSA,1969,M,899,M35,231,10.579,8:04:34
+928,8:13:27,"Madona, Andries Vusimuzi",Nedbank Development Cl...,RSA,1977,M,900,M23,411,10.579,8:13:27
+929,8:13:38,"Mbexeshi, Lundile",Hamiltons Athletic Club,RSA,1976,M,901,M23,412,10.575,8:13:33
+930,8:13:46,"Motaung, Alfred",Germiston Callies Harr...,RSA,1969,M,902,M35,232,10.572,8:02:01
+931,8:13:51,"van Rooyen, Willem Frans",Berts Bricks Athletic ...,RSA,1976,M,903,M23,413,10.57,8:13:46
+932,8:13:52,"Dzanibe, Bonginkosi",Hlabisa Athletics Club,RSA,1981,M,904,M23,414,10.57,8:13:52
+933,8:13:53,"Bekker, Johannes Jacobus",Carlton Harriers,RSA,1982,M,905,M23,415,10.569,8:13:53
+934,8:14:01,"Molope, Jonas",Rocky Road Runners,RSA,1969,M,906,M35,233,10.566,8:05:08
+935,8:14:02,"Mkhize, Mkhonzeni",Toyota AC (CG),RSA,1977,M,907,M23,416,10.566,8:14:02
+936,8:14:09,"Ivings, Les",Carlton Harriers,RSA,1952,M,908,M55,5,10.564,6:57:52
+937,8:14:18,"Masiteng, Samuel",Katlehong Athletic Club,RSA,1972,M,909,M35,234,10.56,8:11:35
+938,8:14:18,"du Toit, Phillipus",Langeberg Athletic Club,RSA,1966,M,909,M40,154,10.56,7:51:49
+939,8:14:20,"Qoyi, Tumisang",Worcester Athletic Club,RSA,1985,M,911,MU23,13,10.56,8:14:20
+940,8:14:29,"Ndlovu, Thulasizwe",Hilton Harriers,RSA,1971,M,912,M35,235,10.556,8:10:05
+941,8:14:29,"Mokoena, Teboho",Bethlehem Marathon Club,RSA,1975,M,912,M23,417,10.556,8:14:24
+942,8:14:31,"Ntombela, Robert",Howick Athletic Club,RSA,1975,M,914,M23,418,10.556,8:13:56
+943,8:14:32,"Hanekom, Pieter",Nedbank Running Club WP,RSA,1969,M,915,M35,236,10.555,8:02:46
+944,8:14:33,"Mthembu, Elias",uMhlathuze Athletic Club,RSA,1978,M,916,M23,419,10.555,8:14:33
+945,8:14:34,"Langa, Cosmos Sazi",Correc.Services AC - KZN,RSA,1959,M,917,M45,66,10.555,7:28:59
+946,8:14:34,"O'Brien, Curtis",Brotherhood Athletic Club,RSA,1975,M,917,M23,420,10.555,8:14:29
+947,8:14:34,"Bobbert, Coenraad (Coenie)",Klerksdorp Marathon Klub,RSA,1967,M,917,M40,155,10.555,7:59:32
+948,8:14:34,"Molotsi, Tefo",Run Walk for Life CG,RSA,1978,M,917,M23,420,10.555,8:14:34
+949,8:14:34,"Shongwe, Michael",Yebo Striders,RSA,1966,M,917,M40,155,10.555,7:55:56
+950,8:14:34,"Mthembu, Sithembiso",Chatsworth Athletic Club,RSA,1977,M,917,M23,420,10.555,8:14:34
+951,8:14:34,"Kakole, Pheko",Carlton Athletic Club,RSA,1972,M,917,M35,237,10.555,8:10:10
+952,8:14:34,"da Matta, Antonio Jorge",Benoni Northerns Athle...,RSA,1961,M,917,M45,66,10.555,7:36:41
+953,8:14:35,"Johnson, Richard",Helderberg Harriers,RSA,1956,M,925,M50,24,10.554,7:13:37
+954,8:14:35,"Ngcoya, Pennwell",Maritzburg City Athlet...,RSA,1972,M,925,M35,238,10.554,8:10:11
+955,8:14:35,"Yende, Ephraim",Ukhozi Athletic Club,RSA,1963,M,925,M40,157,10.554,7:44:22
+956,8:14:35,"Maenetja, Donald",Rand AC,RSA,1968,M,925,M40,157,10.554,7:59:33
+957,8:14:35,"Masina, Paul Wonderboy",Eskom Gijimas - MPL,RSA,1979,M,925,M23,423,10.554,8:14:35
+958,8:14:35,"Mthembu, Bongile",Natal Portland Cement ...,RSA,1974,M,925,M23,423,10.554,8:14:00
+959,8:14:35,"Maluleka, Sibongiseni",Nedbank Running Club KZN,RSA,1970,M,925,M35,238,10.554,8:05:41
+960,8:14:35,"Mashele, Joseph",Hilton Harriers,RSA,1977,M,925,M23,423,10.554,8:14:35
+961,8:14:35,"Seotloadi, Henry",Lonmin Platinum Marath...,RSA,1976,M,925,M23,423,10.554,8:14:35
+962,8:14:36,"Jacobson, David",Rocky Road Runners,RSA,1965,M,934,M40,159,10.554,7:52:06
+963,8:14:36,"de Beer, Sandy",SANDF AC - KZN,RSA,1969,F,29,W35,8,10.554,8:05:27
+964,8:14:36,"Mollo, Phello",Nedbank Running Club CG,RSA,1970,M,934,M35,240,10.554,8:08:11
+965,8:14:36,"Crotz, Neil",Rand AC,RSA,1969,M,934,M35,240,10.554,8:05:42
+966,8:14:37,"Ramakgapola, Andrew Ngoako",Standard Bank AC - CG,RSA,1963,M,937,M40,160,10.554,7:44:24
+967,8:14:38,"Mkwae, Ntombikayise",Boxer Superstores Athl...,RSA,1979,F,30,W23,11,10.553,8:14:38
+968,8:14:48,"Mqadi, Shingo Eric",South Coast Striders,RSA,1977,M,938,M23,427,10.55,8:14:48
+969,8:14:54,"Chetty, Gopal",St James Athletics,RSA,1950,M,939,M55,6,10.548,6:50:47
+970,8:14:56,"Nkosi, William",Kinetics AC,RSA,1966,M,940,M40,161,10.547,7:56:17
+971,8:15:06,"Dlamini, Malepa Michael",Bethlehem Marathon Club,RSA,1972,M,941,M35,242,10.543,8:12:23
+972,8:15:10,"Huyser, Richard",Pretoria Marathon Club,RSA,1966,M,942,M40,162,10.542,7:56:30
+973,8:15:11,"Kibido, Gerald",CSIR Running Club,RSA,1963,M,943,M40,163,10.542,7:44:56
+974,8:15:17,"Mogano, Lema Frans",Carlton Athletic Club,RSA,1962,M,944,M45,68,10.539,7:41:10
+975,8:15:25,"Molteno, Charles",Enduro Club,RSA,1971,M,945,M35,243,10.537,8:08:59
+976,8:15:25,"Mntungwa, Kenny",Marley Nigel Athletics...,RSA,1968,M,945,M35,243,10.537,8:03:38
+977,8:15:46,"Webb, Michael",Gonubie Harriers,RSA,1969,M,947,M35,245,10.529,8:03:59
+978,8:15:46,"Mudau, Rendani Lucas",University of Natal - PMB,RSA,1969,M,947,M35,245,10.529,8:06:51
+979,8:15:51,"Komape, Jan",Eskom Gijimas - LP,RSA,1975,M,949,M23,428,10.527,8:15:46
+980,8:15:56,"Lebona, Gaolatlhwe Ben",SANDF AC - FS,RSA,1977,M,950,M23,429,10.526,8:15:56
+981,8:16:08,"Fitzmaurice, Wendy",Westville Athletic Club,RSA,1953,F,31,W50,1,10.521,6:58:12
+982,8:16:08,"Jali, Zolile",Old Selbornians Road R...,RSA,1974,M,951,M23,430,10.521,8:14:42
+983,8:16:15,"Cele, Dumisani",Thembelisha New Hope AC,RSA,1971,M,952,M35,247,10.519,8:11:51
+984,8:16:17,"Cele, Nkosiyezwe Ronald",Formula I Athletic Club,RSA,1978,M,953,M23,431,10.518,8:16:17
+985,8:16:20,"Lupalule, Lingekile",Sasolburg AC - FS,RSA,1966,M,954,M40,164,10.517,7:53:46
+986,8:16:25,"Tshabalala, Velaphi",Eskom Gijimas - KZN,RSA,1973,M,955,M23,432,10.515,8:14:59
+987,8:16:28,"Moopelwa, Ohentse Peter",Mamusa Athletic Club,RSA,1967,M,956,M40,165,10.514,7:57:45
+988,8:16:33,"Ngcobo, Mandla",KwaMashu Athletic Club,RSA,1977,M,957,M23,433,10.513,8:16:33
+989,8:16:34,"Skosana, Tony",Ngodwana Marathon Club,RSA,1970,M,958,M35,248,10.512,8:10:07
+990,8:16:34,"Dicks, Duane",Mr Price Running Club ...,RSA,1972,M,958,M35,248,10.512,8:12:09
+991,8:16:36,"Adams, Ralph",Topforms AC,RSA,1959,M,960,M45,69,10.511,7:30:49
+992,8:16:46,"Penrose, Nick",Atlantic AC,RSA,1974,M,961,M23,434,10.508,8:16:11
+993,8:16:46,"Smit, Andrew",Atlantic AC,RSA,1980,M,961,M23,434,10.508,8:16:46
+994,8:16:47,"Wiggill, Lloyd",Eskom Gijimas - CG,RSA,1964,M,963,M40,166,10.508,7:50:19
+995,8:16:50,"Kalis, Mark",Celtic Harriers Club,RSA,1975,M,964,M23,436,10.507,8:16:15
+996,8:16:55,"Madlala, Musa",Stonebridge United AC,RSA,1979,M,965,M23,437,10.505,8:16:55
+997,8:17:09,"Phakathi, Sipho Wellington",Collegians Harriers,RSA,1961,M,966,M45,70,10.5,7:39:05
+998,8:17:14,"Wright, Grant",Benoni Northerns Athle...,RSA,1986,M,967,MU23,14,10.498,8:17:14
+999,8:17:18,"Damane, Sam",Oxford Striders,RSA,1950,M,968,M55,7,10.497,6:52:46
+1000,8:17:21,"Shikundu, Richard",Scaw Harriers Athletic...,RSA,1963,M,969,M45,71,10.496,7:43:05
+1001,8:17:29,"Feather, Mark",Enduro Club,RSA,1970,M,970,M35,250,10.493,8:11:01
+1002,8:17:30,"Vilakazi, Osindwa",Ukhozi Athletic Club,RSA,1965,M,971,M40,167,10.492,7:54:52
+1003,8:17:35,"Hedelt, Holger",Irene Road Running Club,GER,1968,M,972,M40,168,10.491,8:02:28
+1004,8:17:36,"Mashinini, Lawrence",Krugersdorp Road Runners,RSA,1974,M,973,M23,438,10.49,8:16:10
+1005,8:17:40,"Nhlapo, Christopher Bhekumuzi",Bedfordview Athletics ...,RSA,1965,M,974,M40,169,10.489,7:51:09
+1006,8:17:41,"Jebetle, Basilus Wilfred",SANDF AC - NW,RSA,1967,M,975,M40,170,10.489,8:02:34
+1007,8:17:42,"Zikhali, Themba",uMhlathuze Athletic Club,RSA,1968,M,976,M35,251,10.488,8:05:52
+1008,8:17:49,"Muchna, Lise",Pinetown & District AC,RSA,1969,F,32,W35,9,10.486,8:08:37
+1009,8:17:51,"Sangweni, Sibusiso Aubrey Dubny",Verulam Checkout Falco...,RSA,1978,M,977,M23,439,10.485,8:17:51
+1010,8:17:52,"Ngubo, Mbuyiseni",Pinetown & District AC,RSA,1970,M,978,M35,252,10.485,8:08:55
+1011,8:17:58,"Sithole, Thamsanqa",Collegians Harriers,RSA,1978,M,979,M23,440,10.483,8:17:58
+1012,8:17:59,"Gerhardus, Petrus",Swartland Atletiek Klub,RSA,1963,M,980,M40,171,10.482,7:47:34
+1013,8:18:06,"Taaibos, Andries Ndoi",Goldfield Striders,RSA,1970,M,981,M35,253,10.48,8:09:09
+1014,8:18:16,"Lembede, Thembinkosi Isaac",Pinetown & District AC,RSA,1961,M,982,M45,72,10.476,7:40:06
+1015,8:18:18,"Nyeka, Dumisani",Boksburg AC,RSA,1977,M,983,M23,441,10.476,8:18:18
+1016,8:18:19,"Hlophe, Siboniso",SAPS AC - Pietermaritz...,RSA,1979,M,984,M23,442,10.475,8:18:19
+1017,8:18:32,"Nzimande, Aaron",Richmond Athletic Club,RSA,1962,M,985,M45,73,10.471,7:44:12
+1018,8:18:38,"Steenberg, Danny",Spoornet AC - SWD,RSA,1975,M,986,M23,443,10.469,8:18:33
+1019,8:18:39,"Mare, Grant",Zimbabwe,ZIM,1967,M,987,M40,172,10.468,8:03:30
+1020,8:18:43,"Ndlovu, Thembinkosi",Eskom Gijimas - KZN,RSA,1975,M,988,M23,444,10.467,8:18:08
+1021,8:18:52,"Sithole, Eric",Richmond Athletic Club,RSA,1981,M,989,M23,445,10.464,8:18:52
+1022,8:18:54,"Mbuyane, Jeffrey Hlabishi",Steelpoort Marathon Club,RSA,1976,M,990,M23,446,10.463,8:18:49
+1023,8:19:04,"Motjale, Oberd",Randmark Marathon Club,RSA,1964,M,991,M40,173,10.46,7:52:28
+1024,8:19:04,"Talakatsi, Steven",Aeroton Athletic Club,RSA,1968,M,991,M40,173,10.46,8:03:54
+1025,8:19:04,"Nzimande, Thulani",Maritzburg City Athlet...,RSA,1967,M,991,M40,173,10.46,8:00:16
+1026,8:19:11,"Mkhwamubi, Vincent",Mtunzini Athletic Club,RSA,1972,M,994,M35,254,10.457,8:16:27
+1027,8:19:16,"Chisale, Amos C.",Madibeng Athletic Club,RSA,1980,M,995,M23,447,10.455,8:19:16
+1028,8:19:20,"Trodd, Darryl",Saints AC KZN,RSA,1964,M,996,M40,176,10.454,7:52:44
+1029,8:19:20,"Nhlengethwa, Muzikayise Moses",Gods Goldern Acre AC,RSA,1976,M,996,M23,448,10.454,8:19:15
+1030,8:19:36,"Dionisio, Tiago",Portugal,POR,1974,M,998,M23,449,10.448,8:18:10
+1031,8:19:38,"Tjie, Abednico Mashitane",Polokwane Athletic Club,RSA,1976,M,999,M23,450,10.448,8:19:33
+1032,8:19:43,"Moseselane, Michael",Howick Athletic Club,RSA,1974,M,1000,M23,451,10.446,8:19:08
+1033,8:19:45,"Zwane, Mandla",Nongoma Athletics Club,RSA,1977,M,1001,M23,452,10.445,8:19:45
+1034,8:19:50,"Mahlangu, Terega",Ukhozi Athletic Club,RSA,1970,M,1002,M35,255,10.443,8:13:21
+1035,8:19:53,"Tshabalala, Kabelo",Correc.Services AC - CG,RSA,1964,M,1003,M40,177,10.442,7:49:21
+1036,8:19:53,"de Villiers, Pierre",Jeffreys Bay Athletic ...,RSA,1971,M,1003,M35,256,10.442,8:15:27
+1037,8:19:56,"Mosia, David Mashenene",Arcelor Mittal AC - VT,RSA,1966,M,1005,M40,178,10.441,8:01:06
+1038,8:19:56,"Mohuba, William",Polokwane Athletic Club,RSA,1959,M,1005,M45,74,10.441,7:29:57
+1039,8:20:00,"Joules, Keith",England,GBR,1962,M,1007,M45,75,10.44,7:45:33
+1040,8:20:09,"Mokone, Sello",Kagisano Athletic Club,RSA,1969,M,1008,M35,257,10.437,8:11:09
+1041,8:20:10,"Laburn, Douglas",Rand AC,RSA,1982,M,1009,M23,453,10.437,8:20:10
+1042,8:20:20,"Sibiya, Thulani Patrick",Sunshine Athletic Club,RSA,1974,M,1010,M23,454,10.433,8:18:53
+1043,8:20:27,"Madlala, Mlungisi",Eskom Gijimas - KZN,RSA,1977,M,1011,M23,455,10.431,8:20:27
+1044,8:20:36,"Mvelase, Thabani",Ubunye Athletic Club,RSA,1973,M,1012,M35,258,10.427,8:17:51
+1045,8:20:37,"Myeni, Johannes Bhekani",Hillcrest Villagers AC,RSA,1975,M,1013,M23,456,10.427,8:20:01
+1046,8:20:40,"Stark, John",Pirates Road Running,RSA,1955,M,1014,M50,25,10.426,7:15:02
+1047,8:20:41,"Sibiya, Kheyi",uMhlathuze Athletic Club,RSA,1968,M,1015,M40,179,10.426,8:05:28
+1048,8:20:43,"Mofokeng, Phakwe Simon",SAPS AC - FS (Welkom),RSA,1970,M,1016,M35,259,10.425,8:11:43
+1049,8:20:45,"Morake, Dondo Nocawe",Carlton Athletic Club,RSA,1972,F,33,W35,10,10.424,8:18:48
+1050,8:20:47,"Tsoanyane, Simon",Stella Athletic Club,RSA,1981,M,1017,M23,457,10.424,8:20:47
+1051,8:21:02,"Thusi, Maurice Mduduzi",Scaw Harriers Athletic...,RSA,1973,M,1018,M23,458,10.418,8:19:35
+1052,8:21:05,"Hopkins, Scott",Wanderers Athletics Club,RSA,1980,M,1019,M23,459,10.417,8:21:05
+1053,8:21:08,"Taylor, Joby",Kempton Road Runners,RSA,1982,M,1020,M23,460,10.416,8:21:08
+1054,8:21:17,"Rabaza, Ntsikelelo",Umzimkulu Athletics Club,RSA,1974,M,1021,M23,461,10.413,8:20:41
+1055,8:21:19,"Hilliar, Darryl",Blackheath and Bromley...,RSA,1968,M,1022,M35,260,10.413,8:09:24
+1056,8:21:22,"Mbonambi, Thulani Emmanuel",Nedbank Running Club KZN,RSA,1979,M,1023,M23,462,10.412,8:21:22
+1057,8:21:23,"Henley, Fabian",Durban Athletic Club,RSA,1961,M,1024,M45,76,10.411,7:42:59
+1058,8:21:23,"Klopper, Marlene",Kempton Road Runners,RSA,1965,F,34,W40,5,10.411,8:03:05
+1059,8:21:29,"Dlamini, Bheka Richard",Mr Price Running Club ...,RSA,1955,M,1025,M50,26,10.409,7:19:40
+1060,8:21:30,"Nhlangulela, Sipho France",Mr Price Running Club ...,RSA,1984,M,1026,M23,463,10.409,8:21:30
+1061,8:21:33,"Mathebula, James",Randmark Marathon Club,RSA,1968,M,1027,M40,180,10.408,8:06:19
+1062,8:21:34,"Njubane, Mpumelelo",Chatsworth Athletic Club,RSA,1982,M,1028,M23,464,10.407,8:21:34
+1063,8:21:40,"Ngwenya, Msizi",Varsity Kudus AC,RSA,1977,M,1029,M23,465,10.405,8:21:40
+1064,8:21:42,"Jonase, Lehlonono",Mpumalanga AC,RSA,1981,M,1030,M23,466,10.405,8:21:42
+1065,8:21:44,"Khutha, Mahlomola",Standerton Marathon Club,RSA,1964,M,1031,M40,181,10.404,7:51:05
+1066,8:21:49,"Ngema, Vusi Peter",Transwerk AC GN,RSA,1978,M,1032,M23,467,10.402,8:21:49
+1067,8:21:51,"Clarke, Brian",Florida Running Club,RSA,1971,M,1033,M35,261,10.402,8:17:24
+1068,8:21:55,"Mashimbye, Richman",Corobrik Athletic Club,RSA,1976,M,1034,M23,468,10.4,8:21:55
+1069,8:21:56,"Luthuli, Sibusiso Boysie",Toyota AC (CG),RSA,1965,M,1035,M40,182,10.4,7:55:11
+1070,8:21:57,"Nqati, Bethuel",Arcelor Mittal AC - VT,RSA,1969,M,1036,M35,262,10.399,8:10:01
+1071,8:21:59,"Pretorius, Martha",Topforms AC,RSA,1970,F,35,W35,11,10.399,8:15:04
+1072,8:21:59,"Ngwenyane, Mxolisi",Eskom Gijimas - KZN,RSA,1977,M,1037,M23,469,10.399,8:21:59
+1073,8:22:23,"Nxumalo, Zwelakhe Richard",Ubunye Athletic Club,RSA,1964,M,1038,M40,183,10.39,7:51:42
+1074,8:22:43,"Zulu, Emmendson",Toyota AC (CG),RSA,1975,M,1039,M23,470,10.384,8:22:37
+1075,8:22:45,"Mbethe, Moses",Katlehong Athletic Club,RSA,1970,M,1040,M35,263,10.383,8:13:43
+1076,8:22:45,"Mahlangu, Ngenduma",Toyota AC (CG),RSA,1969,M,1040,M35,263,10.383,8:13:43
+1077,8:22:45,"Methula, Thembinkosi",Katlehong Athletic Club,RSA,1972,M,1040,M35,263,10.383,8:20:00
+1078,8:22:59,"Ngubeni, Thabani",Eskom Gijimas - GN,RSA,1967,M,1043,M40,184,10.378,8:04:02
+1079,8:22:59,"Rhafuza, Thandabantu",East Griqualand Striders,RSA,1981,M,1043,M23,471,10.378,8:22:59
+1080,8:23:00,"Mokhutsane, Jeremiah Shimanyana",Chappies Athletics Club,RSA,1974,M,1045,M23,472,10.378,8:21:33
+1081,8:23:01,"Mammba, Fhatuwani Edward",Rand AC,RSA,1964,M,1046,M40,185,10.377,7:56:13
+1082,8:23:09,"Langa, Phiwe Ian",Umlalazi Athletic Club,RSA,1984,M,1047,M23,473,10.375,8:23:09
+1083,8:23:10,"Msibi, Mpho",Athletics North KZN,RSA,1969,M,1048,M35,266,10.374,8:11:12
+1084,8:23:12,"Mbeje, Eric",Pinetown & District AC,RSA,1961,M,1049,M45,77,10.374,7:40:44
+1085,8:23:15,"Sindana, Simon",Pretoria Millitary Mar...,RSA,1963,M,1050,M40,186,10.373,7:52:31
+1086,8:23:18,"Mabena, Bafana",Kempton Road Runners,RSA,1988,M,1051,MU23,15,10.372,8:23:18
+1087,8:23:22,"Khuboni, Thamsanqa Eugene",Chesterville Athletics...,RSA,1974,M,1052,M23,474,10.37,8:21:55
+1088,8:23:22,"Mapefane, Velaphi Zacharia",Driefontein Gold Mine AC,RSA,1964,M,1052,M40,187,10.37,7:56:33
+1089,8:23:23,"Filander, Heinrich Nocolia",Knysna Marathon Club,RSA,1972,M,1054,M35,267,10.37,8:18:55
+1090,8:23:24,"McCallum, Wendell",Plett Athletic Club,RSA,1976,M,1055,M23,475,10.369,8:23:18
+1091,8:23:26,"Gumede, Sibusiso",St James Athletics,RSA,1980,M,1056,M23,476,10.369,8:23:26
+1092,8:23:28,"Mkhwanazi, Sibusiso",Imamba Athletic Club,RSA,1979,M,1057,M23,477,10.368,8:23:28
+1093,8:23:36,"Ramaru, Nelson",Cheetahs Athletic Club,RSA,1966,M,1058,M40,188,10.365,8:00:42
+1094,8:23:39,"Nkosi, Sibusiso",Verulam Checkout Falco...,RSA,1969,M,1059,M35,268,10.364,8:14:36
+1095,8:23:43,"Sebigi, Johannes Keomeilwe",Nedbank Development Cl...,RSA,1957,M,1060,M50,27,10.363,7:29:25
+1096,8:23:46,"Magau, Andrew",Ebony Athletic Club,RSA,1970,M,1061,M35,269,10.362,8:17:14
+1097,8:23:46,"Mthetwa, Linda",Athletics North KZN,RSA,1977,M,1061,M23,478,10.362,8:23:46
+1098,8:23:53,"Roberts, Aubrey Brian",Westville Athletic Club,RSA,1955,M,1063,M50,28,10.36,7:21:46
+1099,8:24:01,"Tooth, Robin",Durbanville Athletic Club,RSA,1957,M,1064,M50,29,10.357,7:29:42
+1100,8:24:01,"Johnson, Norman",Fish Hoek AC,RSA,1964,M,1064,M40,189,10.357,7:57:10
+1101,8:24:04,"Nene, Jerome B.",SAPS AC - Pietermaritz...,RSA,1966,M,1066,M40,190,10.356,8:01:08
+1102,8:24:15,"Khumalo, Mlindeli",Sadac Athletic Club,RSA,1971,M,1067,M35,270,10.352,8:19:46
+1103,8:24:17,"Ngiba, Mthembeni Japhet",Chesterville Athletics...,RSA,1976,M,1068,M23,479,10.351,8:24:11
+1104,8:24:18,"Mokodutlo, Thabo",Goldfields Athletics Club,RSA,1971,M,1069,M35,271,10.351,8:19:49
+1105,8:24:19,"Mtshali, Mfungelwa Cyprian",Ngodwana Marathon Club,RSA,1970,M,1070,M35,272,10.351,8:17:46
+1106,8:24:25,"Lang, Brian",,CAN,1968,M,1071,M35,273,10.349,8:12:25
+1107,8:24:33,"Juglal, Ravendhra",Durban Institutes AC,RSA,1965,M,1072,M40,191,10.346,8:01:36
+1108,8:24:42,"Hlophe, Protas",Pinetown & District AC,RSA,1961,M,1073,M45,78,10.343,7:46:03
+1109,8:24:46,"Mbhele, Mashu",St James Athletics,RSA,1983,M,1074,M23,480,10.341,8:24:46
+1110,8:24:51,"Methula, Alpheus",Nedbank Running Club M...,RSA,1971,M,1075,M35,274,10.34,8:20:22
+1111,8:24:58,"Mokoena, Poelo",Lonmin Platinum Marath...,RSA,1977,M,1076,M23,481,10.337,8:24:58
+1112,8:25:04,"Matthews, Kevin",Western Australia Mara...,AUS,1967,M,1077,M40,192,10.335,8:06:02
+1113,8:25:06,"Grobler, Lisl",Knysna Marathon Club,RSA,1976,F,36,W23,12,10.335,8:25:03
+1114,8:25:07,"Lamb, Candice",Pretoria High Old Boys...,RSA,1968,F,37,W35,12,10.334,8:15:47
+1115,8:25:07,"Khunou, Obusitse",Nedbank Development Cl...,RSA,1979,M,1078,M23,482,10.334,8:25:07
+1116,8:25:11,"Espach, Hennie",Randburg Harriers,RSA,1975,M,1079,M23,483,10.333,8:24:35
+1117,8:25:13,"Thompson, Dwight",Jeppe Quondam Athletic...,RSA,1956,M,1080,M50,30,10.332,7:26:52
+1118,8:25:16,"Khumalo, Bongani",Maritzburg City Athlet...,RSA,1971,M,1081,M35,275,10.331,8:20:47
+1119,8:25:23,"Benson, Clive",Benoni Northerns Athle...,RSA,1973,M,1082,M23,484,10.329,8:23:56
+1120,8:25:25,"Scott, Rodney",Enduro Club,RSA,1957,M,1083,M50,31,10.328,7:30:56
+1121,8:25:27,"Nkuna, Michael",Run Walk for Life CG,RSA,1974,M,1084,M23,485,10.327,8:24:00
+1122,8:25:28,"Mhlongo, Dumisani",SAPS AC - Durban,RSA,1971,M,1085,M35,276,10.327,8:18:54
+1123,8:25:30,"Magabane, Bethuel",Impala Marathon Club,RSA,1976,M,1086,M23,486,10.326,8:25:24
+1124,8:25:32,"Milanzi, Monica",Soutpansberg Atletiek,RSA,1972,M,1087,M35,277,10.326,8:22:46
+1125,8:25:36,"Zwane, Nkululeko",Gauteng Striders,RSA,1977,M,1088,M23,487,10.324,8:25:36
+1126,8:25:46,"Tlhoolebe, Sesamotho",Nedbank Running Club GN,RSA,1959,M,1089,M45,79,10.321,7:35:12
+1127,8:25:59,"Mkhonza, Bonginkosi",Eskom Gijimas - MPL,RSA,1968,M,1090,M35,278,10.317,8:13:57
+1128,8:26:04,"Trevor-Roberts, Barry",Hillcrest Villagers AC,RSA,1974,M,1091,M23,488,10.315,8:25:28
+1129,8:26:11,"Figlan, Thembelani",Nedbank Running Club WP,RSA,1965,M,1092,M40,193,10.312,7:59:13
+1130,8:26:13,"Hlongwa, Thembitshe Johannes",Gonubie Harriers,RSA,1963,M,1093,M40,194,10.312,7:55:18
+1131,8:26:16,"Mthembu, Mbongiseni Michael",uMhlathuze Athletic Club,RSA,1975,M,1094,M23,489,10.311,8:25:40
+1132,8:26:22,"Khesa, Stephen",Bronkhorstspruit Athle...,RSA,1969,M,1095,M35,279,10.309,8:17:16
+1133,8:26:29,"Gumede, Thembinkosi Jeremiah",Eskom Gijimas - KZN,RSA,1973,M,1096,M35,280,10.306,8:23:42
+1134,8:26:31,"Jordaan, Alison",Outeniqua Harriers,RSA,1966,F,38,W40,6,10.306,8:11:26
+1135,8:26:42,"Little, Ian",Fish Hoek AC,GBR,1967,M,1097,M40,195,10.302,8:07:36
+1136,8:26:44,"Madikiza, Goodluck",Germiston Callies Harr...,RSA,1962,M,1098,M45,80,10.301,7:51:50
+1137,8:26:45,"Mohapi, Mohlabi Nathnae",Vaal Reefs Marathon Club,RSA,1968,M,1099,M40,196,10.301,8:11:21
+1138,8:26:55,"van Wyk, Hendrik",Despatch Athletic Club,RSA,1964,M,1100,M40,197,10.298,7:55:57
+1139,8:27:01,"Matlala, Halifex Masisi",Run Walk for Life CG,RSA,1969,M,1101,M35,281,10.296,8:17:54
+1140,8:27:04,"Marriott, Gavin",Sunninghill Striders R...,RSA,1976,M,1102,M23,490,10.295,8:27:04
+1141,8:27:04,"Makhathini, Bhuti",Shallcross Athletic Club,RSA,1982,M,1102,M23,490,10.295,8:27:04
+1142,8:27:05,"Mphuthi, Fanie",Benoni Harriers,RSA,1978,M,1104,M23,492,10.294,8:27:05
+1143,8:27:06,"Moller, Theodor",Rustenburg Marathon Club,RSA,1959,M,1105,M45,81,10.294,7:40:21
+1144,8:27:06,"Sonqishe, Abraham Dalindyebo",Gauteng Striders,RSA,1958,M,1105,M50,32,10.294,7:32:27
+1145,8:27:06,"Naidoo, Deanan",Rand Road Warriors,RSA,1969,M,1105,M35,282,10.294,8:17:59
+1146,8:27:06,"Gangata, Rabson Shima",Rustenburg Marathon Club,RSA,1973,M,1105,M35,282,10.294,8:24:19
+1147,8:27:17,"Perry, Debbie",Collegians Harriers,RSA,1974,F,39,W23,13,10.29,8:26:56
+1148,8:27:19,"Qwabe, Derick",KwaMashu Athletic Club,RSA,1974,M,1109,M23,493,10.289,8:26:43
+1149,8:27:19,"Ngubo, Emmanuel Mkosinathi",Themba Sunrise Athleti...,RSA,1976,M,1109,M23,493,10.289,8:27:13
+1150,8:27:20,"Modimoeng, Jacob",Maritimo Marathon Club,RSA,1974,M,1111,M23,495,10.289,8:25:52
+1151,8:27:21,"MacKenzie, Bradley",Achilles AAA,RSA,1971,M,1112,M35,284,10.289,8:22:51
+1152,8:27:21,"Magcaba, Khumbulani Lindelani",Gods Goldern Acre AC,RSA,1978,M,1112,M23,496,10.289,8:27:21
+1153,8:27:22,"Govender, Chandrakasan Lucky",Mount Edgecombe Villagers,RSA,1965,M,1114,M40,198,10.288,8:00:20
+1154,8:27:25,"Hlatshwayo, Magic",KZN Striders Athletic ...,RSA,1958,M,1115,M45,82,10.287,7:36:41
+1155,8:27:29,"Costa Paulino, Gustavo",Speed Uai - Corpus,BRA,1969,M,1116,M35,285,10.286,8:15:25
+1156,8:27:31,"Mashiyane, Williams James",Carnival City Runners,RSA,1967,M,1117,M40,199,10.285,8:08:23
+1157,8:27:33,"Tsubella, Mike",Syngenta Kroonstad Col...,RSA,1980,M,1118,M23,497,10.285,8:27:33
+1158,8:27:36,"Mitchell, Clive",West Coast AC,RSA,1958,M,1119,M50,33,10.284,7:32:53
+1159,8:27:38,"Mbhele, Zamani",Chesterville Athletics...,RSA,1978,M,1120,M23,498,10.283,8:27:38
+1160,8:27:47,"Phora, Gardner Makoko",Tuks Alumni Padhardlopers,RSA,1965,M,1121,M40,200,10.28,8:00:44
+1161,8:27:48,"Mudau, Jane",Nedbank Running Club GN,RSA,1963,F,40,W45,8,10.28,7:57:05
+1162,8:27:49,"Tierney, Kristian",Pirates Road Running,GBR,1974,M,1122,M23,499,10.279,8:26:21
+1163,8:27:52,"Latha, Nicholas",Thembelisha New Hope AC,RSA,1977,M,1123,M23,500,10.278,8:27:52
+1164,8:27:58,"McGowan, Julian",,GBR,1976,M,1124,M23,501,10.276,8:27:58
+1165,8:28:01,"Motsoeneng, Phatlalla Samuel",SAPS AC - FS,RSA,1965,M,1125,M40,201,10.275,8:04:55
+1166,8:28:01,"Seedat, Ibrahim",Arcadia Running Club,RSA,1970,M,1125,M35,286,10.275,8:21:25
+1167,8:28:03,"Dlamini, Stanely",Chatsworth Athletic Club,RSA,1968,M,1127,M35,287,10.275,8:15:58
+1168,8:28:07,"Randall, Joshua",Telkom AC - WP,RSA,1974,M,1128,M23,502,10.273,8:27:31
+1169,8:28:09,"Rautenbach, Roland",Natal Carbineers AC,RSA,1964,M,1129,M40,202,10.273,8:01:04
+1170,8:28:12,"Fokane, Mojalefa",Rand AC,RSA,1973,M,1130,M35,288,10.272,8:25:25
+1171,8:28:17,"Zulu, Mbuzeleni",Nedbank Running Club KZN,RSA,1975,M,1131,M23,503,10.27,8:27:41
+1172,8:28:22,"Lukhele, Thulani Joseph",Nedbank Running Club M...,RSA,1980,M,1132,M23,504,10.268,8:28:22
+1173,8:28:23,"Samuels, David",Wings AC,RSA,1968,M,1133,M40,203,10.268,8:12:56
+1174,8:28:27,"Erasmus, Dries",Enduro Club,RSA,1961,M,1134,M45,83,10.266,7:49:31
+1175,8:28:30,"Choma, Johannes Tladiamotse",Springs Platinum Refin...,RSA,1974,M,1135,M23,505,10.265,8:27:02
+1176,8:28:36,"Mathys, Eric",Muirite Striders,RSA,1962,M,1136,M45,84,10.263,7:53:34
+1177,8:28:36,"Mosithe, Seuntjie",Sasolburg AC - FS,RSA,1969,M,1136,M35,289,10.263,8:19:27
+1178,8:28:36,"Dube, Siphosakhe Mcdonald",SANDF AC - CG,RSA,1968,M,1136,M35,289,10.263,8:16:30
+1179,8:28:36,"Simayile, Moyisile",Cheetahs Athletic Club,RSA,1969,M,1136,M35,289,10.263,8:19:27
+1180,8:28:36,"Dlamini, Andries",Willie Mtolo Athletic ...,RSA,1971,M,1136,M35,289,10.263,8:24:05
+1181,8:28:36,"Malindisa, Vusimusi",Irene Road Running Club,RSA,1963,M,1136,M45,84,10.263,7:53:34
+1182,8:28:36,"Moloi, Tholang",SANDF AC - WP,RSA,1968,M,1136,M35,289,10.263,8:16:30
+1183,8:28:36,"Moropane, Motswetla",Boksburg AC,RSA,1980,M,1136,M23,506,10.263,8:28:36
+1184,8:28:36,"Rubenheimer, Patrick",Nedbank Running Club SWD,RSA,1974,M,1136,M23,506,10.263,8:28:00
+1185,8:28:36,"Sethunzi, Tshepo",Lekoa AC,RSA,1974,M,1136,M23,506,10.263,8:28:00
+1186,8:28:37,"Rabalao, Seleka",Mazda Athletics Club,RSA,1977,M,1146,M23,509,10.263,8:28:37
+1187,8:28:37,"Motaung, Kebista",Transwerk AC FS,RSA,1970,M,1146,M35,294,10.263,8:19:28
+1188,8:28:37,"Kheitsane, Dingaan Pula",Nedbank Running Club M...,RSA,1975,M,1146,M23,509,10.263,8:28:31
+1189,8:28:38,"Singh, Ravin",Verulam Checkout Falco...,RSA,1970,M,1149,M35,295,10.263,8:19:29
+1190,8:28:38,"Masia, Peter Takalan Godrich",Rand AC,RSA,1968,M,1149,M35,295,10.263,8:16:32
+1191,8:28:38,"Pelekwa, Thembani",,RSA,1973,M,1149,M35,295,10.263,8:25:51
+1192,8:28:38,"Mnyandu, Vusie",Mr Price Running Club ...,RSA,1982,M,1149,M23,511,10.263,8:28:38
+1193,8:28:39,"Moses, Hennie",Ceres Athletic Club,RSA,1960,M,1153,M45,86,10.262,7:45:44
+1194,8:28:40,"Mzinyathi, Mziwoxolo",Nedbank Running Club KZN,RSA,1980,M,1154,M23,512,10.262,8:28:40
+1195,8:28:41,"Buthelezi, Richard",Vultures Athletic Club...,RSA,1968,M,1155,M40,204,10.262,8:13:14
+1196,8:28:41,"Mofokeng, Oupa",Boksburg AC,RSA,1960,M,1155,M45,87,10.262,7:45:46
+1197,8:28:41,"Mokhuwa, Kehilwe Stephen",Goodie Educators AC,RSA,1982,M,1155,M23,513,10.262,8:28:41
+1198,8:28:44,"Mlangeni, Ben",Eskom Gijimas - MPL,RSA,1982,M,1158,M23,514,10.261,8:28:44
+1199,8:28:45,"Mgabhi, Christopher Masikandi",Ulundi Athletic Club,RSA,1964,M,1159,M40,205,10.26,7:57:40
+1200,8:28:46,"Ntshangase, Bongani",Orange Farm Athletic Club,RSA,1977,M,1160,M23,515,10.26,8:28:46
+1201,8:28:47,"Mariti, Francis",St Peters School RC,RSA,1974,M,1161,M23,516,10.26,8:28:11
+1202,8:28:47,"Tsoka, Segole Pond",Vodacom Yebo Striders,RSA,1971,M,1161,M35,298,10.26,8:22:11
+1203,8:28:48,"Khanyile, Thokozani",Natal Carbineers AC,RSA,1978,M,1163,M23,517,10.259,8:28:48
+1204,8:28:52,"Mantu, Peter",Rand AC,RSA,1960,M,1164,M45,88,10.258,7:45:56
+1205,8:28:55,"Ntuli, Thuthukani Sandile",Willie Mtolo Athletic ...,RSA,1975,M,1165,M23,518,10.257,8:28:49
+1206,8:29:04,"Suttle, Stephen",United Kingdom,GBR,1958,M,1166,M50,34,10.254,7:34:12
+1207,8:29:12,"Ngcobo, Bheka",Sakhisizwe Athletic Club,RSA,1974,M,1167,M23,519,10.251,8:28:36
+1208,8:29:13,"Sekese, Romeo Mphoromeo",Lesedi Athletic Club,RSA,1976,M,1168,M23,520,10.251,8:29:07
+1209,8:29:14,"Mkhwanazi, Emmanuel",Savages AC,RSA,1975,M,1169,M23,521,10.251,8:28:38
+1210,8:29:16,"Mngomezulu, Sibusiso Solomon",Benoni Harriers,RSA,1976,M,1170,M23,522,10.25,8:29:10
+1211,8:29:16,"Maboyola, Petrus",Noordelike Atletiek Klub,RSA,1988,M,1170,MU23,16,10.25,8:29:16
+1212,8:29:23,"Njokweni, Bonani",Varsity Old Boys - WP,RSA,1971,M,1172,M35,299,10.248,8:24:51
+1213,8:29:24,"Burger, Philippus",Irene Road Running Club,RSA,1968,M,1173,M35,300,10.247,8:17:17
+1214,8:29:29,"Holmes, Elliot",Toyota AC (CG),RSA,1974,M,1174,M23,523,10.246,8:28:01
+1215,8:29:30,"Khumalo, John",ADT Athletics Club,RSA,1968,M,1175,M35,301,10.245,8:17:23
+1216,8:29:40,"Peter, Efese Sakhumzi",SANDF AC - EP,RSA,1960,M,1176,M45,89,10.242,7:42:41
+1217,8:29:41,"Zulu, Mndeni Thembinkosi",Nongoma Athletics Club,RSA,1976,M,1177,M23,524,10.242,8:29:35
+1218,8:29:43,"Seloane, Ramoswane",Moretele AC,RSA,1968,M,1178,M40,206,10.241,8:14:14
+1219,8:29:44,"Mabunda, Kalichi",Magnolia Road Runners,RSA,1974,M,1179,M23,525,10.241,8:29:08
+1220,8:29:46,"Madlala, Elias",Inchanga AC,RSA,1969,M,1180,M35,302,10.24,8:20:36
+1221,8:29:49,"Masokameng, Andrew Malau",Varsity Kudus AC,RSA,1969,M,1181,M35,303,10.239,8:17:41
+1222,8:29:49,"Matshaba, Itumeleng",Ukhozi Athletic Club,RSA,1970,M,1181,M35,303,10.239,8:23:12
+1223,8:29:50,"Maso, Vuyani",Cheetahs Athletic Club,RSA,1958,M,1183,M45,90,10.239,7:38:51
+1224,8:29:52,"Mafa, Samson",Sasolburg AC - FS,RSA,1982,M,1184,M23,526,10.238,8:29:52
+1225,8:29:56,"Mthimunye, Joe",Jeppe Quondam Athletic...,RSA,1965,M,1185,M40,207,10.237,8:02:46
+1226,8:29:57,"Molise, Adam",Syngenta Kroonstad Col...,RSA,1968,M,1186,M40,208,10.236,8:14:27
+1227,8:29:59,"Mpefu, Sifiso Daniel",Katlehong Athletic Club,RSA,1978,M,1187,M23,527,10.236,8:29:59
+1228,8:30:01,"Jele, Bongane Raymond",Nedbank Running Club CG,RSA,1973,M,1188,M35,305,10.235,8:27:13
+1229,8:30:01,"Motsoeneng, Thabo Petrus",Corobrik Athletic Club,RSA,1977,M,1188,M23,528,10.235,8:30:01
+1230,8:30:05,"Sakhile, Xolani",South Coast Striders,RSA,1972,M,1190,M35,306,10.234,8:25:33
+1231,8:30:06,"Shazi, Mduduzi",Chatsworth Athletic Club,RSA,1983,M,1191,M23,529,10.233,8:30:06
+1232,8:30:10,"Alves, Manuel",Carlton Harriers,RSA,1960,M,1192,M45,91,10.232,7:47:07
+1233,8:30:18,"Matsha, Sydwell",Correc.Services AC - KZN,RSA,1966,M,1193,M40,209,10.229,8:11:04
+1234,8:30:29,"Zungu, Musa",Lockeroom Athletics Club,RSA,1981,M,1194,M23,530,10.226,8:30:29
+1235,8:30:29,"Khunwana, Solly",Lonmin Platinum Marath...,RSA,1975,M,1194,M23,530,10.226,8:29:53
+1236,8:30:31,"Franz, Dean",Kearsney Striders,RSA,1976,M,1196,M23,532,10.225,8:30:25
+1237,8:30:31,"Mainstone, Craig",Hillcrest Villagers AC,RSA,1976,M,1196,M23,532,10.225,8:30:31
+1238,8:30:33,"Wallace, Clifford",Berts Bricks Athletic ...,RSA,1959,M,1198,M45,92,10.224,7:39:30
+1239,8:30:52,"Motebejane, Phillemon",Spar Gauteng Athletic ...,RSA,1968,M,1199,M40,210,10.218,8:15:21
+1240,8:30:59,"van der Linde, Jan",Boksburg AC,RSA,1964,M,1200,M40,211,10.216,8:03:45
+1241,8:31:04,"Vlotman, David",,AUS,1968,M,1201,M40,212,10.214,8:15:32
+1242,8:31:04,"Randt, Christoph",Germany,GER,1954,M,1201,M50,35,10.214,7:20:05
+1243,8:31:05,"Naidoo, Subiah",Rand AC,RSA,1966,M,1203,M40,213,10.214,8:11:49
+1244,8:31:06,"Mazubuko, Sbusiso",Vultures Athletic Club...,RSA,1975,M,1204,M23,534,10.213,8:31:00
+1245,8:31:07,"December, Mboneni",SAPS AC - Pietermaritz...,RSA,1957,M,1205,M50,36,10.213,7:32:05
+1246,8:31:10,"Mayeza, Malesela Moses",Run Walk for Life LP,RSA,1981,M,1206,M23,535,10.212,8:31:10
+1247,8:31:13,"Ndlovu, Mlungisi",Bonitas Athletic Club GN,RSA,1985,M,1207,M23,536,10.211,8:31:13
+1248,8:31:14,"Moahloli, Buang",Mount Everest AC,RSA,1972,M,1208,M35,307,10.211,8:26:42
+1249,8:31:14,"Masala, Mmbengeni",Jeppe Quondam Athletic...,RSA,1974,M,1208,M23,537,10.211,8:29:46
+1250,8:31:16,"Ndlovu, Bhekani",KwaMashu Athletic Club,RSA,1976,M,1210,M23,538,10.21,8:31:10
+1251,8:31:30,"Raseroka, Dikantsemang Joseph",New Balance AC GN,RSA,1981,M,1211,M23,539,10.205,8:31:30
+1252,8:31:52,"Lebese, Kenneth",Arcadia Running Club,RSA,1974,M,1212,M23,540,10.198,8:30:23
+1253,8:31:55,"Mudzunga, Power",Bedfordview Athletics ...,RSA,1964,M,1213,M40,214,10.197,8:04:38
+1254,8:31:59,"Herbst, Jan",Eskom Gijimas - KZN,RSA,1965,M,1214,M40,215,10.196,8:04:42
+1255,8:31:59,"Thebeygae, Johannes",Lichtenburg Marathon Club,RSA,1983,M,1214,M23,541,10.196,8:31:59
+1256,8:32:00,"Davis, Charles",Canada,CAN,1965,M,1216,M40,216,10.195,8:04:43
+1257,8:32:05,"Hlongwa, Xolani",Eskom Gijimas - KZN,RSA,1984,M,1217,M23,542,10.194,8:32:05
+1258,8:32:12,"Mbatha, Sipho Simon",KZN Striders Athletic ...,RSA,1962,M,1218,M45,93,10.191,7:56:55
+1259,8:32:12,"Faber, Joseph",KZN Striders Athletic ...,RSA,1964,M,1218,M40,217,10.191,8:00:55
+1260,8:32:12,"Mdingi, Zakhele",Old Selbornians Road R...,RSA,1966,M,1218,M40,217,10.191,8:12:54
+1261,8:32:12,"Mlalazi, Vusi",KZN Striders Athletic ...,RSA,1970,M,1218,M35,308,10.191,8:25:33
+1262,8:32:12,"Sikheme, Mihandeni Alton",KZN Striders Athletic ...,RSA,1972,M,1218,M35,308,10.191,8:29:23
+1263,8:32:12,"Khumalo, Sdumo Amos",KwaMashu Athletic Club,RSA,1966,M,1218,M40,217,10.191,8:12:54
+1264,8:32:12,"Ndlela, Thulebona Raphael",KZN Striders Athletic ...,RSA,1976,M,1218,M23,543,10.191,8:32:06
+1265,8:32:12,"Williams, Leon",Swartland Atletiek Klub,RSA,1961,M,1218,M45,93,10.191,7:48:59
+1266,8:32:12,"Mzizi, Sibongiseni",KZN Striders Athletic ...,RSA,1985,M,1218,M23,543,10.191,8:32:12
+1267,8:32:12,"Mazibuko, David",Beefcor Marathon Club GN,RSA,1975,M,1218,M23,543,10.191,8:31:36
+1268,8:32:13,"Cele, Cosmos",KZN Striders Athletic ...,RSA,1974,M,1228,M23,546,10.191,8:30:44
+1269,8:32:14,"Tshabalala, Mphikeleli Joseph",Boksburg AC,RSA,1967,M,1229,M40,220,10.191,8:16:40
+1270,8:32:17,"Buthelezi, Zibonele",Mount Everest AC,RSA,1974,M,1230,M23,547,10.19,8:31:41
+1271,8:32:21,"Moremong, Ditiro",Nedbank Development Cl...,RSA,1970,M,1231,M35,310,10.188,8:25:42
+1272,8:32:25,"Ngwenya, Fannie Isaac",Nedbank Running Club M...,RSA,1966,M,1232,M40,221,10.187,8:13:06
+1273,8:32:26,"Lubisi, Simon",NCP Chlorchem Athletic...,RSA,1969,M,1233,M35,311,10.187,8:23:13
+1274,8:32:47,"Bouwer, Dirk",Nedbank Running Club GN,RSA,1962,M,1234,M45,95,10.18,7:57:28
+1275,8:32:49,"Pietersen, Kaashif",Willard Batteries AC,RSA,1976,M,1235,M23,548,10.179,8:32:49
+1276,8:32:53,"Edgcumbe, Michael",Secunda Marathon Klub,RSA,1969,M,1236,M35,312,10.178,8:23:40
+1277,8:32:53,"Finn, Shaun",Amanzimtoti AC,RSA,1971,M,1236,M35,312,10.178,8:28:20
+1278,8:32:53,"Weideman, Magda",Nedbank Running Club GN,RSA,1970,F,41,W35,13,10.178,8:27:52
+1279,8:32:54,"Dlamini, Justice Tebogo",Umjantshi Social Sport...,RSA,1976,M,1238,M23,549,10.177,8:32:48
+1280,8:32:56,"Mncwabe, Lali",Toyota AC (CG),RSA,1974,M,1239,M23,550,10.177,8:32:20
+1281,8:32:58,"Nkosi, Mandla Michael",Eskom Gijimas - KZN,RSA,1974,M,1240,M23,551,10.176,8:32:22
+1282,8:33:00,"Vine, Kevin",Golden Reef Road Runne...,RSA,1973,M,1241,M35,314,10.175,8:30:11
+1283,8:33:02,"Havhi, Nthangeni",SANDF AC - LP,RSA,1977,M,1242,M23,552,10.175,8:33:02
+1284,8:33:03,"de Reuck, Vincent",Boksburg AC,RSA,1979,M,1243,M23,553,10.174,8:33:03
+1285,8:33:04,"Pretorius, Nico Jnr",Benoni Northerns Athle...,RSA,1983,M,1244,M23,554,10.174,8:33:04
+1286,8:33:04,"Liqhude, Blessing Sibusiso",Nedbank Running Club CG,RSA,1981,M,1244,M23,554,10.174,8:33:04
+1287,8:33:09,"Makhubela, Thomas",Germiston Callies Harr...,RSA,1975,M,1246,M23,556,10.172,8:32:33
+1288,8:33:10,"Tshabalala, Samuel",Scaw Harriers Athletic...,RSA,1955,M,1247,M50,37,10.172,7:25:54
+1289,8:33:10,"Denichaud, Bertha",Edgemead Runners,RSA,1961,F,42,W45,9,10.172,7:52:07
+1290,8:33:11,"Habgood, Andrew",Richards Bay AC,RSA,1977,M,1248,M23,557,10.172,8:33:11
+1291,8:33:24,"Khumalo, Elliot",Nedbank Running Club KZN,RSA,1968,M,1249,M40,222,10.168,8:17:48
+1292,8:33:33,"Mbatha, Smile",Mr Price Running Club ...,RSA,1981,M,1250,M23,558,10.165,8:33:33
+1293,8:33:36,"Ndou, Tshamano",Rand AC,RSA,1967,M,1251,M40,223,10.164,8:14:15
+1294,8:33:40,"Mashabathakga, Matome Albert",Lesedi Athletic Club,RSA,1964,M,1252,M40,224,10.162,8:02:17
+1295,8:33:41,"Sibisi, Daniel",Benoni Northerns Athle...,RSA,1983,M,1253,M23,559,10.162,8:33:41
+1296,8:33:42,"Simelane, Lucas Mbongeni",SANDF AC - KZN,RSA,1970,M,1254,M35,315,10.162,8:27:02
+1297,8:33:50,"Berry, Simon",Athletics North KZN,RSA,1966,M,1255,M40,225,10.159,8:14:28
+1298,8:34:02,"Digame, Makoro",Rocky Road Runners,RSA,1959,M,1256,M45,96,10.155,7:46:39
+1299,8:34:02,"Mnisi, Malusi",Rocky Road Runners,RSA,1969,M,1256,M35,316,10.155,8:21:48
+1300,8:34:03,"Phungula, Michael Phumlani",Inchanga AC,RSA,1979,M,1258,M23,560,10.155,8:34:03
+1301,8:34:10,"Bhengu, Richard",Toyota AC (CG),RSA,1959,M,1259,M45,97,10.152,7:46:46
+1302,8:34:11,"Maya, Zolile George",Rand Water AC - CG,RSA,1970,M,1260,M35,317,10.152,8:27:30
+1303,8:34:12,"Mmadi, Adolph",Correc.Services AC - CG,RSA,1961,M,1261,M45,98,10.152,7:54:49
+1304,8:34:14,"Fetting, Stan",Australia,AUS,1965,M,1262,M40,226,10.151,8:10:51
+1305,8:34:15,"Magagula, Max",Khutala Marathon Club,RSA,1979,M,1263,M23,561,10.151,8:34:15
+1306,8:34:18,"Theron, Pieter",Sasolburg AC - FS,RSA,1952,M,1264,M55,8,10.15,7:18:52
+1307,8:34:23,"Dlamini, Thengezakhe",Diepsloot Athletic Club,RSA,1966,M,1265,M40,227,10.148,8:10:59
+1308,8:34:29,"Motaung, Joseph",Ubunye Athletic Club,RSA,1978,M,1266,M23,562,10.146,8:34:29
+1309,8:34:32,"Mufandilani, Ndivhoniswani",Toyota AC (CG),RSA,1978,M,1267,M23,563,10.145,8:34:32
+1310,8:34:34,"Leeuw, Abel",Sasolburg AC - FS,RSA,1970,M,1268,M35,318,10.144,8:27:53
+1311,8:34:36,"Garnett, Richard",,GBR,1955,M,1269,M50,38,10.144,7:31:09
+1312,8:34:37,"Ramotshela, Kgadi",Rainbow AC CG,RSA,1963,M,1270,M40,228,10.143,8:03:11
+1313,8:34:38,"Bobi, Mkhululi",Metropolitan Athletic ...,RSA,1975,M,1271,M23,564,10.143,8:34:32
+1314,8:34:39,"Barnes, Andrew",,RSA,1974,M,1272,M23,565,10.143,8:34:02
+1315,8:34:40,"Mkhize, Bheki",Kearsney Striders,RSA,1969,M,1273,M35,319,10.142,8:22:26
+1316,8:34:40,"Fitchet, Tommy",Nedbank Running Club E...,RSA,1970,M,1273,M35,319,10.142,8:25:25
+1317,8:34:41,"Mathebula, Ronnie",White City Athletic Club,RSA,1978,M,1275,M23,566,10.142,8:34:41
+1318,8:34:44,"Lubbe, J.P.",St Johns Athletics Club,RSA,1981,M,1276,M23,567,10.141,8:34:44
+1319,8:34:48,"MacHaelo, Ishmael",Diepsloot Athletic Club,RSA,1966,M,1277,M40,229,10.14,8:11:23
+1320,8:34:51,"Tsotso, Cornelius Mmola",Rustenburg Platinum Mi...,RSA,1958,M,1278,M50,39,10.139,7:39:21
+1321,8:34:53,"Kobus, Grant",Hilton Harriers,RSA,1966,M,1279,M40,230,10.138,8:11:28
+1322,8:34:53,"Zach, Ullrich",Germany,GER,1956,M,1279,M50,40,10.138,7:35:25
+1323,8:34:54,"Mongale, Alpheus",Sunninghill Striders R...,RSA,1958,M,1281,M45,99,10.138,7:43:25
+1324,8:35:06,"Masondo, Phillip",Spoornet AC - LP,RSA,1975,M,1282,M23,568,10.134,8:35:00
+1325,8:35:12,"Ndlovu, Michael",Nation Athletic Club,RSA,1967,M,1283,M40,231,10.132,8:15:47
+1326,8:35:14,"Moyane, Frans",Mr Price AC MPL,RSA,1977,M,1284,M23,569,10.131,8:35:14
+1327,8:35:14,"Monareng, Lawrence",Life Esibimeni Athleti...,RSA,1965,M,1284,M40,232,10.131,8:11:48
+1328,8:35:15,"Hlongwane, Xolani Cylvias",Maritzburg City Athlet...,RSA,1968,M,1286,M35,321,10.131,8:23:00
+1329,8:35:15,"Mbhele, William",Maritzburg City Athlet...,RSA,1976,M,1286,M23,570,10.131,8:35:09
+1330,8:35:17,"Mngadi, Edmund",Stella Athletic Club,RSA,1958,M,1288,M45,100,10.13,7:43:46
+1331,8:35:17,"Mangena, Albert",Rocky Road Runners,RSA,1976,M,1288,M23,571,10.13,8:35:11
+1332,8:35:19,"Joubert, Gideon",Boksburg AC,RSA,1975,M,1290,M23,572,10.13,8:35:13
+1333,8:35:27,"Pietersen, Aupa",Arcelor Mittal AC - VT,RSA,1985,M,1291,M23,573,10.127,8:35:27
+1334,8:35:34,"Thobeyane, Readers",Aerosud Athletic Club,RSA,1963,M,1292,M45,101,10.125,8:00:03
+1335,8:35:39,"Mashego, Simon",Legogote Villagers,RSA,1964,M,1293,M40,233,10.123,8:04:09
+1336,8:35:39,"Mokgadi, Mathews",Ukhozi Athletic Club,RSA,1963,M,1293,M40,233,10.123,8:04:09
+1337,8:35:41,"Eksteen, Fanus",Polokwane Athletic Club,RSA,1961,M,1295,M45,102,10.122,7:52:10
+1338,8:35:53,"Tshabalala, Abraham",Africa Athletic Club,RSA,1961,M,1296,M45,103,10.119,7:52:21
+1339,8:36:03,"Chauke, Joseph",Tuks Alumni Padhardlopers,RSA,1972,M,1297,M35,322,10.115,8:33:13
+1340,8:36:08,"Gwala, Qondizwi",Inchanga AC,RSA,1972,M,1298,M35,323,10.114,8:31:33
+1341,8:36:08,"Mthiyane, Brian",Inchanga AC,RSA,1978,M,1298,M23,574,10.114,8:36:08
+1342,8:36:16,"Cotter, Vicky",Wanderers Athletics Club,RSA,1981,F,43,W23,14,10.111,8:36:16
+1343,8:36:20,"Maladzhi, Rudzani",Rocky Road Runners,RSA,1975,M,1300,M23,575,10.11,8:35:43
+1344,8:36:28,"Raselo, Teboho",Ubunye Athletic Club,RSA,1977,M,1301,M23,576,10.107,8:36:28
+1345,8:36:28,"Mokhethi, Paulos",Transwerk AC FS,RSA,1979,M,1301,M23,576,10.107,8:36:28
+1346,8:36:30,"Conradie, Paul",Nedbank Running Club C...,RSA,1970,M,1303,M35,324,10.106,8:29:48
+1347,8:36:35,"Trewhitt, Tory",Australia,AUS,1973,M,1304,M23,578,10.105,8:35:06
+1348,8:36:36,"Qhesi, Tefo",Bibi Cash & Carry Athl...,RSA,1970,M,1305,M35,325,10.105,8:27:19
+1349,8:36:37,"Magagula, Robert Zothani",Dolphin Coast Striders,RSA,1979,M,1306,M23,579,10.104,8:36:37
+1350,8:36:41,"van der Westhuizen, Maritza",Benoni Harriers,RSA,1976,F,44,W23,15,10.103,8:36:41
+1351,8:36:46,"Vena, James Masai",Germiston Callies Harr...,RSA,1967,M,1307,M40,235,10.101,8:17:18
+1352,8:36:49,"Enslin, Renier",Marley Nigel Athletics...,RSA,1974,M,1308,M23,580,10.1,8:36:12
+1353,8:36:50,"Motaung, Boy",Correc.Services AC - CG,RSA,1961,M,1309,M45,104,10.1,7:57:15
+1354,8:36:56,"Ngcobo, Mmeli Alex",Verulam Checkout Falco...,RSA,1980,M,1310,M23,581,10.098,8:36:56
+1355,8:36:59,"Skosana, Themba Moses",Middelburg Marathon Club,RSA,1971,M,1311,M35,326,10.097,8:32:23
+1356,8:36:59,"Mchunu, Siphiwe",Vodacom Yebo Striders,RSA,1968,M,1311,M40,236,10.097,8:21:17
+1357,8:37:00,"Biner, Gustav",Switzerland,SUI,1971,M,1313,M35,327,10.097,8:32:24
+1358,8:37:04,"Ngiba, Mzomuhle Stanley",University of Natal - ...,RSA,1978,M,1314,M23,582,10.095,8:37:04
+1359,8:37:07,"de Rouwe, Jacques",Brooks Striders,RSA,1975,M,1315,M23,583,10.094,8:37:01
+1360,8:37:08,"Zulu, Sfiso",Newcastle Harriers Club,RSA,1977,M,1316,M23,584,10.094,8:37:08
+1361,8:37:11,"Nene, Innocent",ADT Athletics Club,RSA,1973,M,1317,M23,585,10.093,8:35:42
+1362,8:37:19,"Mfeka, David Sthembiso",Verulam Checkout Falco...,RSA,1981,M,1318,M23,586,10.091,8:37:19
+1363,8:37:21,"Mkhize, Brian Mduduzi",Nedbank Running Club KZN,RSA,1978,M,1319,M23,587,10.09,8:37:21
+1364,8:37:29,"Zandile, Senzile Simon",Nedbank Bloemfontein A...,RSA,1976,M,1320,M23,588,10.087,8:37:29
+1365,8:37:39,"Bassie, Stephen",Kimberley Road Runners,RSA,1974,M,1321,M23,589,10.084,8:37:02
+1366,8:37:42,"Green, Lisa",Rand AC,RSA,1967,F,45,W40,7,10.083,8:25:23
+1367,8:37:48,"Msimanga, Bongani David",Bibi Cash & Carry Athl...,RSA,1986,M,1322,MU23,17,10.081,8:37:48
+1368,8:37:53,"Lourens, Dirk",Exxaro Athletic Club GN,RSA,1968,M,1323,M40,237,10.079,8:22:09
+1369,8:37:56,"Bosman, Claire",Jeppe Quondam Athletic...,RSA,1973,F,46,W23,16,10.079,8:36:57
+1370,8:38:06,"Buthelezi, Robert",Nedbank Running Club M...,RSA,1955,M,1324,M50,41,10.075,7:34:14
+1371,8:38:09,"Mpanza, Phillip",SANDF AC - KZN,RSA,1962,M,1325,M45,105,10.074,7:58:28
+1372,8:38:11,"Seleka, Rahuma Lucas",Run Walk for Life LP,RSA,1980,M,1326,M23,590,10.074,8:38:11
+1373,8:38:24,"Kennedy, Craig",Rand AC,RSA,1971,M,1327,M35,328,10.069,8:31:40
+1374,8:38:25,"Roets, Francois",Fit 2000 AC - GN,RSA,1967,M,1328,M40,238,10.069,8:22:40
+1375,8:38:26,"Nicholl, Joy-Ann",Irene Road Running Club,RSA,1975,F,47,W23,17,10.069,8:38:05
+1376,8:38:33,"Shibambo, Thomas",Madibeng Athletic Club,RSA,1963,M,1329,M40,239,10.067,8:06:52
+1377,8:38:37,"Maphumulo, Mthunzi",Chiltern AC,RSA,1966,M,1330,M40,240,10.065,8:15:02
+1378,8:38:39,"Matseliso, Edgar Tebogo",Correc.Services AC - G...,RSA,1970,M,1331,M35,329,10.065,8:31:55
+1379,8:38:41,"Thenga, Patrick",Rand AC,RSA,1962,M,1332,M45,106,10.064,7:58:58
+1380,8:38:42,"Hendry, Ian",Troisport Tri Club,RSA,1967,M,1333,M40,241,10.064,8:22:56
+1381,8:38:42,"Leemans, Kirsten",Troisport Tri Club,RSA,1971,M,1333,M35,330,10.064,8:31:58
+1382,8:38:43,"Hambiyani, Thembinkosi",Nedbank Running Club E...,RSA,1972,M,1335,M35,331,10.063,8:34:07
+1383,8:38:54,"Ndlovu, Selby",Thembelisha New Hope AC,RSA,1977,M,1336,M23,591,10.06,8:38:54
+1384,8:38:55,"Mphahlele, Kaki",Eskom Gijimas - GN,RSA,1967,M,1337,M40,242,10.059,8:23:09
+1385,8:38:55,"Basi, Amon",Howick Athletic Club,RSA,1964,M,1337,M40,242,10.059,8:07:13
+1386,8:39:01,"Njapha, Delani",Vodacom Yebo Striders,RSA,1974,M,1339,M23,592,10.057,8:37:31
+1387,8:39:04,"Vermeulen, Hannes",Johannesburg Harriers AC,RSA,1950,M,1340,M55,9,10.057,7:14:53
+1388,8:39:07,"McCrindle, Brian",Boksburg AC,RSA,1954,M,1341,M50,42,10.056,7:27:01
+1389,8:39:07,"Vlakbok, Nelson",SANDF AC - EP,RSA,1964,M,1341,M40,244,10.056,8:07:24
+1390,8:39:19,"Bambo, Samuel",Middelburg Mine Runnin...,RSA,1969,M,1343,M35,332,10.052,8:26:58
+1391,8:39:20,"Mngadi, Zamokwakhe",Hlabisa Athletics Club,RSA,1980,M,1344,M23,593,10.051,8:39:20
+1392,8:39:21,"Handley, Graham",Brooks Striders,RSA,1962,M,1345,M45,107,10.051,7:59:35
+1393,8:39:21,"Ngidi, Muhle",Eskom Gijimas - KZN,RSA,1969,M,1345,M35,333,10.051,8:30:01
+1394,8:39:21,"Ford, Dale",Yellowwood Park Athlet...,RSA,1971,M,1345,M35,333,10.051,8:34:44
+1395,8:39:22,"Chauke, Zondi",SANDF AC - LP,RSA,1969,M,1348,M35,335,10.051,8:30:02
+1396,8:39:22,"Mokobane, Daniel",Run Walk for Life LP,RSA,1960,M,1348,M45,108,10.051,7:51:29
+1397,8:39:27,"Ngubane, Phillip",Eskom Gijimas - KZN,RSA,1969,M,1350,M35,336,10.049,8:27:06
+1398,8:39:27,"Mlotshwa, Johannes",Eskom Gijimas - MPL,RSA,1974,M,1350,M23,594,10.049,8:38:50
+1399,8:39:27,"Hockly, Mario",Assegaai Marathon Klub,RSA,1963,M,1350,M45,109,10.049,8:03:40
+1400,8:39:33,"Gcabashe, Mbuzeni",KwaMashu Athletic Club,RSA,1974,M,1353,M23,595,10.047,8:38:03
+1401,8:39:39,"van der Merwe, Eugene",Bedfordview Athletics ...,RSA,1980,M,1354,M23,596,10.045,8:39:39
+1402,8:39:40,"Maduka, Ndivhuho Victor",Manoni Running Club,RSA,1973,M,1355,M35,337,10.045,8:36:49
+1403,8:39:42,"Radzuma, Shumani",SA Police Gauteng AC CG,RSA,1964,M,1356,M40,245,10.044,8:12:00
+1404,8:39:43,"French, Percy",Rustenburg Marathon Club,RSA,1968,M,1357,M40,246,10.044,8:23:56
+1405,8:39:44,"Neswiswi, Tshilivhali Johannes",Petzetakis Athletics Club,RSA,1956,M,1358,M50,43,10.044,7:35:40
+1406,8:39:44,"Shannon, Ronald",United Kingdom,GBR,1958,M,1358,M50,43,10.044,7:43:43
+1407,8:39:45,"Tillery, Andrew",Muthaiga CC,GBR,1965,M,1360,M40,247,10.043,8:16:07
+1408,8:39:48,"Moyana, Paulos",Old World Concretes Ru...,RSA,1968,M,1361,M35,338,10.042,8:27:26
+1409,8:39:49,"Rapodile, Josias",Springs Platinum Refin...,RSA,1961,M,1362,M45,110,10.042,8:00:00
+1410,8:39:51,"Cele, Vusi Terence",SAPS Striders KZN,RSA,1975,M,1363,M23,597,10.041,8:39:45
+1411,8:39:52,"Tshabalala, Simon",Vaal Reefs Marathon Club,RSA,1966,M,1364,M40,248,10.041,8:20:17
+1412,8:39:56,"Boddy, Ian",Australia,AUS,1955,M,1365,M50,45,10.04,7:35:50
+1413,8:39:58,"Molokomme, Johannes",Potgietersrus AC,RSA,1961,M,1366,M45,111,10.039,7:56:05
+1414,8:39:58,"Motha, Sipho",Middelburg Marathon Club,RSA,1967,M,1366,M40,249,10.039,8:24:10
+1415,8:40:08,"MacKenzie, Jolene Ann",Sedgefield Striders,RSA,1975,F,48,W23,18,10.036,8:40:05
+1416,8:40:20,"Yigwana, Emmanuel",South Coast Striders,RSA,1979,M,1368,M23,598,10.032,8:40:20
+1417,8:40:21,"Schumann, Heidi",United Kingdom,GBR,1976,F,49,W23,19,10.032,8:40:18
+1418,8:40:23,"Makola, Herold Mashilo",Carlton Athletic Club,RSA,1979,M,1369,M23,599,10.031,8:40:23
+1419,8:40:23,"Mokiti, Simon Lesiba",Carlton Athletic Club,RSA,1975,M,1369,M23,599,10.031,8:39:46
+1420,8:40:34,"Hlengwa, Zeblon",Inchanga AC,RSA,1960,M,1371,M45,112,10.028,7:56:38
+1421,8:40:35,"Molewa, Nowaixo Elvis",Mafikeng Road Runners,RSA,1969,M,1372,M35,339,10.027,8:31:13
+1422,8:40:36,"Bester, Ann",Irene Road Running Club,RSA,1971,F,50,W35,14,10.027,8:35:30
+1423,8:40:51,"Dlamini, Collen",South Coast Striders,RSA,1964,M,1373,M40,250,10.022,8:13:06
+1424,8:40:54,"Taoli, Thabiso",Toyota AC (CG),LES,1968,M,1374,M35,340,10.021,8:28:31
+1425,8:40:54,"Mohlamme, Simon",Christiana Marathon Klub,RSA,1976,M,1374,M23,601,10.021,8:40:48
+1426,8:40:57,"Louw, Pieter",Hartbespoort Marathon ...,RSA,1961,M,1376,M45,113,10.02,7:56:59
+1427,8:40:57,"Mnqobani, Stuurman",Carnival City Runners,RSA,1972,M,1376,M35,341,10.02,8:38:06
+1428,8:40:58,"du Toit, Dries",Upington Marathon Klub,RSA,1964,M,1378,M40,251,10.02,8:13:12
+1429,8:41:01,"Makhaye, Khumbulani",Maritzburg City Athlet...,RSA,1975,M,1379,M23,602,10.019,8:40:24
+1430,8:41:02,"Gumede, Sipho Gift",Amanzimtoti AC,RSA,1982,M,1380,M23,603,10.019,8:41:02
+1431,8:41:08,"Nieuwoudt, Mary-Anne",Durban High School Old...,RSA,1981,F,51,W23,20,10.017,8:41:08
+1432,8:41:12,"Harrisberg, Susan",Rand AC,RSA,1959,F,52,W45,10,10.015,7:53:56
+1433,8:41:13,"Mabena, Mathula Aaron",Transwerk AC GN,RSA,1969,M,1381,M35,342,10.015,8:31:51
+1434,8:41:17,"Mashego, Alon",Sabie Shufflers,RSA,1983,M,1382,M23,604,10.014,8:41:17
+1435,8:41:24,"van der Berg, Jaco",Sasolburg AC - FS,RSA,1971,M,1383,M35,343,10.012,8:34:38
+1436,8:41:24,"Jooste, Darryl",Sasolburg AC - FS,RSA,1971,M,1383,M35,343,10.012,8:36:46
+1437,8:41:27,"Nsimbimi, Amando",Nedbank Running Club CG,RSA,1973,M,1385,M35,345,10.011,8:38:35
+1438,8:41:31,"Dhlamini, Boiki",Harmony Striders Virginia,RSA,1974,M,1386,M23,605,10.009,8:40:01
+1439,8:41:33,"Tyers, Jenny",Durban High School Old...,RSA,1972,F,53,W35,15,10.009,8:39:31
+1440,8:41:36,"Eugster, Marcel",Switzerland,SUI,1963,M,1387,M40,252,10.008,8:09:44
+1441,8:41:39,"van Wyk, Johanna",Boksburg AC,RSA,1963,F,54,W45,11,10.007,8:10:06
+1442,8:41:55,"Ngwaila, Ben",Rocky Road Runners,RSA,1957,M,1388,M50,46,10.002,7:45:40
+1443,8:41:57,"Dukes, Darren Dash",Strand Athletic Club,RSA,1971,M,1389,M35,346,10.001,8:37:19
+1444,8:42:00,"Jantjies, Stanton",Cadburys Running Club,RSA,1977,M,1390,M23,606,10.0,8:42:00
+1445,8:42:05,"Chabalala, Elias",Transwerk AC GN,RSA,1980,M,1391,M23,607,9.998,8:42:05
+1446,8:42:06,"Calenborne, Lauren",Sunninghill Striders R...,RSA,1973,F,55,W35,16,9.998,8:40:04
+1447,8:42:08,"Mathibela, Thulani",Hlabisa Athletics Club,RSA,1968,M,1392,M40,253,9.997,8:26:16
+1448,8:42:19,"Klue, Stephen",Elite Athletic Club,RSA,1958,M,1393,M45,114,9.994,7:50:06
+1449,8:42:20,"Rall, Nelmarie",Lichtenburg Marathon Club,RSA,1968,F,56,W35,17,9.994,8:32:41
+1450,8:42:21,"Gema, Ntuthuko",Natal Carbineers AC,RSA,1978,M,1394,M23,608,9.993,8:42:21
+1451,8:42:22,"Mbelu, Nicolas",Eskom Gijimas - KZN,RSA,1976,M,1395,M23,609,9.993,8:42:16
+1452,8:42:26,"May, Simphiwe",Continental Athletic C...,RSA,1977,M,1396,M23,610,9.992,8:42:26
+1453,8:42:26,"Antonio Raulino, Carlos",,BRA,1965,M,1396,M40,254,9.992,8:14:36
+1454,8:42:32,"Maroga, Ronny",Polokwane Athletic Club,RSA,1978,M,1398,M23,611,9.99,8:42:32
+1455,8:42:35,"Masango, Moloi Phillip",Moretele AC,RSA,1957,M,1399,M50,47,9.989,7:46:15
+1456,8:42:35,"Mncube, Wiseman Jabulile",Rand AC,RSA,1966,M,1399,M40,255,9.989,8:22:53
+1457,8:42:37,"Britz, Didi",Nelspruit Marathon Club,RSA,1968,M,1401,M35,347,9.988,8:30:11
+1458,8:42:40,"Klaas, Mzukisi George",Port Elizabeth Amateur AC,RSA,1968,M,1402,M35,348,9.987,8:30:14
+1459,8:42:44,"Durston, Ian",Rand AC,RSA,1981,M,1403,M23,612,9.986,8:42:44
+1460,8:42:48,"Dlamini, Khangela",Ukhozi Athletic Club,RSA,1957,M,1404,M50,48,9.985,7:46:27
+1461,8:42:48,"Mosiea, Kapoko Frank",Bethlehem Marathon Club,RSA,1975,M,1404,M23,613,9.985,8:42:11
+1462,8:42:50,"Mavuso, Muzi Michael",Ebony Athletic Club,RSA,1964,M,1406,M40,256,9.984,8:10:54
+1463,8:42:57,"Maroge, Senong Victor",Modikwa Marathon Club,RSA,1979,M,1407,M23,614,9.982,8:42:57
+1464,8:42:58,"Nombewu, Bisho",Nedbank Running Club E...,RSA,1966,M,1408,M40,257,9.982,8:19:11
+1465,8:43:00,"Senatle, Olebogeng",Nedbank Development Cl...,RSA,1969,M,1409,M35,349,9.981,8:30:34
+1466,8:43:00,"Ndlovu, Iris Lindiwe",Boxer Superstores Athl...,RSA,1977,F,57,W23,21,9.981,8:43:00
+1467,8:43:05,"Mbuthuma, Silent",Amanzimtoti AC,RSA,1977,M,1410,M23,615,9.979,8:43:05
+1468,8:43:06,"Radebe, Sipho",Rand Water AC - CG,RSA,1964,M,1411,M40,258,9.979,8:11:09
+1469,8:43:09,"Zungu, Fano",KZN Striders Athletic ...,RSA,1962,M,1412,M45,115,9.978,8:07:07
+1470,8:43:09,"Shezi, James",Amanzimtoti AC,RSA,1968,M,1412,M35,350,9.978,8:30:42
+1471,8:43:09,"Mthembu, Lungisane",Boxer Superstores Athl...,RSA,1965,M,1412,M40,259,9.978,8:15:16
+1472,8:43:09,"Mnyolo, Simphiwe",Katlehong Athletic Club,RSA,1961,M,1412,M45,115,9.978,8:03:05
+1473,8:43:14,"Madonsela, Bhekithemba",Chesterville Athletics...,RSA,1961,M,1416,M45,117,9.976,7:59:05
+1474,8:43:20,"Quinsee, Paula",Randburg Harriers,RSA,1972,F,58,W35,18,9.975,8:39:56
+1475,8:43:21,"Ramoshaba, Bethuel Matthews",Wingate Road Runners,RSA,1963,M,1417,M40,260,9.974,8:11:23
+1476,8:43:23,"Potgieter, Johan",Klerksdorp Marathon Klub,RSA,1965,M,1418,M40,261,9.974,8:15:30
+1477,8:43:23,"Sebiloane, Shadrack",Rand AC,RSA,1969,M,1418,M35,351,9.974,8:33:58
+1478,8:43:23,"Jansen van Vuuren, Theunis",Brooks Striders,RSA,1977,M,1418,M23,616,9.974,8:43:23
+1479,8:43:24,"Langa, Jeremia",Rand AC,RSA,1958,M,1421,M45,118,9.973,7:51:04
+1480,8:43:24,"Muller, Christo",Somerset East Athletic...,RSA,1968,M,1421,M40,262,9.973,8:27:30
+1481,8:43:27,"Mkize, Johannes",Maritzburg City Athlet...,RSA,1983,M,1423,M23,617,9.972,8:43:27
+1482,8:43:28,"Olifant, Macleod",Germiston Callies Harr...,RSA,1967,M,1424,M40,263,9.972,8:27:34
+1483,8:43:31,"Hogg, Michelle",Zimbabwe,ZIM,1968,F,59,W35,19,9.971,8:33:50
+1484,8:43:32,"Dribbin, Ronald",Rocky Road Runners,RSA,1959,M,1425,M45,119,9.971,7:55:16
+1485,8:43:32,"Sithole, Hlabangoma",Polokwane Athletic Club,RSA,1967,M,1425,M40,264,9.971,8:23:48
+1486,8:43:36,"Amaral, Nato",Brazil,BRA,1971,M,1427,M35,352,9.969,8:38:57
+1487,8:43:37,"Mouton, Eddie",Nedbank Running Club SWD,RSA,1974,M,1428,M23,618,9.969,8:42:06
+1488,8:43:37,"Lushaba, Xolani Emmanuel",Mr Price Running Club ...,RSA,1973,M,1428,M23,618,9.969,8:42:06
+1489,8:43:39,"Kok, Andre",Magnolia Road Runners,RSA,1961,M,1430,M45,120,9.968,7:59:28
+1490,8:43:40,"Moloi, Serame",SAPS AC - VT,RSA,1960,M,1431,M45,121,9.968,7:55:24
+1491,8:43:41,"Mathibela, September",Khutala Marathon Club,RSA,1977,M,1432,M23,620,9.968,8:43:41
+1492,8:43:41,"Maroale, Frans",Eskom Gijimas - MPL,RSA,1952,M,1432,M55,10,9.968,7:26:52
+1493,8:43:41,"Molefe, Daniel",Emfuleni Athletic Club,RSA,1960,M,1432,M45,122,9.968,7:55:24
+1494,8:43:48,"Pholoana, Lemako",Nedbank Bloemfontein A...,RSA,1973,M,1435,M23,621,9.966,8:42:17
+1495,8:44:09,"Calhoun, Joshua",,USA,1978,M,1436,M23,622,9.959,8:44:09
+1496,8:44:10,"Rees, Kate",Rand AC,RSA,1978,F,60,W23,22,9.959,8:44:10
+1497,8:44:14,"Mbatha, Michael Mfanafuthi",Katlehong Athletic Club,RSA,1976,M,1437,M23,623,9.957,8:44:08
+1498,8:44:14,"Ncane, Wiseman",South Coast Striders,RSA,1978,M,1437,M23,623,9.957,8:44:14
+1499,8:44:23,"Morobane, Basimane Jarius",Sunward Athletic Club,RSA,1957,M,1439,M50,49,9.955,7:43:50
+1500,8:44:26,"Bodiba, David",Exxaro Athletic Club GN,RSA,1970,M,1440,M35,353,9.954,8:37:37
+1501,8:44:29,"Cowling, Michael",Saints AC KZN,RSA,1951,M,1441,M55,11,9.953,7:19:25
+1502,8:44:34,"Machabenyane, Monaheng Jonas",Nedbank Bloemfontein A...,RSA,1974,M,1442,M23,625,9.951,8:43:03
+1503,8:44:34,"Shezi, Velapi",Estcourt Athletic club,RSA,1977,M,1442,M23,625,9.951,8:44:34
+1504,8:44:35,"Ndlovu, Alex",Sani Athletic Club,RSA,1977,M,1444,M23,627,9.951,8:44:35
+1505,8:44:36,"Swartz, Rasmus",Germiston Callies Harr...,RSA,1969,M,1445,M35,354,9.95,8:35:10
+1506,8:44:39,"du Toit, Sakkie",Swartland Atletiek Klub,RSA,1969,M,1446,M35,355,9.949,8:35:13
+1507,8:44:41,"Booyzen, Jan Adriaan",Amanzi AK Hartbeespoort,RSA,1976,M,1447,M23,628,9.949,8:44:35
+1508,8:44:44,"van Moerkerken, Leon",Eskom Gijimas - MPL,RSA,1967,M,1448,M40,265,9.948,8:24:58
+1509,8:44:46,"Ndlovu, Hloniphani",St James Athletics,RSA,1974,M,1449,M23,629,9.947,8:44:09
+1510,8:44:48,"Nohaya, Tshawe Sithile William",Mr Price - WP,RSA,1973,M,1450,M35,356,9.947,8:41:55
+1511,8:44:51,"Rachaka, Lefu",ADT Athletics Club,RSA,1972,M,1451,M35,357,9.946,8:41:58
+1512,8:44:52,"Bezuidenhout, Elmarie",Charlo Athletic Club,RSA,1982,F,61,W23,23,9.945,8:44:52
+1513,8:45:03,"Moloko, Benny",FSB Running Club GN,RSA,1972,M,1452,M35,358,9.942,8:40:23
+1514,8:45:04,"Ntsoane, Mogobe Peter",Wanderers Athletics Club,RSA,1968,M,1453,M40,266,9.942,8:29:07
+1515,8:45:11,"Sarhilias, Tembelani",Langebaan Strandlopers,RSA,1980,M,1454,M23,630,9.939,8:45:11
+1516,8:45:12,"Rynhoud, Dale Adrian",Irene Road Running Club,RSA,1968,M,1455,M35,359,9.939,8:32:43
+1517,8:45:14,"Dreyer, Franklin",Brotherhood Athletic Club,RSA,1967,M,1456,M40,267,9.938,8:29:16
+1518,8:45:16,"Lauterbach, Siggy",Newcastle Harriers Club,RSA,1951,M,1457,M55,12,9.938,7:20:05
+1519,8:45:16,"Burgers, Joanna",Newcastle Harriers Club,RSA,1978,F,62,W23,24,9.938,8:45:16
+1520,8:45:18,"Ndwandwe, Philani",Richmond Athletic Club,RSA,1978,M,1458,M23,631,9.937,8:45:18
+1521,8:45:19,"Leoatle, Mohau",SAPS AC - FS,RSA,1973,M,1459,M23,632,9.937,8:43:48
+1522,8:45:20,"Stanton, Scott",Scottburgh Athletic Club,RSA,1975,M,1460,M23,633,9.937,8:45:14
+1523,8:45:21,"Mokgosi, Michael",Anglo RPM Marathon Club,RSA,1978,M,1461,M23,634,9.936,8:45:21
+1524,8:45:23,"Mwelase, Brian Xolani",Rand AC,RSA,1976,M,1462,M23,635,9.936,8:45:17
+1525,8:45:27,"Light, Stephen",Durban High School Old...,RSA,1970,M,1463,M35,360,9.934,8:36:00
+1526,8:45:28,"Andrews, Dawid",Spoornet AC - Border,RSA,1965,M,1464,M40,268,9.934,8:21:34
+1527,8:45:28,"Schefermann, Gina",Nelspruit Marathon Club,RSA,1980,F,63,W23,25,9.934,8:45:28
+1528,8:45:28,"Khedama, Anthony",Spoornet AC - SWD,RSA,1975,M,1464,M23,636,9.934,8:45:22
+1529,8:45:28,"Glover, Ernie",Klerksdorp Marathon Klub,RSA,1973,M,1464,M23,636,9.934,8:43:57
+1530,8:45:31,"Karp, Julian David",Mount Edgecombe Villagers,RSA,1960,M,1467,M45,123,9.933,8:01:10
+1531,8:45:33,"Ngalwa, Robert",Krugersdorp Road Runners,RSA,1955,M,1468,M50,50,9.932,7:40:45
+1532,8:45:39,"Reynolds, Keith",Irene Road Running Club,RSA,1967,M,1469,M40,269,9.931,8:25:50
+1533,8:45:39,"Monareng, Motsamai Oscar",Germiston Callies Harr...,RSA,1973,M,1469,M23,638,9.931,8:44:08
+1534,8:45:47,"Mbatha, Bheki Albert",Nedbank Running Club KZN,RSA,1962,M,1471,M45,124,9.928,8:05:31
+1535,8:45:49,"Ngcongo, Mduduzi",Toyota AC (CG),RSA,1981,M,1472,M23,639,9.927,8:45:49
+1536,8:45:52,"Siziba, Mxolisi",Charlo Athletic Club,RSA,1970,M,1473,M35,361,9.926,8:39:02
+1537,8:45:53,"de Lange, Deon",Paarl Athletic Club,RSA,1968,M,1474,M40,270,9.926,8:29:54
+1538,8:45:57,"Johnston, David",West Coast AC,RSA,1964,M,1475,M40,271,9.925,8:13:49
+1539,8:46:02,"Bhengu, Bhekizizwe",Ubunye Athletic Club,RSA,1965,M,1476,M40,272,9.923,8:22:06
+1540,8:46:03,"Botha, Bryan Daniel",Amanzimtoti AC,RSA,1973,M,1477,M35,362,9.923,8:43:10
+1541,8:46:06,"Buthelezi, Mandla Moses",Raiders Athletic Club,RSA,1964,M,1478,M40,273,9.922,8:13:58
+1542,8:46:07,"Laubscher, Xavier",Fit 2000 AC - CG,RSA,1961,M,1479,M45,125,9.922,8:05:49
+1543,8:46:07,"Taylor, Trish",Virginia Athletic Club...,RSA,1970,F,64,W35,20,9.922,8:40:58
+1544,8:46:12,"Makatong, Gaesitwe Stefaans",Sesheng Athletic Club,RSA,1970,M,1480,M35,363,9.92,8:39:22
+1545,8:46:13,"Ncayiyana, Hleziphi",Nedbank Running Club KZN,RSA,1971,F,65,W35,21,9.92,8:42:48
+1546,8:46:14,"Ramohlanka, Andy",Goldfield Striders,LES,1965,M,1481,M40,274,9.92,8:18:12
+1547,8:46:16,"Dzingwa, Sipho A.",Benoni Northerns Athle...,RSA,1964,M,1482,M40,275,9.919,8:14:07
+1548,8:46:19,"Bekker, Danie",Eskom Gijimas - MPL,RSA,1963,M,1483,M40,276,9.918,8:14:10
+1549,8:46:19,"Lourens, Petrus",Harmony CNW,RSA,1971,M,1483,M35,364,9.918,8:41:38
+1550,8:46:23,"Labuschagne, Johan",BMW Ath & Running Club,RSA,1972,M,1485,M35,365,9.917,8:41:42
+1551,8:46:23,"Nkomo, Leon",Durban Athletic Club,RSA,1978,M,1485,M23,640,9.917,8:46:23
+1552,8:46:26,"Themedi, Lawrence",Rocky Road Runners,RSA,1977,M,1487,M23,641,9.916,8:46:26
+1553,8:46:27,"Vilakazi, Dumisani",Thembelisha New Hope AC,RSA,1975,M,1488,M23,642,9.915,8:45:50
+1554,8:46:27,"Formby, David",First National Bank Ru...,RSA,1974,M,1488,M23,642,9.915,8:44:56
+1555,8:46:28,"Ndlovu, Ephraim",Thembelisha New Hope AC,RSA,1972,M,1490,M35,366,9.915,8:41:47
+1556,8:46:41,"Naumann, Marc",Edgemead Runners,RSA,1971,M,1491,M35,367,9.911,8:39:51
+1557,8:46:46,"Grassie, Jacqueline",Tuks Marathon Club,RSA,1971,F,66,W35,22,9.91,8:43:21
+1558,8:46:48,"Chipa, Moloto Prince",Diepkloof Athletics Club,RSA,1954,M,1492,M50,51,9.909,7:37:45
+1559,8:46:48,"Minnie, Collette",Oxford Striders,RSA,1972,F,67,W35,23,9.909,8:43:23
+1560,8:46:54,"Brown, Kenny",United States,USA,1969,M,1493,M35,368,9.907,8:37:25
+1561,8:46:56,"Vilakazi, Martin",Sasol Marathon Klub - ...,RSA,1986,M,1494,MU23,18,9.906,8:46:56
+1562,8:46:59,"Ramaloko, Sello",Toyota AC (CG),RSA,1977,M,1495,M23,644,9.905,8:46:59
+1563,8:47:00,"Kumalo, Walter",Raiders Athletic Club,RSA,1974,M,1496,M23,645,9.905,8:45:29
+1564,8:47:05,"Ratau, Edwin",Powerade Athletic Club,RSA,1972,M,1497,M35,369,9.904,8:44:12
+1565,8:47:07,"Ndlovu, Wilson",Gods Goldern Acre AC,RSA,1977,M,1498,M23,646,9.903,8:47:07
+1566,8:47:08,"Radebe, Phillip",Stella Athletic Club,RSA,1969,M,1499,M35,370,9.903,8:37:39
+1567,8:47:09,"Mokhutshoane, Abel",Maritzburg City Athlet...,RSA,1976,M,1500,M23,647,9.902,8:47:09
+1568,8:47:09,"Bhengu, Xolani",Maritzburg City Athlet...,RSA,1976,M,1500,M23,647,9.902,8:47:03
+1569,8:47:13,"Black, Peter",Victorian Road Runners...,AUS,1954,M,1502,M50,52,9.901,7:38:06
+1570,8:47:16,"Malinga, Lerato",Bethlehem Marathon Club,RSA,1963,M,1503,M45,126,9.9,8:10:57
+1571,8:47:16,"Habedi, Amogelang Thapelo",Eersterust Athletics Club,RSA,1981,M,1503,M23,649,9.9,8:47:16
+1572,8:47:17,"Ngema, Thembinkosi",Biggarsberg AC,RSA,1983,M,1505,M23,650,9.9,8:47:17
+1573,8:47:19,"Mkhwanazi, Dumisani",Sunward Athletic Club,RSA,1969,M,1506,M35,371,9.899,8:37:50
+1574,8:47:20,"Wooldridge, Arthur",Bedfordview Athletics ...,RSA,1964,M,1507,M40,277,9.899,8:15:07
+1575,8:47:20,"Marais, Anton",Bedfordview Athletics ...,RSA,1979,M,1507,M23,651,9.899,8:47:20
+1576,8:47:22,"Phooko, Kwena",Lesedi Athletic Club,RSA,1979,M,1509,M23,652,9.898,8:47:22
+1577,8:47:23,"Gosa, Siyakudumisa",Mazda Athletics Club,RSA,1972,M,1510,M35,372,9.898,8:44:29
+1578,8:47:26,"Roboshi, Sidwell",Nedbank Running Club E...,RSA,1959,M,1511,M45,127,9.897,7:58:49
+1579,8:47:26,"Matebese, Lulamile Simon",New Balance AC EP,RSA,1963,M,1511,M45,127,9.897,8:11:06
+1580,8:47:31,"Mhlongo, Bethuel",Thembelisha New Hope AC,RSA,1960,M,1513,M45,129,9.895,7:58:53
+1581,8:47:31,"Shezi, Andile Griffiths",Africa Athletic Club,RSA,1982,M,1513,M23,653,9.895,8:47:31
+1582,8:47:37,"Fallows, Mark",New Balance AC FS,BOT,1974,M,1515,M23,654,9.894,8:47:00
+1583,8:47:41,"Tlhalogang, Patrick Taolo",Germiston Callies Harr...,RSA,1963,M,1516,M45,130,9.892,8:11:20
+1584,8:47:41,"Nkuna, Timothy",Tzaneen Marathon Club,RSA,1969,M,1516,M35,373,9.892,8:35:08
+1585,8:47:44,"Matshedisho, Sabata",Correc.Services AC - G...,RSA,1970,M,1518,M35,374,9.891,8:38:15
+1586,8:47:44,"Ramasimong, Kopano",SAPS AC - FS,RSA,1967,M,1518,M40,278,9.891,8:27:51
+1587,8:47:45,"Mokate, Lesego",Goldfields Athletics Club,RSA,1968,M,1520,M35,375,9.891,8:35:12
+1588,8:47:45,"Mogotlane, Andrew",Esselen Park Athletic ...,RSA,1988,M,1520,MU23,19,9.891,8:47:45
+1589,8:47:46,"Vanto, Lucas",Hi-Performance Midas R...,RSA,1967,M,1522,M40,279,9.891,8:27:53
+1590,8:47:49,"Ntlororo, Seoe Jan",Kimberly Military Athl...,RSA,1967,M,1523,M40,280,9.89,8:31:47
+1591,8:47:50,"Kunene, Mpumzi",Highway Athletics,RSA,1971,M,1524,M35,376,9.889,8:43:09
+1592,8:47:50,"du Toit, Dude",Polokwane Athletic Club,RSA,1969,M,1524,M35,376,9.889,8:38:20
+1593,8:47:54,"Mogorosi, Colen",Carlton Athletic Club,RSA,1972,M,1526,M35,378,9.888,8:45:00
+1594,8:47:57,"van der Walt, Malie",Arcelor Mittal AC - VT,RSA,1963,F,68,W45,12,9.887,8:16:01
+1595,8:47:58,"de Kock-Wentzel, Karen",Metropolitan Athletic ...,RSA,1976,F,69,W23,26,9.887,8:47:58
+1596,8:48:00,"Sass, John",Rand AC,RSA,1961,M,1527,M45,131,9.886,8:07:34
+1597,8:48:02,"Reid, Cecil",Celtic Harriers Club,RSA,1977,M,1528,M23,655,9.886,8:48:02
+1598,8:48:10,"Luiz Toledo, Samuel",,BRA,1964,M,1529,M40,281,9.883,8:15:54
+1599,8:48:11,"Scheepers, Leonardes",EDS Road Runners,RSA,1975,M,1530,M23,656,9.883,8:47:33
+1600,8:48:12,"Siease, Vincent Monaheng",Randburg Harriers,RSA,1950,M,1531,M55,13,9.883,7:22:32
+1601,8:48:13,"Magagula, Lucky",uMhlathuze Athletic Club,RSA,1983,M,1532,M23,657,9.882,8:48:13
+1602,8:48:15,"de Beer, Bennie",Sasol Marathon Klub - ...,RSA,1966,M,1533,M40,282,9.882,8:24:13
+1603,8:48:15,"Moraba, Oupa Katlego",Correc.Services AC GN,RSA,1974,M,1533,M23,658,9.882,8:46:44
+1604,8:48:15,"Vella, Daniel",Hillcrest Villagers AC,RSA,1979,M,1533,M23,658,9.882,8:48:15
+1605,8:48:16,"Mlaba, Christopher",Pinetown & District AC,RSA,1978,M,1536,M23,660,9.881,8:48:16
+1606,8:48:20,"Mbuyane, Chelela",Sadac Athletic Club,RSA,1961,M,1537,M45,132,9.88,8:07:52
+1607,8:48:21,"Hlongwane, Hlanganani",Collegians Harriers,RSA,1975,M,1538,M23,661,9.88,8:47:43
+1608,8:48:24,"Motlana, Moraka",Zwakala Athletics Club,RSA,1964,M,1539,M40,283,9.879,8:16:07
+1609,8:48:24,"Baartman, Wilson",Spartan Harriers,RSA,1958,M,1539,M45,133,9.879,7:55:34
+1610,8:48:27,"Makhudu, Caiphus",Solidariteit Atletiekklub,RSA,1972,M,1541,M35,379,9.878,8:43:45
+1611,8:48:29,"Mhlanzi, Xolani",Stella Athletic Club,RSA,1979,M,1542,M23,662,9.877,8:48:29
+1612,8:48:31,"Makhubela, Fantastic Gezani",Atteridgeville Juluka ...,RSA,1981,M,1543,M23,663,9.877,8:48:31
+1613,8:48:33,"Mhlongo, Linah",Nedbank Running Club M...,RSA,1981,F,70,W23,27,9.876,8:48:33
+1614,8:48:35,"Schwegler, Frank",Rand AC,RSA,1972,M,1544,M35,380,9.875,8:43:53
+1615,8:48:35,"Emanuel, Yonah",Jeppe Quondam Athletic...,RSA,1985,M,1544,M23,664,9.875,8:48:35
+1616,8:48:35,"Flusk, Enrico",Pretoria Millitary Mar...,RSA,1973,M,1544,M23,664,9.875,8:47:04
+1617,8:48:36,"Ndwandwe, Vuyisile Richman",Nedbank Running Club M...,RSA,1984,M,1547,M23,666,9.875,8:48:36
+1618,8:48:36,"Kukkuk, Jaco",Randburg Harriers,RSA,1976,M,1547,M23,666,9.875,8:48:30
+1619,8:48:37,"Wright, David",SAPS Striders KZN,RSA,1971,M,1549,M35,381,9.875,8:43:55
+1620,8:48:39,"Mzobe, Israel",Amanzimtoti AC,RSA,1959,M,1550,M45,134,9.874,7:59:55
+1621,8:48:40,"Zulu, Terrence",Lockeroom Athletics Club,RSA,1975,M,1551,M23,668,9.874,8:48:34
+1622,8:48:43,"Geyser, Benise",SANDF AC - NP (Pieters...,RSA,1982,F,71,W23,28,9.873,8:48:43
+1623,8:48:45,"Skosana, Peter Bongani",Carlton Athletic Club,RSA,1966,M,1552,M40,284,9.872,8:28:49
+1624,8:48:45,"Ntombela, Sithembiso Promise",Varsity Kudus AC,RSA,1973,M,1552,M35,382,9.872,8:45:51
+1625,8:48:49,"Thabethe, Kwenzeka",Maritzburg City Athlet...,RSA,1984,M,1554,M23,669,9.871,8:48:49
+1626,8:48:50,"Hugo, Braam",Wellington Atletiek Klub,RSA,1960,M,1555,M45,135,9.871,8:04:12
+1627,8:48:50,"Siziba, Edward",Zimbabwe,ZIM,1967,M,1555,M40,285,9.871,8:28:54
+1628,8:48:50,"Mxephe, Smanga Alfred",Diepsloot Athletic Club,RSA,1972,M,1555,M35,383,9.871,8:45:56
+1629,8:48:57,"Clark, Thomas",Wings AC,RSA,1970,M,1558,M35,384,9.869,8:42:05
+1630,8:48:58,"Mhlaba, Vickson",Eskom Gijimas - MPL,RSA,1965,M,1559,M40,286,9.868,8:20:47
+1631,8:48:59,"Mamabolo, Matome Andries",Bedfordview Athletics ...,RSA,1976,M,1560,M23,670,9.868,8:48:59
+1632,8:49:01,"Pienaar, Louis",Exxaro Athletic Club GN,RSA,1969,M,1561,M35,385,9.867,8:39:30
+1633,8:49:01,"van Huizen, Hermanus",Exxaro Athletic Club GN,RSA,1969,M,1561,M35,385,9.867,8:39:30
+1634,8:49:07,"Klaas, Patrick",Nedbank Running Club E...,RSA,1964,M,1563,M40,287,9.865,8:16:48
+1635,8:49:07,"Lebese, Jan Matlakane",Pretoria Police Marath...,RSA,1956,M,1563,M50,53,9.865,7:43:53
+1636,8:49:08,"Langa, Zefried",Chatsworth Athletic Club,RSA,1971,M,1565,M35,387,9.865,8:42:16
+1637,8:49:10,"Fairley, Karen",Fourways Road Runners,RSA,1970,F,72,W35,24,9.865,8:43:59
+1638,8:49:13,"Daniels, Wayne",Rand AC,RSA,1966,M,1566,M40,288,9.864,8:29:16
+1639,8:49:17,"Radebe, Themba",Standerton Marathon Club,RSA,1972,M,1567,M35,388,9.862,8:46:23
+1640,8:49:18,"Mabodla, Joseph",ADT Athletics Club,RSA,1965,M,1568,M40,289,9.862,8:25:14
+1641,8:49:18,"Watkeys, Lindsey",Westville Athletic Club,RSA,1957,F,73,W50,2,9.862,7:49:36
+1642,8:49:22,"Ross, David E.",Athletics North KZN,GBR,1967,M,1569,M40,290,9.861,8:33:17
+1643,8:49:22,"Gresse, Brendes",Irene Road Running Club,RSA,1963,M,1569,M45,136,9.861,8:12:54
+1644,8:49:23,"van Rensburg, Peter",Nedbank Running Club E...,RSA,1958,M,1571,M45,137,9.861,7:56:27
+1645,8:49:23,"Coetzee, Cisce",Old Selbornians Road R...,RSA,1969,M,1571,M35,389,9.861,8:36:48
+1646,8:49:30,"Hlungwane, Gezane Elias",Germiston Callies Harr...,RSA,1945,M,1573,M60,2,9.858,6:58:54
+1647,8:49:31,"Schermbrucker, Alan",Varsity Old Boys - WP,RSA,1977,M,1574,M23,671,9.858,8:49:31
+1648,8:49:32,"Sithole, Derrick",Verulam Checkout Falco...,RSA,1969,M,1575,M35,390,9.858,8:36:56
+1649,8:49:32,"de Kock, Maretha",Adidas AC,RSA,1960,F,74,W45,13,9.858,8:01:31
+1650,8:49:37,"Mzulwini, Bongani",Gods Goldern Acre AC,RSA,1977,M,1576,M23,672,9.856,8:49:37
+1651,8:49:39,"Ngema, Mandla",Correc.Services AC - KZN,RSA,1975,M,1577,M23,673,9.856,8:49:33
+1652,8:49:40,"Hadebe, Sipho",Eskom Gijimas - KZN,RSA,1979,M,1578,M23,674,9.855,8:49:40
+1653,8:49:42,"Hart, Andrew",Varsity Old Boys - WP,RSA,1971,M,1579,M35,391,9.855,8:45:00
+1654,8:49:45,"Kotze, Emile",Strand Athletic Club,RSA,1972,M,1580,M35,392,9.854,8:46:51
+1655,8:49:49,"Mkhonto, Herold",Boksburg AC,RSA,1962,M,1581,M45,138,9.852,8:09:14
+1656,8:49:59,"Dunn, Werner",Alberton AC,RSA,1976,M,1582,M23,675,9.849,8:49:53
+1657,8:50:01,"Dindi, Langelihle",Newlands Striders,RSA,1973,M,1583,M35,393,9.849,8:47:07
+1658,8:50:02,"Ndlovu, Nkosinathi Emmanuel",Durban Athletic Club,RSA,1968,M,1584,M35,394,9.848,8:37:26
+1659,8:50:19,"Plaatjies, Phillip",Harmony Striders Virginia,RSA,1969,M,1585,M35,395,9.843,8:37:42
+1660,8:50:20,"Leepo, Pule",Harmony Striders Virginia,RSA,1964,M,1586,M40,291,9.843,8:22:04
+1661,8:50:28,"Mosiea, Thapelo",Ingwe AC - KZN,RSA,1980,M,1587,M23,676,9.84,8:50:28
+1662,8:50:31,"Jones, Doug",Morningside Country Club,RSA,1973,M,1588,M35,396,9.839,8:47:36
+1663,8:50:32,"Buthelezi, Sabelo Sydney",Nedbank Running Club KZN,RSA,1977,M,1589,M23,677,9.839,8:50:32
+1664,8:50:33,"van Eeden, Jan",Nedbank Running Club E...,RSA,1958,M,1590,M50,54,9.839,7:53:22
+1665,8:50:33,"Mkhize, Sboniso",Hilton Harriers,RSA,1980,M,1590,M23,678,9.839,8:50:33
+1666,8:50:38,"Rudman, Jerrit",Kempton Road Runners,RSA,1954,M,1592,M50,55,9.837,7:36:56
+1667,8:50:38,"Mashoeu, Seroto",Eskom Gijimas - BDR,RSA,1981,M,1592,M23,679,9.837,8:50:38
+1668,8:50:45,"Seenyane, Thomas Molefi",Union Club,RSA,1969,M,1594,M35,397,9.835,8:38:08
+1669,8:50:45,"Mdalana, Modupinyana",Union Club,RSA,1974,M,1594,M23,680,9.835,8:50:07
+1670,8:50:47,"du Plooy, Rudi",New Balance AC FS,RSA,1973,M,1596,M23,681,9.835,8:49:15
+1671,8:50:53,"Khaba, Thembinkosi",KZN Striders Athletic ...,RSA,1969,M,1597,M35,398,9.833,8:41:20
+1672,8:51:05,"Nyapotse, Stephen",Nedbank Bloemfontein A...,RSA,1961,M,1598,M45,139,9.829,8:06:16
+1673,8:51:05,"Thipe, Christian",Rand Water AC - CG,RSA,1974,M,1598,M23,682,9.829,8:50:27
+1674,8:51:09,"Swarts, Andries",Ceres Athletic Club,RSA,1964,M,1600,M40,292,9.828,8:22:51
+1675,8:51:12,"Memela, Mluleki",SAPS AC - Pietermaritz...,RSA,1979,M,1601,M23,683,9.827,8:51:12
+1676,8:51:19,"Tlabela, Phuti Erustos",Carlton Athletic Club,RSA,1958,M,1602,M45,140,9.825,7:58:12
+1677,8:51:19,"Seroka, Tebogo",Carlton Athletic Club,RSA,1969,M,1602,M35,399,9.825,8:38:41
+1678,8:51:19,"Tyler, Monica",Carlton Athletic Club,RSA,1962,F,75,W45,14,9.825,8:19:11
+1679,8:51:22,"Selebi, John",Standard Bank AC - CG,RSA,1970,M,1604,M35,400,9.824,8:41:49
+1680,8:51:25,"Booth, Kevin",Hilton Harriers,RSA,1958,M,1605,M50,56,9.823,7:54:08
+1681,8:51:25,"Zondi, Philani",Chesterville Athletics...,RSA,1973,M,1605,M23,684,9.823,8:49:53
+1682,8:51:27,"Mohubedu, Sethibe Titus",Steelpoort Marathon Club,RSA,1968,M,1607,M35,401,9.822,8:38:49
+1683,8:51:27,"Louw, Frans",Upington Crusaders,RSA,1973,M,1607,M35,401,9.822,8:48:32
+1684,8:51:31,"Mashele, Benjamin",Lesedi Athletic Club,RSA,1971,M,1609,M35,403,9.821,8:44:37
+1685,8:51:32,"Managa, David",Eskom Gijimas - LP,RSA,1975,M,1610,M23,685,9.821,8:50:54
+1686,8:51:32,"Jose Bertuzzi, Mauricio",,BRA,1959,M,1610,M45,141,9.821,8:02:32
+1687,8:51:33,"Molefe, Isaac",Springs Platinum Refin...,RSA,1962,M,1612,M45,142,9.82,8:14:56
+1688,8:51:33,"Lenepa, Joseph",Jeppe Quondam Athletic...,RSA,1966,M,1612,M40,293,9.82,8:31:31
+1689,8:51:35,"McIntosh, Bret",Collegians Harriers,RSA,1965,M,1614,M40,294,9.82,8:27:24
+1690,8:51:35,"Mkhize, Phikinkani",Phoenix Athletic Club,RSA,1973,M,1614,M35,404,9.82,8:48:40
+1691,8:51:37,"Delmont, Peter-John (P.J.)",Rand AC,RSA,1980,M,1616,M23,686,9.819,8:51:37
+1692,8:51:37,"Sokhela, Wilson",Gauteng Striders,RSA,1979,M,1616,M23,686,9.819,8:51:37
+1693,8:51:40,"Makgakga, Nare Magama",Correc.Services AC LP,RSA,1983,M,1618,M23,688,9.818,8:51:40
+1694,8:51:42,"Gardener, Robyn",Edgemead Runners,RSA,1980,F,76,W23,29,9.818,8:51:42
+1695,8:51:43,"Phoku, Isaac",Modikwa Marathon Club,RSA,1982,M,1619,M23,689,9.817,8:51:43
+1696,8:51:46,"Ranger, Peter",Old Selbornians Road R...,RSA,1977,M,1620,M23,690,9.816,8:51:46
+1697,8:51:47,"Mfolo, Benjy",Zwakala Athletics Club,RSA,1966,M,1621,M40,295,9.816,8:27:36
+1698,8:51:47,"Mvubu, Calvin",Breakthru Midrand Stri...,RSA,1973,M,1621,M35,405,9.816,8:48:52
+1699,8:51:48,"Pilane, Mausley",Nedbank Running Club M...,RSA,1973,F,77,W35,25,9.816,8:49:44
+1700,8:51:49,"Holcroft, Richard",Langebaan Strandlopers,RSA,1965,M,1623,M40,296,9.815,8:23:29
+1701,8:52:00,"Visser, Carien",Pretoria Marathon Club,RSA,1967,F,78,W40,8,9.812,8:39:21
+1702,8:52:01,"Kruger, Marius",Bellville AC,RSA,1974,M,1624,M23,691,9.812,8:51:23
+1703,8:52:03,"Hibbert, Samantha",Pinetown & District AC,RSA,1973,F,79,W35,26,9.811,8:49:59
+1704,8:52:08,"Griffin, Kylie",Westville Athletic Club,RSA,1964,F,80,W40,9,9.81,8:28:50
+1705,8:52:09,"Ngcongo, Themba",Merewent Athletic Club,RSA,1957,M,1625,M50,57,9.809,7:50:42
+1706,8:52:11,"Loubser, Pierre",Magnolia Road Runners,RSA,1968,M,1626,M40,297,9.809,8:36:01
+1707,8:52:11,"Purdon, Peter",Florida Running Club,RSA,1950,M,1626,M55,14,9.809,7:25:52
+1708,8:52:15,"Zaca, Handsome Sbongiseni",SAPS AC - Pietermaritz...,RSA,1984,M,1628,M23,692,9.807,8:52:15
+1709,8:52:17,"Mkhize, Zwelithini Nicholas",Chesterville Athletics...,RSA,1957,M,1629,M50,58,9.807,7:50:49
+1710,8:52:23,"Mthembu, Sipho Samuel",Mr Price Running Club ...,RSA,1976,M,1630,M23,693,9.805,8:52:17
+1711,8:52:23,"Mtshali, Daniel",Africa Athletic Club,RSA,1961,M,1630,M45,143,9.805,8:11:37
+1712,8:52:23,"Tenza, Coach Benzi",Boksburg AC,RSA,1968,M,1630,M35,406,9.805,8:39:43
+1713,8:52:24,"Radebe, Njabulo",Toyota AC (CG),RSA,1981,M,1633,M23,694,9.805,8:52:24
+1714,8:52:24,"Moloi, Raboseka",Sasolburg AC - FS,RSA,1967,M,1633,M40,298,9.805,8:32:20
+1715,8:52:25,"Moloi, Johannes",ABI Athletic Club - CG,RSA,1967,M,1635,M40,299,9.804,8:32:21
+1716,8:52:25,"Sekamane, Moeketsi",Goldfields Athletics Club,RSA,1971,M,1635,M35,407,9.804,8:45:30
+1717,8:52:39,"Maleyana, Bennet",Golden Reef Road Runne...,RSA,1955,M,1637,M50,59,9.8,7:42:50
+1718,8:52:41,"Gallagher, Justin",Australia,AUS,1973,M,1638,M35,408,9.799,8:49:46
+1719,8:52:43,"Mazibuko, Derrick Bhomu Siphiwe",Nedbank Running Club KZN,RSA,1957,M,1639,M50,60,9.799,7:55:18
+1720,8:52:47,"Khumalo, Percy Jabulane",Boksburg AC,RSA,1965,M,1640,M40,300,9.798,8:24:24
+1721,8:52:47,"Rapoo, Rantene Abel",Mafika Athletic Club,RSA,1956,M,1640,M50,61,9.798,7:51:15
+1722,8:52:48,"Payne, Barry",Varsity Kudus AC,RSA,1977,M,1642,M23,695,9.797,8:52:48
+1723,8:52:48,"Malaka, Sekhothe April",Moretele AC,RSA,1974,M,1642,M23,695,9.797,8:52:10
+1724,8:52:49,"Botes, Annatjie",Nedbank Running Club SWD,RSA,1957,F,81,W50,3,9.797,7:52:43
+1725,8:52:49,"Mtsweni, Charles Sipho",Amandelbult Road Runners,RSA,1980,M,1644,M23,697,9.797,8:52:49
+1726,8:52:55,"Boston, Victor",Rocky Road Runners,RSA,1959,M,1645,M45,144,9.795,8:03:47
+1727,8:52:56,"Badenhorst, Bennie",Hartbespoort Marathon ...,RSA,1981,M,1646,M23,698,9.795,8:52:56
+1728,8:52:56,"Janse van Rensburg, Nick",Pretoria High Old Boys...,RSA,1982,M,1646,M23,698,9.795,8:52:56
+1729,8:53:00,"Muller, Marius",Ceres Athletic Club,RSA,1978,M,1648,M23,700,9.794,8:53:00
+1730,8:53:00,"Sehlako, Stephen",Standerton Marathon Club,RSA,1981,M,1648,M23,700,9.794,8:53:00
+1731,8:53:03,"Makhanya, Dumisani",KwaMashu Athletic Club,RSA,1967,M,1650,M40,301,9.793,8:36:51
+1732,8:53:10,"Brand, Jaco",New Balance AC WP,RSA,1971,M,1651,M35,409,9.791,8:48:26
+1733,8:53:12,"Masopha, Khotso",Rand Water AC - CG,RSA,1975,M,1652,M23,702,9.79,8:53:06
+1734,8:53:12,"Mayimele, Hlahla",Manoni Running Club,RSA,1973,M,1652,M23,702,9.79,8:51:40
+1735,8:53:16,"Ubisi, Shadrick",Gauteng Striders,RSA,1987,M,1654,MU23,20,9.789,8:53:16
+1736,8:53:18,"Nteyi, Vusumuzi",Breakthru Midrand Stri...,RSA,1970,M,1655,M35,410,9.788,8:43:43
+1737,8:53:22,"Brown, Gary",Benoni Harriers,RSA,1964,M,1656,M40,302,9.787,8:20:47
+1738,8:53:23,"Maidi, Gerald",Mazda Athletics Club,RSA,1979,M,1657,M23,704,9.787,8:53:23
+1739,8:53:25,"Hibbers, Mario",Richards Bay AC,RSA,1974,M,1658,M23,705,9.786,8:51:53
+1740,8:53:26,"Mdlalose, Zakhele",Alberton AC,RSA,1969,M,1659,M35,411,9.786,8:43:50
+1741,8:53:26,"Harrison, Derek",,GBR,1955,M,1659,M50,62,9.786,7:43:31
+1742,8:53:27,"Kgwedi, Zacharia",Spar Gauteng Athletic ...,RSA,1966,M,1661,M40,303,9.785,8:29:11
+1743,8:53:28,"Smart, Linda",Dainfern Country Club ...,RSA,1966,F,82,W40,10,9.785,8:37:35
+1744,8:53:29,"Jonas, Lulamile",New Balance AC EP,RSA,1981,M,1662,M23,706,9.785,8:53:29
+1745,8:53:30,"Ledwaba, Malose Paul",Carlton Athletic Club,RSA,1975,M,1663,M23,707,9.784,8:52:52
+1746,8:53:32,"Linden, Suzette",Klerksdorp Marathon Klub,RSA,1977,F,83,W23,30,9.784,8:53:32
+1747,8:53:32,"Swanepoel, Roma",Klerksdorp Marathon Klub,RSA,1987,F,83,WU23,1,9.784,8:50:08
+1748,8:53:33,"Koopman, Frank",Paarl Athletic Club,RSA,1963,M,1664,M45,145,9.784,8:16:48
+1749,8:53:33,"Mathiba, Johannes Lebohang",Transwerk AC FS,RSA,1971,M,1664,M35,412,9.784,8:46:37
+1750,8:53:34,"Smith, Herman",Mount Everest AC,RSA,1973,M,1666,M23,708,9.783,8:52:02
+1751,8:53:35,"Ngidi, Thembinkosi",Chesterville Athletics...,RSA,1984,M,1667,M23,709,9.783,8:53:35
+1752,8:53:36,"Nkosi, Esau Zakhele",Eskom Gijimas - MPL,RSA,1978,M,1668,M23,710,9.783,8:53:36
+1753,8:53:38,"Grobler, Anli",Pirates Road Running,RSA,1979,F,85,W23,31,9.782,8:53:38
+1754,8:53:38,"Dare, Alison",Pirates Road Running,RSA,1965,F,85,W40,11,9.782,8:34:10
+1755,8:53:39,"Xakumani, Alfred",Queensburgh Harriers,RSA,1970,M,1669,M35,413,9.782,8:46:43
+1756,8:53:41,"Zimu, Msizi",SAPS AC - Pietermaritz...,RSA,1982,M,1670,M23,711,9.781,8:53:41
+1757,8:53:43,"Tshikila, Buyile",Nedbank Running Club E...,RSA,1962,M,1671,M45,146,9.78,8:16:57
+1758,8:53:47,"Motlhagodi, Bushu",Florida Running Club,RSA,1964,M,1672,M40,304,9.779,8:21:11
+1759,8:53:48,"Collins, Patrick (Paddy)",Kearsney Striders,RSA,1951,M,1673,M55,15,9.779,7:31:23
+1760,8:53:49,"Frans, Moses",Outeniqua Harriers,RSA,1965,M,1674,M40,305,9.779,8:25:22
+1761,8:53:50,"Jikazi, Xolani Joseph",Nedbank Running Club KZN,RSA,1975,M,1675,M23,712,9.778,8:53:12
+1762,8:53:52,"Nkala, Sibongiseni",Athletics North KZN,RSA,1973,M,1676,M35,414,9.778,8:50:56
+1763,8:53:56,"Nyamende, Tycoon",Mr Price - Transkei,RSA,1962,M,1677,M45,147,9.777,8:13:03
+1764,8:53:57,"Nzimande, Nkosinathi",Stella Athletic Club,RSA,1972,M,1678,M35,415,9.776,8:51:01
+1765,8:53:57,"Zulu, Sithembiso",Mr Price Running Club ...,RSA,1976,M,1678,M23,713,9.776,8:53:57
+1766,8:54:00,"Klue, Johan",Nelspruit Marathon Club,RSA,1974,M,1680,M23,714,9.775,8:53:22
+1767,8:54:01,"Manyathi, Mandla",Eskom Gijimas - CG,RSA,1972,M,1681,M35,416,9.775,8:51:05
+1768,8:54:01,"Mothapo, Simon",Diepsloot Athletic Club,RSA,1976,M,1681,M23,715,9.775,8:53:55
+1769,8:54:02,"Dyonase, Sandile",Diepsloot Athletic Club,RSA,1971,M,1683,M35,417,9.775,8:47:06
+1770,8:54:02,"Mamodumo, Terence",Diepsloot Athletic Club,RSA,1976,M,1683,M23,716,9.775,8:54:02
+1771,8:54:03,"Cotterrell, Ashley",Umvoti Athletic Club,RSA,1970,M,1685,M35,418,9.774,8:47:07
+1772,8:54:03,"Zibi, Desmond",Mr Price - EP,RSA,1963,M,1685,M40,306,9.774,8:21:26
+1773,8:54:04,"Gill, Anthony",Klerksdorp Marathon Klub,RSA,1951,M,1687,M55,16,9.774,7:27:27
+1774,8:54:05,"van der Merwe, Lelane",Nedbank Running Club SWD,RSA,1973,F,87,W23,32,9.774,8:53:05
+1775,8:54:07,"Ntimani, Isaihi",Kruger Park Marathon Club,RSA,1974,M,1688,M23,717,9.773,8:52:35
+1776,8:54:09,"Ngubane, Vumelani",Eskom Gijimas - KZN,RSA,1978,M,1689,M23,718,9.773,8:54:09
+1777,8:54:11,"Thornton, Terry",Raleigh Athletic Tri Club,RSA,1967,M,1690,M40,307,9.772,8:37:57
+1778,8:54:11,"Finestone, Megan",Westville Athletic Club,RSA,1962,F,88,W45,15,9.772,8:21:52
+1779,8:54:12,"Tsotetsi, Mpho",Rand AC,RSA,1964,M,1691,M40,308,9.772,8:21:34
+1780,8:54:14,"Giles, Scott",Randburg Harriers,RSA,1976,M,1692,M23,719,9.771,8:54:08
+1781,8:54:14,"Shabalala, Willie",Langebaan Strandlopers,RSA,1963,M,1692,M45,148,9.771,8:17:26
+1782,8:54:16,"Xulu, David Riza",Ukhozi Athletic Club,RSA,1966,M,1694,M40,309,9.77,8:29:58
+1783,8:54:18,"Pietersen, Grizelda",Mr Price - EP,RSA,1968,F,89,W35,27,9.77,8:44:25
+1784,8:54:19,"Bunge, Winston",Verulam Checkout Falco...,RSA,1957,M,1695,M50,63,9.769,7:52:37
+1785,8:54:25,"Dlamini, Robert",Northam Platinum Athle...,RSA,1965,M,1696,M40,310,9.768,8:25:56
+1786,8:54:27,"Nkhi, Jordan",Nedbank Bloemfontein A...,RSA,1963,M,1697,M40,311,9.767,8:21:48
+1787,8:54:28,"Rosin, Dean Grant",Berts Bricks Athletic ...,RSA,1971,M,1698,M35,419,9.767,8:49:43
+1788,8:54:36,"van Niekerk, Derek",Nedbank Running Club VT,RSA,1964,M,1699,M40,312,9.764,8:26:07
+1789,8:54:36,"Netsianda, Ntuweleni Phillemon",Kagiso Striders,RSA,1960,M,1699,M45,149,9.764,8:09:29
+1790,8:54:36,"Mataka, Andrew",Zabalaza Athletic Club,RSA,1979,M,1699,M23,720,9.764,8:54:36
+1791,8:54:37,"Weidemann, Hans",Irene Road Running Club,RSA,1961,M,1702,M45,150,9.764,8:13:40
+1792,8:54:37,"Mabona, Fikile",Bronkhorstspruit Athle...,RSA,1969,M,1702,M35,420,9.764,8:45:00
+1793,8:54:38,"Hlongwa, Mlondolozi Christian",Newlands Athletic Club,RSA,1979,M,1704,M23,721,9.764,8:54:38
+1794,8:54:39,"Booysen, Gideon Johannes",Eskom Gijimas - FS,RSA,1970,M,1705,M35,421,9.763,8:47:42
+1795,8:54:39,"Zondo, Sandile",Umlazi Athletic Club,RSA,1974,M,1705,M23,722,9.763,8:53:06
+1796,8:54:40,"Rossouw, Deon",Krugersdorp Road Runners,RSA,1952,M,1707,M55,17,9.763,7:32:07
+1797,8:54:40,"Nxele, Nicosiyakhe",SAPS AC - Pietermaritz...,RSA,1980,M,1707,M23,723,9.763,8:54:40
+1798,8:54:41,"Mdebele, Patrick",SANDF AC - MPL,RSA,1971,M,1709,M35,422,9.763,8:49:56
+1799,8:54:42,"Thiambiwi, Samuel",SANDF AC - MPL,RSA,1968,M,1710,M35,423,9.762,8:41:59
+1800,8:54:44,"Ngcobo, Mhlabunzima",Woodview Athletic Club,RSA,1977,M,1711,M23,724,9.762,8:54:44
+1801,8:54:45,"Mhlanga, Anderson",Run Walk for Life GN,RSA,1973,M,1712,M35,424,9.762,8:51:49
+1802,8:54:46,"Vilakazi, Thabo",Tsakane Athletic Club,RSA,1972,M,1713,M35,425,9.761,8:51:50
+1803,8:54:46,"Roodt, Johannes Lodewikus",Run Walk for Life GN,RSA,1961,M,1713,M45,151,9.761,8:09:38
+1804,8:54:51,"Choenyana, Nkwane Phinias",Vodacom Yebo Striders,RSA,1974,M,1715,M23,725,9.76,8:53:18
+1805,8:54:57,"Riccardi, Alberto",Bedfordview Athletics ...,RSA,1967,M,1716,M40,313,9.758,8:38:42
+1806,8:54:58,"Marubini, Emmanuel",Vodacom Yebo Striders,RSA,1972,M,1717,M35,426,9.758,8:52:02
+1807,8:54:59,"Wright, Derek",Benoni Northerns Athle...,RSA,1957,M,1718,M50,64,9.757,7:57:19
+1808,8:55:04,"Durston, Kevin",Rand AC,RSA,1984,M,1719,M23,726,9.756,8:55:04
+1809,8:55:05,"Geerdts, Arnold",Rand AC,RSA,1962,M,1720,M45,152,9.755,8:14:06
+1810,8:55:05,"Erasmus, Peter John",Rand AC,RSA,1953,M,1720,M55,18,9.755,7:36:36
+1811,8:55:06,"Moore, Gary",Rand Road Warriors,RSA,1968,M,1722,M40,314,9.755,8:38:50
+1812,8:55:06,"Maphanga, Elfas",Vodacom Yebo Striders,RSA,1964,M,1722,M40,314,9.755,8:26:35
+1813,8:55:10,"Babe, Albert Thuso",SANDF AC - FS,RSA,1980,M,1724,M23,727,9.754,8:55:10
+1814,8:55:12,"Hlongwa, Nhlanhla Daniel",Carlton Athletic Club,RSA,1960,M,1725,M45,153,9.753,8:10:02
+1815,8:55:12,"Nqwala, Phumelele",Chatsworth Athletic Club,RSA,1975,M,1725,M23,728,9.753,8:54:34
+1816,8:55:12,"Vilakazi, Lucas Fanyana",Eskom Gijimas - MPL,RSA,1975,M,1725,M23,728,9.753,8:55:06
+1817,8:55:13,"Smith, Hennie",Nedbank Running Club VT,RSA,1958,M,1728,M50,65,9.753,7:57:32
+1818,8:55:13,"Miya, Diphapang",Bethlehem Marathon Club,RSA,1974,M,1728,M23,730,9.753,8:53:40
+1819,8:55:14,"Hofer, Patrick",Rand AC,RSA,1966,M,1730,M40,316,9.753,8:30:53
+1820,8:55:15,"Mashinini, Ngwebende",Howick Athletic Club,RSA,1973,M,1731,M23,731,9.752,8:53:42
+1821,8:55:18,"Zitha, Mininghere Cosnath",Boksburg AC,RSA,1961,M,1732,M45,154,9.752,8:10:08
+1822,8:55:19,"Turnbull, Glenn",Australia,AUS,1957,M,1733,M50,66,9.751,7:57:37
+1823,8:55:20,"Moselakgomo, Piet",Mazda Athletics Club,RSA,1970,M,1734,M35,427,9.751,8:48:23
+1824,8:55:22,"Toohey, Graeme",Collegians Harriers,RSA,1964,M,1735,M40,317,9.75,8:26:50
+1825,8:55:23,"Labuschagne, Peet",Boksburg AC,RSA,1961,M,1736,M45,155,9.75,8:14:23
+1826,8:55:25,"Davis, Jay",Nedbank Running Club GN,RSA,1979,M,1737,M23,732,9.749,8:55:25
+1827,8:55:26,"Timmis, Colin",Durbanville Athletic Club,RSA,1976,M,1738,M23,733,9.749,8:55:20
+1828,8:55:30,"Gema, Reuben",Ixopo Athletic Club,RSA,1953,M,1739,M55,19,9.748,7:36:57
+1829,8:55:33,"Kok, Basil",Bluff AC,RSA,1960,M,1740,M45,156,9.747,8:06:11
+1830,8:55:34,"Gumede, Amos",Mercury Athletic Club,RSA,1962,M,1741,M45,157,9.747,8:18:40
+1831,8:55:36,"Hlela, Nthokozisi Matthews",Breakthru Midrand Stri...,RSA,1976,M,1742,M23,734,9.746,8:55:30
+1832,8:55:38,"Mthembu, Thulani",Verulam AC,RSA,1973,M,1743,M23,735,9.745,8:54:05
+1833,8:55:41,"Roos, Johan",SA Police Gauteng AC CG,RSA,1962,M,1744,M45,158,9.745,8:18:47
+1834,8:55:43,"Kwakwa, Masera Peter",121 Athletic Club,RSA,1978,M,1745,M23,736,9.744,8:55:43
+1835,8:55:48,"Rajoo, Curtis",Run For Fun AC,RSA,1972,M,1746,M35,428,9.742,8:52:52
+1836,8:55:50,"Segatswi, Walter",Celtic Harriers Club,RSA,1954,M,1747,M50,67,9.742,7:41:25
+1837,8:55:52,"Mkhize, Witness",KwaMashu Athletic Club,RSA,1955,M,1748,M50,68,9.741,7:49:48
+1838,8:55:53,"Ramavhale, Livhuwani Victor",Faranani Athletic Club,RSA,1977,M,1749,M23,737,9.741,8:55:53
+1839,8:55:56,"Shangase, Johannes",Umvoti Athletic Club,RSA,1977,M,1750,M23,738,9.74,8:55:56
+1840,8:55:56,"Pakane, Sam Makase",Ebony Athletic Club,RSA,1971,M,1750,M35,429,9.74,8:48:58
+1841,8:55:58,"Hlengwa, Moses",Toyota AC (CG),RSA,1966,M,1752,M40,318,9.739,8:35:46
+1842,8:55:58,"Mzobe, David",Tongaat Panthers Athle...,RSA,1978,M,1752,M23,739,9.739,8:55:58
+1843,8:56:00,"Bester, Barry",Durbanville Athletic Club,RSA,1951,M,1754,M55,20,9.739,7:33:15
+1844,8:56:00,"van Westendorp, Robin",Rand Road Warriors,RSA,1967,M,1754,M40,319,9.739,8:35:48
+1845,8:56:00,"Tshotini, Sipho Effes",Willie Mtolo Athletic ...,RSA,1975,M,1754,M23,740,9.739,8:55:54
+1846,8:56:01,"Gray, Sarah",Collegians Harriers,RSA,1983,F,90,W23,33,9.739,8:56:01
+1847,8:56:03,"Ziqubu, Sello Benjamin",SA Police Gauteng AC CG,RSA,1961,M,1757,M45,159,9.738,8:10:49
+1848,8:56:04,"Molaolwa, Abueng Abram",Kimberly Military Athl...,RSA,1971,M,1758,M35,430,9.738,8:49:06
+1849,8:56:06,"Gordon, Grant",Collegians Harriers,RSA,1972,M,1759,M35,431,9.737,8:51:20
+1850,8:56:07,"Mvelase, Sifiso",Emnambithi Striders,RSA,1969,M,1760,M35,432,9.737,8:43:22
+1851,8:56:09,"Chorgnon, Ludovic",France,FRA,1971,M,1761,M35,433,9.736,8:51:23
+1852,8:56:11,"Mogotsi, Zacharia",Boksburg AC,RSA,1962,M,1762,M45,160,9.735,8:19:15
+1853,8:56:13,"Weinel, Caroline",Durbanville Athletic Club,GBR,1958,F,91,W50,4,9.735,7:55:44
+1854,8:56:14,"Khumalo, Emmanuel Nkosinathi",Verulam Checkout Falco...,RSA,1978,M,1763,M23,741,9.735,8:56:14
+1855,8:56:15,"Mkolo, Joseph",Carnival City Runners,RSA,1967,M,1764,M40,320,9.734,8:36:03
+1856,8:56:18,"Hofmeyr, Francois",Celtic Harriers Club,RSA,1942,M,1765,M65,1,9.733,6:55:55
+1857,8:56:19,"Fischer, Robert",Florida Lake Canoe Club,RSA,1958,M,1766,M45,161,9.733,8:02:42
+1858,8:56:19,"Rathbone, Mark",Magnolia Road Runners,RSA,1972,M,1766,M35,434,9.733,8:53:23
+1859,8:56:20,"van Rooyen, Colleen",University of Johannes...,RSA,1962,F,92,W45,16,9.733,8:23:54
+1860,8:56:23,"Ndovela, Patrick",Rand Water AC - CG,RSA,1963,M,1768,M40,321,9.732,8:23:37
+1861,8:56:24,"January, Zweledinga",Pretoria Millitary Mar...,RSA,1970,M,1769,M35,435,9.732,8:49:26
+1862,8:56:25,"Ndzhukula, William",Exxaro Athletic Club GN,RSA,1986,M,1770,MU23,21,9.731,8:56:25
+1863,8:56:25,"Mhlongo, Mnelisi",Benoni Harriers,RSA,1980,M,1770,M23,742,9.731,8:56:25
+1864,8:56:26,"Hinchliffe, Gina",Stella Athletic Club,RSA,1966,F,93,W40,12,9.731,8:40:27
+1865,8:56:26,"Mann, Garry",Stella Athletic Club,RSA,1959,M,1772,M45,162,9.731,8:02:48
+1866,8:56:27,"Duka, Zihlalele",Randburg Harriers,RSA,1965,M,1773,M40,322,9.731,8:27:52
+1867,8:56:27,"Ngubane, Aaron",Run Walk for Life KZN,RSA,1967,M,1773,M40,322,9.731,8:40:09
+1868,8:56:28,"Nanne, Francis",Switzerland,SUI,1967,M,1775,M40,324,9.73,8:36:15
+1869,8:56:28,"Mthembu, Sbongiseni",Willie Mtolo Athletic ...,RSA,1982,M,1775,M23,743,9.73,8:56:28
+1870,8:56:29,"Jibiliza, Patrick",Charlo Athletic Club,RSA,1978,M,1777,M23,744,9.73,8:56:29
+1871,8:56:30,"Ngidi, Nkosinathi",Pinetown & District AC,RSA,1976,M,1778,M23,745,9.73,8:56:30
+1872,8:56:34,"Walaza, Archibald",Discovery Vitality Ath...,RSA,1969,M,1779,M35,436,9.729,8:46:55
+1873,8:56:35,"Ngubane, Oscar",SANDF AC - KZN,RSA,1985,M,1780,MU23,22,9.728,8:56:35
+1874,8:56:39,"van der Westhuizen, Wietsche",Bellville AC,RSA,1957,M,1781,M50,69,9.727,7:58:48
+1875,8:56:39,"Lowe, Kim",Westville Athletic Club,RSA,1972,F,94,W35,28,9.727,8:53:10
+1876,8:56:40,"Mohitlhi, Gaolatlhe",Galeshewe Striders,RSA,1956,M,1782,M50,70,9.727,7:50:30
+1877,8:56:44,"Mhlongo, Phillip David",Willie Mtolo Athletic ...,RSA,1978,M,1783,M23,746,9.725,8:56:44
+1878,8:56:45,"Kleynhans, Jan Hendrik",Buffalo Road Runners,RSA,1958,M,1784,M50,71,9.725,7:58:54
+1879,8:56:45,"dos Santos, Moses",University of Cape Tow...,RSA,1984,M,1784,M23,747,9.725,8:56:45
+1880,8:56:46,"Khosa, David",Randburg Harriers,RSA,1962,M,1786,M45,163,9.725,8:15:40
+1881,8:56:47,"Nkosi, James",KZN Striders Athletic ...,RSA,1965,M,1787,M40,325,9.725,8:28:11
+1882,8:56:50,"Mosenyi, Isaac",SAPS AC - Pietermaritz...,RSA,1961,M,1788,M45,164,9.724,8:11:32
+1883,8:56:51,"Nkalai, Sello Gison",SANDF AC - FS,RSA,1975,M,1789,M23,748,9.723,8:56:45
+1884,8:56:52,"Mnguni, Sabelo",uMhlathuze Athletic Club,RSA,1977,M,1790,M23,749,9.723,8:56:52
+1885,8:56:53,"Moodley, Shunmugam",Tongaat Panthers Athle...,RSA,1964,M,1791,M40,326,9.723,8:28:17
+1886,8:56:55,"Watson, Valerie Jane",New Balance AC GN,RSA,1955,F,95,W50,5,9.722,7:44:30
+1887,8:56:56,"Boshoff, Toni",Correc.Services AC - KZN,RSA,1968,M,1792,M35,437,9.722,8:44:10
+1888,8:56:56,"Serutla, Sabata",Transwerk AC GN,RSA,1978,M,1792,M23,750,9.722,8:56:56
+1889,8:56:56,"Zulu, Amos",Raiders Athletic Club,RSA,1968,M,1792,M40,327,9.722,8:40:37
+1890,8:56:59,"Mbatha, Vusimuzi",uMhlathuze Athletic Club,RSA,1978,M,1795,M23,751,9.721,8:56:59
+1891,8:57:06,"Wernich, Riana",Durbanville Athletic Club,RSA,1965,F,96,W40,13,9.719,8:37:30
+1892,8:57:06,"Miller, Andrew",Jeppe Quondam Athletic...,RSA,1977,M,1796,M23,752,9.719,8:57:06
+1893,8:57:08,"Lebelo, Elias",Transwerk AC GN,RSA,1970,M,1797,M35,438,9.718,8:47:28
+1894,8:57:08,"Magasha, More Thomas",Spoornet AC - CG,RSA,1957,M,1797,M50,72,9.718,7:59:14
+1895,8:57:16,"Niedinger, Hein",Bluff AC,RSA,1971,M,1799,M35,439,9.716,8:50:17
+1896,8:57:17,"van Rooyen, Frans",Medihelp Athletics Club,RSA,1977,M,1800,M23,753,9.716,8:57:17
+1897,8:57:18,"Sassin, Patrick",Plett Athletic Club,RSA,1973,M,1801,M23,754,9.715,8:55:45
+1898,8:57:23,"Nawule, Zandisile",Nedbank Running Club E...,RSA,1967,M,1802,M40,328,9.714,8:37:08
+1899,8:57:24,"Porter, Benjy",Rocky Road Runners,RSA,1973,M,1803,M23,755,9.713,8:55:51
+1900,8:57:24,"Perel, Ryan",Rocky Road Runners,RSA,1977,M,1803,M23,755,9.713,8:57:24
+1901,8:57:25,"Boshoff, George",Sasolburg AC - FS,RSA,1969,M,1805,M35,440,9.713,8:47:45
+1902,8:57:25,"Thornton, Steven",Durban High School Old...,RSA,1967,M,1805,M40,329,9.713,8:41:05
+1903,8:57:27,"Ngobeni, Lawrence",Nelspruit Marathon Club,RSA,1966,M,1807,M40,330,9.713,8:37:12
+1904,8:57:28,"Moremi, Ntlofu",Madibeng Athletic Club,RSA,1977,M,1808,M23,757,9.712,8:57:28
+1905,8:57:28,"Mthembu, Sihle Mxolisi",Collegians Harriers,RSA,1982,M,1808,M23,757,9.712,8:57:28
+1906,8:57:31,"Mapela, Wilson",Rand AC,RSA,1952,M,1810,M55,21,9.711,7:38:40
+1907,8:57:33,"Magwaza, Bongani",uMhlathuze Athletic Club,RSA,1979,M,1811,M23,759,9.711,8:57:33
+1908,8:57:34,"Mlambo, Thulani",Thembalethu AC,RSA,1967,M,1812,M40,331,9.71,8:37:19
+1909,8:57:34,"Mashilo, Noko",Germiston Callies Harr...,RSA,1975,M,1812,M23,760,9.71,8:57:28
+1910,8:57:37,"Oliver, Derrick",Krugersdorp Road Runners,RSA,1958,M,1814,M45,165,9.71,8:03:52
+1911,8:57:38,"Olivier, Lorinde",Strand Athletic Club,RSA,1965,F,97,W40,14,9.709,8:34:06
+1912,8:57:38,"Nkosi, Petrus",Enduro Club,RSA,1969,M,1815,M35,441,9.709,8:47:58
+1913,8:57:39,"Mkhabela, Dick",SANDF AC - CG,RSA,1972,M,1816,M35,442,9.709,8:54:42
+1914,8:57:40,"Mokoena, Joseph",Middelburg Marathon Club,RSA,1960,M,1817,M45,166,9.709,8:12:18
+1915,8:57:40,"Cele, Samson Sbonelo",Mr Price Running Club ...,RSA,1978,M,1817,M23,761,9.709,8:57:40
+1916,8:57:42,"Motloung, Tseko",Rand Water AC - CG,RSA,1978,M,1819,M23,762,9.708,8:57:42
+1917,8:57:43,"Spies, Andre",Newcastle Harriers Club,RSA,1958,M,1820,M45,167,9.708,8:03:57
+1918,8:57:43,"Harmsworth, Annie",Stella Athletic Club,RSA,1957,F,98,W50,6,9.708,7:51:06
+1919,8:57:44,"Dennill, Tamereen",Westville Athletic Club,RSA,1966,F,99,W40,15,9.707,8:38:07
+1920,8:57:45,"Sikhakhane, Mandla",uMhlathuze Athletic Club,RSA,1983,M,1821,M23,763,9.707,8:57:45
+1921,8:57:46,"Motlana, Levance",Potgietersrus AC,RSA,1961,M,1822,M45,168,9.707,8:12:23
+1922,8:57:46,"Pretorius, Riebert",Ofcolaco Harriers,RSA,1972,M,1822,M35,443,9.707,8:54:49
+1923,8:57:46,"Mudau, Ignatius",Germiston Callies Harr...,RSA,1968,M,1822,M40,332,9.707,8:41:26
+1924,8:57:47,"Gumbi, Collen",Varsity Kudus AC,RSA,1982,M,1825,M23,764,9.707,8:57:47
+1925,8:57:47,"Berndsen, Grant",Varsity Kudus AC,RSA,1978,M,1825,M23,764,9.707,8:57:47
+1926,8:57:48,"Oliphant, Bobby",Nedbank Running Club SWD,RSA,1957,M,1827,M50,73,9.706,7:55:42
+1927,8:57:50,"Jacobs, Piet",Kimberly Military Athl...,RSA,1956,M,1828,M50,74,9.706,7:55:43
+1928,8:57:50,"Webster, Keith",Zimbabwe,GBR,1954,M,1828,M50,74,9.706,7:47:20
+1929,8:57:50,"Nxumalo, Erique",Pinetown & District AC,RSA,1969,M,1828,M35,444,9.706,8:48:10
+1930,8:57:50,"Zulu, Siyabonga",KZN Striders Athletic ...,RSA,1974,M,1828,M23,766,9.706,8:56:17
+1931,8:57:50,"Clark-Murphy, Joseph",Western Australia Mara...,AUS,1946,M,1828,M60,3,9.706,7:13:53
+1932,8:57:51,"Kokoana, Poho",Rand Water AC - CG,RSA,1963,M,1833,M45,169,9.705,8:20:48
+1933,8:57:52,"Hofmeyr, Retha",Pretoria Marathon Club,RSA,1970,F,100,W35,29,9.705,8:50:27
+1934,8:57:53,"Geel, Colin Francis",Richards Bay AC,RSA,1965,M,1834,M40,333,9.705,8:29:13
+1935,8:57:53,"Magopa, Dolphas",Eersterust Athletics Club,RSA,1972,M,1834,M35,445,9.705,8:53:06
+1936,8:57:55,"Ngcobo, Nkanyiso",Chatsworth Athletic Club,RSA,1956,M,1836,M50,76,9.704,7:55:48
+1937,8:57:55,"Kempen, Claus",Arcelor Mittal AC - VT,RSA,1984,M,1836,M23,767,9.704,8:57:55
+1938,8:57:55,"Kempen, Abe",Arcelor Mittal AC - VT,RSA,1977,M,1836,M23,767,9.704,8:57:55
+1939,8:58:00,"Nakeli, Thabo",Mafika Athletic Club,RSA,1976,M,1839,M23,769,9.703,8:57:54
+1940,8:58:04,"Khumalo, Solomon",Carlton Athletic Club,RSA,1965,M,1840,M40,334,9.701,8:33:36
+1941,8:58:05,"Bruintjies, John",Worcester Athletic Club,RSA,1964,M,1841,M40,335,9.701,8:29:25
+1942,8:58:06,"Matake, Matake",Berts Bricks Athletic ...,RSA,1972,M,1842,M35,446,9.701,8:53:19
+1943,8:58:08,"Hofig, Marcos",Brazil,BRA,1964,M,1843,M40,336,9.7,8:29:28
+1944,8:58:11,"Campbell, Ronnie",Durbanville Athletic Club,RSA,1967,M,1844,M40,337,9.699,8:37:54
+1945,8:58:15,"Nyembe, Velaphi",Gauteng Striders,RSA,1965,M,1845,M40,338,9.698,8:33:46
+1946,8:58:16,"Rabe, Rudi",Hartbespoort Marathon ...,RSA,1963,M,1846,M40,339,9.698,8:25:23
+1947,8:58:19,"Madutiela, Mafidi",Twickenham Mine Athlet...,RSA,1980,M,1847,M23,770,9.697,8:58:19
+1948,8:58:20,"Ntsele, Joseph",Queensburgh Harriers,RSA,1960,M,1848,M45,170,9.697,8:12:54
+1949,8:58:25,"Mdletshe, Shadrack Gweje",SANDF AC - KZN,RSA,1970,M,1849,M35,447,9.695,8:51:26
+1950,8:58:26,"Msibi, Derrick",Durbanville Athletic Club,RSA,1969,M,1850,M35,448,9.695,8:48:45
+1951,8:58:30,"Dlamini, Nelisiwe Christiane",Hillcrest Villagers AC,RSA,1963,F,101,W40,16,9.694,8:30:37
+1952,8:58:30,"Briscoe, Sarah",Durban High School Old...,RSA,1977,F,101,W23,34,9.694,8:58:30
+1953,8:58:31,"da Camara, Johnny",Maritimo Marathon Club,RSA,1971,M,1851,M35,449,9.693,8:53:44
+1954,8:58:33,"Maphoru, Mabu",Twickenham Mine Athlet...,RSA,1981,M,1852,M23,771,9.693,8:58:33
+1955,8:58:36,"Ngongoma, Nduna",Pinetown & District AC,RSA,1975,M,1853,M23,772,9.692,8:58:30
+1956,8:58:36,"Hlela, Innocent",Howick Athletic Club,RSA,1982,M,1853,M23,772,9.692,8:58:36
+1957,8:58:37,"Malwandla, Nghenani Joel",Giyani Gallopers,RSA,1957,M,1855,M50,77,9.691,8:00:34
+1958,8:58:38,"Hudson, Angus Basil",Morningside Country Club,RSA,1955,M,1856,M50,78,9.691,7:52:14
+1959,8:58:40,"de Reuck, Robert",Eskom Gijimas - MPL,RSA,1957,M,1857,M50,79,9.691,7:56:28
+1960,8:58:40,"Madlakamela, Bongani",Carlton Harriers,RSA,1974,M,1857,M23,774,9.691,8:58:02
+1961,8:58:41,"Makhaya, Eric",Rand Water AC - CG,RSA,1952,M,1859,M55,22,9.69,7:39:40
+1962,8:58:42,"McCarroll, Rodger",Run Walk for Life KZN,RSA,1950,M,1860,M55,23,9.69,7:31:20
+1963,8:58:49,"Siamisang, Batlhalefi Justice",Impala Marathon Club,RSA,1970,M,1861,M35,450,9.688,8:49:08
+1964,8:58:52,"Nkabini, Anthony Khadu",Biggarsberg AC,RSA,1966,M,1862,M40,340,9.687,8:38:34
+1965,8:58:53,"Brunold, Andrea",Switzerland,SUI,1958,M,1863,M45,171,9.687,8:05:00
+1966,8:58:56,"Matete, Seth",Toyota AC (CG),LES,1964,M,1864,M40,341,9.686,8:26:01
+1967,8:58:58,"van Niekerk, Jeffrey",Charlo Athletic Club,RSA,1973,M,1865,M35,451,9.685,8:56:01
+1968,8:59:01,"Morena, Sky Lucas",New Balance AC GN,RSA,1955,M,1866,M50,80,9.684,7:52:34
+1969,8:59:01,"Manhique, Mfanafuthi",Shakaland AC,RSA,1980,M,1866,M23,775,9.684,8:59:01
+1970,8:59:03,"Mabena, Jacob",Raiders Athletic Club,RSA,1968,M,1868,M35,452,9.684,8:46:14
+1971,8:59:04,"Moima, Josaya Ntjotjo",Ndlovu Road Runners,RSA,1974,M,1869,M23,776,9.683,8:57:31
+1972,8:59:04,"Kotze, Dean",Brotherhood Athletic Club,RSA,1983,M,1869,M23,776,9.683,8:59:04
+1973,8:59:07,"Muller, Richard",Topforms AC,RSA,1964,M,1871,M40,342,9.683,8:30:23
+1974,8:59:07,"Ziqubu, Sbongile",Run Walk for Life KZN,RSA,1972,F,103,W35,30,9.683,8:57:01
+1975,8:59:21,"Te Groen, Peter",United States,USA,1954,M,1872,M50,81,9.678,7:48:39
+1976,8:59:23,"Koekemoer, Gert",Tuks Marathon Club,RSA,1984,M,1873,M23,778,9.678,8:59:23
+1977,8:59:24,"Dinga, Sipho",Pinetown & District AC,RSA,1973,M,1874,M23,779,9.677,8:57:51
+1978,8:59:26,"Kgatle, Maropeng",Alexandra Beaters AC,RSA,1965,M,1875,M40,343,9.677,8:34:54
+1979,8:59:27,"Ngwadla, Mavela",Ubunye Athletic Club,RSA,1956,M,1876,M50,82,9.677,7:52:57
+1980,8:59:27,"Phungula, Albert",Collegians Harriers,RSA,1979,M,1876,M23,780,9.677,8:59:27
+1981,8:59:29,"Maleka, Mabotje John",Rustenburg Marathon Club,RSA,1975,M,1878,M23,781,9.676,8:58:51
+1982,8:59:30,"Seleko, Boitumelo Joseph",Mamusa Athletic Club,RSA,1977,M,1879,M23,782,9.676,8:59:30
+1983,8:59:33,"Gwala, Mboniseni",Eskom Gijimas - KZN,RSA,1981,M,1880,M23,783,9.675,8:59:33
+1984,8:59:45,"Stewart, Paul",Savages AC,RSA,1966,M,1881,M40,344,9.671,8:39:25
+1985,8:59:53,"Steenkamp, Gerrie",Mtunzini Athletic Club,RSA,1963,M,1882,M45,172,9.669,8:22:42
+1986,8:59:54,"Mosue, Lot Gedeoni",Carlton Athletic Club,RSA,1972,M,1883,M35,453,9.668,8:56:56
+1987,8:59:54,"Bazzo, Sergio",Randburg Harriers,RSA,1968,M,1883,M40,345,9.668,8:43:30
+1988,8:59:56,"Wilson, Ursula",KZN Striders Athletic ...,RSA,1972,F,104,W35,31,9.668,8:56:26
+1989,9:00:00,"Shange, Welcome",Stella Athletic Club,RSA,1961,M,1885,M45,173,9.667,8:18:39
+1990,9:00:04,"Sithole, Xolani",Hillcrest Villagers AC,RSA,1973,M,1886,M23,784,9.665,8:58:31
+1991,9:00:10,"Dunn, Steven",United States,USA,1955,M,1887,M50,83,9.664,7:49:22
+1992,9:00:18,"Sibanda, Mloyiswa",Diepsloot Athletic Club,RSA,1971,M,1888,M35,454,9.661,8:53:17
+1993,9:00:30,"Mhlongo, Mluza",Mr Price AC MPL,RSA,1978,M,1889,M23,785,9.658,9:00:30
+1994,9:00:32,"Mpolweni, Nkosana",Real Gijimas,RSA,1963,M,1890,M45,174,9.657,8:23:18
+1995,9:00:33,"Thabang, Petrus",Mr Price AC MPL,RSA,1987,M,1891,MU23,23,9.657,9:00:33
+1996,9:00:44,"Saayman, Eben",Randburg Harriers,RSA,1965,M,1892,M40,346,9.654,8:36:08
+1997,9:00:46,"Jacobs, Anita",Eskom Gijimas - KZN,RSA,1967,F,105,W40,17,9.653,8:47:54
+1998,9:00:46,"Mhlabane, Thembinkosi",KwaMashu Athletic Club,RSA,1975,M,1893,M23,786,9.653,9:00:40
+1999,9:00:49,"Kockott, Alan",Saints AC KZN,RSA,1960,M,1894,M45,175,9.652,8:15:11
+2000,9:00:53,"Charles, Ivan",Newlands Athletic Club,RSA,1958,M,1895,M45,176,9.651,8:06:48

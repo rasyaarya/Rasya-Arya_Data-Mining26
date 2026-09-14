@@ -48,6 +48,17 @@ venv.bak/
 .env
 .env.local
 .env.*.local
+*.pem
+*.key
+*.cert
+*.pfx
+credentials.json
+token.json
+client_secret*.json
+
+# Logs and runtime artifacts
+*.log
+*.sqlite3
 
 # Operating System files
 .DS_Store
