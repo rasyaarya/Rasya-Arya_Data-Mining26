@@ -64,3 +64,12 @@ client_secret*.json
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Dataset praktikum (ukuran > 100 MB, melebihi batas GitHub)
+creditcard.csv
+tugas-ensemble/creditcard.csv
+*.csv.gz
+
+# Artefak preview laporan
+_preview/
+
