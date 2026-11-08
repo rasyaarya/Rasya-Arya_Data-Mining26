@@ -70,6 +70,10 @@ creditcard.csv
 tugas-ensemble/creditcard.csv
 *.csv.gz
 
+# Dataset Online Retail (praktikum 4 & 5)
+Online Retail.xlsx
+tugas-*/Online Retail.xlsx
+
 # Artefak preview laporan
 _preview/
 
